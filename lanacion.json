@@ -8,16 +8,17 @@
   },
   {
     "n": 2,
-    "id": 2630863,
-    "title": "Análisis. El Presidente eligió el ministro para la confrontación",
-    "url": "https://www.lanacion.com.ar/politica/alberto-fernandez-eligio-el-ministro-de-la-confrontacion-nid16032021/"
-  },
-  {
-    "n": 3,
     "id": 2624750,
     "title": "Perfil. Martín Soria, el reemplazante de Losardo",
     "url": "https://www.lanacion.com.ar/politica/quien-es-martin-soria-el-diputado-que-se-perfila-para-reemplazar-a-marcela-losardo-en-justicia-nid09032021/",
     "image": "https://bucket1.glanacion.com/anexos/fotos/44/3654744.jpg"
+  },
+  {
+    "n": 3,
+    "id": 2630908,
+    "title": "Exclusivo. El \"abordaje integral\" que propone Guzmán para atacar la inflación",
+    "url": "https://www.lanacion.com.ar/economia/el-abordaje-integral-que-propone-martin-guzman-para-atacar-la-inflacion-nid16032021/",
+    "image": "https://bucket1.glanacion.com/anexos/fotos/34/3664734.jpg"
   },
   {
     "n": 4,
@@ -35,10 +36,9 @@
   },
   {
     "n": 6,
-    "id": 2630908,
-    "title": "Exclusivo. El \"abordaje integral\" que propone Guzmán para atacar la inflación",
-    "url": "https://www.lanacion.com.ar/economia/el-abordaje-integral-que-propone-martin-guzman-para-atacar-la-inflacion-nid16032021/",
-    "image": "https://bucket1.glanacion.com/anexos/fotos/34/3664734.jpg"
+    "id": 2630863,
+    "title": "Análisis. El Presidente eligió el ministro para la confrontación",
+    "url": "https://www.lanacion.com.ar/politica/alberto-fernandez-eligio-el-ministro-de-la-confrontacion-nid16032021/"
   },
   {
     "n": 7,
@@ -402,16 +402,16 @@
   {
     "n": 59,
     "id": 2630737,
-    "title": "Salud. Coronavirus: Marcelo Araujo internado tras un accidente doméstico",
+    "title": "Salud. Coronavirus: Marcelo Araujo, internado tras un accidente doméstico",
     "url": "https://www.lanacion.com.ar/espectaculos/personajes/coronavirus-marcelo-araujo-internado-tras-un-accidente-domestico-nid15032021/",
     "image": "https://bucket1.glanacion.com/anexos/fotos/26/3664426.jpg"
   },
   {
     "n": 60,
-    "id": 2630830,
-    "title": "Bebe Contepomi. Nuevo director musical de La Mega; los cambios que se avecinan",
-    "url": "https://www.lanacion.com.ar/espectaculos/musica/bebe-contepomi-nuevo-director-musical-de-radio-mega-los-cambios-que-se-avecinan-nid15032021/",
-    "image": "https://bucket1.glanacion.com/anexos/fotos/46/3664646.jpg"
+    "id": 2630950,
+    "title": "Vuelve Tinelli. Pachu Peña es el nuevo confirmado para La Academia",
+    "url": "https://www.lanacion.com.ar/espectaculos/television/pachu-pena-es-el-nuevo-confirmado-para-la-academia-nid16032021/",
+    "image": "https://bucket1.glanacion.com/anexos/fotos/80/3664780.jpg"
   },
   {
     "n": 61,
