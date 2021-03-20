@@ -79,7 +79,7 @@
   {
     "n": 12,
     "id": "https://www.infobae.com/deportes/2021/03/19/el-debut-de-burgos-en-newells-ante-union-y-el-choque-central-cordoba-estudiantes-hora-tv-y-formaciones/",
-    "title": "Newell’s recibe a Unión con el debut del Mono Burgos como entrenador",
+    "title": "Newell’s empata con Unión en el debut del Mono Burgos como entrenador",
     "url": "https://www.infobae.com/deportes/2021/03/19/el-debut-de-burgos-en-newells-ante-union-y-el-choque-central-cordoba-estudiantes-hora-tv-y-formaciones/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/6LM6N6VVTVBKDGBKJOXY6DQJCQ.jpg"
   },
@@ -142,7 +142,7 @@
   {
     "n": 21,
     "id": "https://www.infobae.com/sociedad/policiales/2021/03/19/pidieron-15-anos-de-prision-para-el-periodista-eugenio-veppo-por-atropellar-y-matar-a-una-agente-de-transito/",
-    "title": "Un fiscal pidió 5 años y 10 meses de cárcel para Veppo por “homicidio culposo” y la familia de la víctima lo repudió ",
+    "title": "Caso Veppo: el fiscal cambió la carátula, pidió una pena menor y hubo fuertes críticas de la familia de la víctima ",
     "url": "https://www.infobae.com/sociedad/policiales/2021/03/19/pidieron-15-anos-de-prision-para-el-periodista-eugenio-veppo-por-atropellar-y-matar-a-una-agente-de-transito/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/KBJLUTZ235AM7LC4QUEOE5BX74.JPG"
   },
@@ -526,17 +526,17 @@
   },
   {
     "n": 76,
-    "id": "https://www.infobae.com/america/entretenimiento/2021/01/02/abandonada-en-ruinas-y-lejos-de-su-esplendor-asi-esta-la-casa-de-luis-miguel-en-acapulco/",
-    "title": "Abandonada, en ruinas y lejos de su esplendor: así está la casa de Luis Miguel en Acapulco",
-    "url": "https://www.infobae.com/america/entretenimiento/2021/01/02/abandonada-en-ruinas-y-lejos-de-su-esplendor-asi-esta-la-casa-de-luis-miguel-en-acapulco/",
-    "image": "/new-resizer/KL1FEVq6tDNruiH7IJKOFgk06O0=/300x0/arc-anglerfish-arc2-prod-infobae/public/XJY5X5S3HZA7TGJSHUMIRWLCX4.jpg"
-  },
-  {
-    "n": 77,
     "id": "https://www.infobae.com/sociedad/policiales/2021/03/19/el-insolito-local-de-puerto-madero-donde-vendian-ropa-trucha-de-marcas-de-lujo-sus-clientes-eran-futbolistas-famosos/",
     "title": "Desbarataron un local de Puerto Madero que vendía ropa trucha de marcas de lujo a futbolistas famosos",
     "url": "https://www.infobae.com/sociedad/policiales/2021/03/19/el-insolito-local-de-puerto-madero-donde-vendian-ropa-trucha-de-marcas-de-lujo-sus-clientes-eran-futbolistas-famosos/",
     "image": "/new-resizer/fQzOlN0RzhR6ANxP3q0xlf5_6Wk=/300x0/arc-anglerfish-arc2-prod-infobae/public/KU472HXXIZAH5HPCW6DCSAMBIY.jpg"
+  },
+  {
+    "n": 77,
+    "id": "https://www.infobae.com/america/entretenimiento/2021/01/02/abandonada-en-ruinas-y-lejos-de-su-esplendor-asi-esta-la-casa-de-luis-miguel-en-acapulco/",
+    "title": "Abandonada, en ruinas y lejos de su esplendor: así está la casa de Luis Miguel en Acapulco",
+    "url": "https://www.infobae.com/america/entretenimiento/2021/01/02/abandonada-en-ruinas-y-lejos-de-su-esplendor-asi-esta-la-casa-de-luis-miguel-en-acapulco/",
+    "image": "/new-resizer/KL1FEVq6tDNruiH7IJKOFgk06O0=/300x0/arc-anglerfish-arc2-prod-infobae/public/XJY5X5S3HZA7TGJSHUMIRWLCX4.jpg"
   },
   {
     "n": 78,
@@ -603,73 +603,73 @@
   },
   {
     "n": 87,
+    "id": "https://www.infobae.com/america/tendencias-america/2021/03/19/por-que-es-normal-que-nos-duela-el-brazo-despues-de-ser-vacunados/",
+    "title": "Por qué es normal que nos duela el brazo después de ser vacunados",
+    "url": "https://www.infobae.com/america/tendencias-america/2021/03/19/por-que-es-normal-que-nos-duela-el-brazo-despues-de-ser-vacunados/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/EIOL54JU5VH7VMHKSOVNBRK5TM.jpg"
+  },
+  {
+    "n": 88,
     "id": "https://www.infobae.com/america/mundo/2021/03/19/concluyo-la-primera-reunion-entre-el-gobierno-de-joe-biden-y-china-ambas-partes-reconocieron-un-dialogo-duro-pero-constructivo/",
     "title": "Concluyó la primera reunión entre el gobierno de Joe Biden y China: ambas partes reconocieron un diálogo “duro” pero “constructivo”",
     "url": "https://www.infobae.com/america/mundo/2021/03/19/concluyo-la-primera-reunion-entre-el-gobierno-de-joe-biden-y-china-ambas-partes-reconocieron-un-dialogo-duro-pero-constructivo/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/HMCTCYLKJTM2XDXCBQIOLYZANA.jpg"
   },
   {
-    "n": 88,
+    "n": 89,
     "id": "https://www.infobae.com/america/mexico/2021/03/19/mi-beca-para-empezar-el-20-de-marzo-es-el-ultimo-dia-para-recoger-el-apoyo/",
     "title": "Mi Beca para Empezar: el 20 de marzo es el último día para recoger el apoyo ",
     "url": "https://www.infobae.com/america/mexico/2021/03/19/mi-beca-para-empezar-el-20-de-marzo-es-el-ultimo-dia-para-recoger-el-apoyo/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/FQHVT2ABGZC6HC5XYZPEYLYIAQ.jpg"
   },
   {
-    "n": 89,
+    "n": 90,
     "id": "https://www.infobae.com/america/eeuu/2021/03/19/otra-asesora-de-andrew-cuomo-se-sumo-a-las-acusaciones-de-acoso-sexual-en-su-contra/",
     "title": "Otra asesora de Andrew Cuomo se sumó a las acusaciones de acoso sexual en su contra",
     "url": "https://www.infobae.com/america/eeuu/2021/03/19/otra-asesora-de-andrew-cuomo-se-sumo-a-las-acusaciones-de-acoso-sexual-en-su-contra/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/IF35JYVSH233QKUZHSCFKQROEQ.jpg"
   },
   {
-    "n": 90,
+    "n": 91,
     "id": "https://www.infobae.com/america/tecno/2021/03/19/como-saber-si-alguien-me-elimino-o-bloqueo-de-whatsapp/",
     "title": "Cómo saber si alguien me eliminó o bloqueó de WhatsApp",
     "url": "https://www.infobae.com/america/tecno/2021/03/19/como-saber-si-alguien-me-elimino-o-bloqueo-de-whatsapp/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/CRCALYQHBBBE5PV4E3B46EOLNI.jpg"
   },
   {
-    "n": 91,
-    "id": "https://www.infobae.com/america/mexico/2021/03/19/uso-obligatorio-de-cubrebocas-en-xochimilco-que-sanciones-habra-para-quien-no-adopte-la-medida/",
-    "title": "Uso obligatorio de cubrebocas en Xochimilco: qué sanciones habrá para quien no adopte la medida",
-    "url": "https://www.infobae.com/america/mexico/2021/03/19/uso-obligatorio-de-cubrebocas-en-xochimilco-que-sanciones-habra-para-quien-no-adopte-la-medida/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/JY44EG6XIYJNFLEUDMD5E62QUI.jpg"
+    "n": 92,
+    "id": "https://www.infobae.com/teleshow/infoshow/2021/03/19/musica-electronica-y-mucha-informacion-en-la-nueva-programacion-de-delta/",
+    "title": "Música electrónica y mucha información en la nueva programación de Delta",
+    "url": "https://www.infobae.com/teleshow/infoshow/2021/03/19/musica-electronica-y-mucha-informacion-en-la-nueva-programacion-de-delta/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/7ZHCWFQ4GJHB5ER5L2ZKH2ELDY.jpg"
   },
   {
-    "n": 92,
+    "n": 93,
     "id": "https://www.infobae.com/teleshow/infoshow/2021/03/19/natalia-oreiro-rechazo-un-proyecto-en-eeuu-para-evitar-mudar-a-su-hijo-y-conto-que-ser-eva-peron-es-el-mayor-desafio-de-su-carrera/",
     "title": "Natalia Oreiro rechazó un proyecto en EEUU para evitar mudar a su hijo y contó que ser Eva Perón es el mayor desafío de su carrera  ",
     "url": "https://www.infobae.com/teleshow/infoshow/2021/03/19/natalia-oreiro-rechazo-un-proyecto-en-eeuu-para-evitar-mudar-a-su-hijo-y-conto-que-ser-eva-peron-es-el-mayor-desafio-de-su-carrera/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/YCAMQYUM6RFQDHRLVJUYLFHBTY.jpg"
   },
   {
-    "n": 93,
+    "n": 94,
     "id": "https://www.infobae.com/america/entretenimiento/2021/03/19/fue-emboscada-alejandra-guzman-arremetio-contra-el-programa-que-la-enlazo-con-frida-sofia/",
     "title": "“Fue emboscada”: Alejandra Guzmán arremetió contra el programa que la enlazó con Frida Sofía",
     "url": "https://www.infobae.com/america/entretenimiento/2021/03/19/fue-emboscada-alejandra-guzman-arremetio-contra-el-programa-que-la-enlazo-con-frida-sofia/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/XP6YLHX6EBH77BDUDBLPY3RFZU.jpg"
   },
   {
-    "n": 94,
+    "n": 95,
     "id": "https://www.infobae.com/america/entretenimiento/2021/03/19/quien-es-el-nuevo-integrante-en-la-familia-de-la-choco-esto-conto-en-su-reaparicion-en-ventaneando/",
     "title": "Quién es el nuevo integrante en la familia de La Choco: esto contó en su reaparición en Ventaneando",
     "url": "https://www.infobae.com/america/entretenimiento/2021/03/19/quien-es-el-nuevo-integrante-en-la-familia-de-la-choco-esto-conto-en-su-reaparicion-en-ventaneando/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/2WW4MSL5DVBEVEK37MLLUBKXSU.jpg"
   },
   {
-    "n": 95,
+    "n": 96,
     "id": "https://www.infobae.com/teleshow/infoshow/2021/03/19/el-duro-cruce-y-pase-de-facturas-entre-yanina-latorre-y-andrea-taboada-eramos-amigas-y-ahora-no/",
     "title": "El duro cruce y pase de facturas entre Yanina Latorre y Andrea Taboada: “Éramos amigas y ahora no”",
     "url": "https://www.infobae.com/teleshow/infoshow/2021/03/19/el-duro-cruce-y-pase-de-facturas-entre-yanina-latorre-y-andrea-taboada-eramos-amigas-y-ahora-no/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/NXTQ7I5ZKZH7XIUDK5MQFGZ3TM.jpg"
-  },
-  {
-    "n": 96,
-    "id": "https://www.infobae.com/america/entretenimiento/2021/03/19/lo-veran-muy-pronto-que-dijo-roberto-tapia-sobre-la-salud-de-rafael-amaya/",
-    "title": "“Lo verán muy pronto”: qué dijo Roberto Tapia sobre la salud de Rafael Amaya",
-    "url": "https://www.infobae.com/america/entretenimiento/2021/03/19/lo-veran-muy-pronto-que-dijo-roberto-tapia-sobre-la-salud-de-rafael-amaya/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/X47CEM277ZB7JFCBTPQXRS3OMM.jpg"
   },
   {
     "n": 97,
