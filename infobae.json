@@ -114,7 +114,7 @@
   {
     "n": 17,
     "id": "https://www.infobae.com/economia/2021/03/21/quien-y-que-hace-es-el-argentino-que-consiguio-usd-58-millones-en-silicon-valley-y-quiere-llevarse-40-ingenieros-argentinos-a-eeuu/",
-    "title": "Quién es el argentino que consiguió USD 58 millones en Silicon Valley y quiere llevarse 40 ingenieros a EEUU",
+    "title": "Quién es el argentino que consiguió USD 58 millones en Silicon Valley y busca 40 ingenieros para trabajar con él",
     "url": "https://www.infobae.com/economia/2021/03/21/quien-y-que-hace-es-el-argentino-que-consiguio-usd-58-millones-en-silicon-valley-y-quiere-llevarse-40-ingenieros-argentinos-a-eeuu/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/3VPQKSJJWJCWZCEW7POYCYTSOY.jpg"
   },
@@ -191,7 +191,7 @@
   {
     "n": 28,
     "id": "https://www.infobae.com/politica/2021/03/21/dario-nieto-el-kirchnerismo-tiene-una-premisa-miente-miente-que-algo-quedara/",
-    "title": "Dario Nieto: “El kirchnerismo tiene una premisa: miente, miente que algo quedará”",
+    "title": "Dario Nieto: “El kirchnerismo tiene una premisa que es ‘miente, miente que algo quedará'”",
     "url": "https://www.infobae.com/politica/2021/03/21/dario-nieto-el-kirchnerismo-tiene-una-premisa-miente-miente-que-algo-quedara/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/GIX4L2SDKJFB3KITNGW6ILCU7Q.jpg"
   },
@@ -547,10 +547,10 @@
   },
   {
     "n": 79,
-    "id": "https://www.infobae.com/sociedad/2021/03/20/coronavirus-en-argentina-confirmaron-42-muertes-y-6826-nuevos-contagios-en-las-ultimas-24-horas/",
-    "title": "Coronavirus en Argentina: confirmaron 42 muertes y 6.826 nuevos contagios en las últimas 24 horas",
-    "url": "https://www.infobae.com/sociedad/2021/03/20/coronavirus-en-argentina-confirmaron-42-muertes-y-6826-nuevos-contagios-en-las-ultimas-24-horas/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/MZDAKLAVZZE3XHT2XJ5FFXRYEY.jpg"
+    "id": "https://www.infobae.com/america/ciencia-america/2021/03/21/por-que-es-una-temeridad-retrasar-las-vacunaciones-de-astrazeneca/",
+    "title": "Por qué es una temeridad retrasar las vacunaciones de AstraZeneca",
+    "url": "https://www.infobae.com/america/ciencia-america/2021/03/21/por-que-es-una-temeridad-retrasar-las-vacunaciones-de-astrazeneca/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/TT6NWUBX3EOLOP7AU42GOK7XRQ.jpg"
   },
   {
     "n": 80,
@@ -589,10 +589,10 @@
   },
   {
     "n": 85,
-    "id": "https://www.infobae.com/america/deportes/2021/03/20/insolito-ko-en-una-pelea-en-gran-bretana-una-decision-del-arbitro-dejo-indefenso-a-uno-de-los-boxeadores/",
-    "title": "Insólito KO en una pelea en Reino Unido: una decisión del árbitro dejó indefenso a uno de los boxeadores",
-    "url": "https://www.infobae.com/america/deportes/2021/03/20/insolito-ko-en-una-pelea-en-gran-bretana-una-decision-del-arbitro-dejo-indefenso-a-uno-de-los-boxeadores/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/T5ASJNOAJBHFHAGPVROFOGJIJ4.jpg"
+    "id": "https://www.infobae.com/deportes/2021/03/21/racing-restituira-su-condicion-de-socios-a-desaparecidos-por-la-ultima-dictadura-militar/",
+    "title": "Racing restituirá su condición de socios a desaparecidos por la última dictadura militar",
+    "url": "https://www.infobae.com/deportes/2021/03/21/racing-restituira-su-condicion-de-socios-a-desaparecidos-por-la-ultima-dictadura-militar/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/JEOVJ7RPHVHUDO25H6CIRU5KJE.JPG"
   },
   {
     "n": 86,
@@ -806,38 +806,38 @@
   },
   {
     "n": 116,
+    "id": "https://www.infobae.com/america/ciencia-america/2021/03/21/por-que-es-una-temeridad-retrasar-las-vacunaciones-de-astrazeneca/",
+    "title": "Por qué es una temeridad retrasar las vacunaciones de AstraZeneca",
+    "url": "https://www.infobae.com/america/ciencia-america/2021/03/21/por-que-es-una-temeridad-retrasar-las-vacunaciones-de-astrazeneca/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/TT6NWUBX3EOLOP7AU42GOK7XRQ.jpg"
+  },
+  {
+    "n": 117,
     "id": "https://www.infobae.com/america/mexico/2021/03/21/mapa-del-coronavirus-en-mexico-21-de-marzo-queretaro-ya-es-el-tercer-estado-con-mas-contagios-activos-detras-cdmx-y-edomex/",
     "title": "Mapa del coronavirus en México 21 de marzo: Querétaro ya es el tercer estado con más contagios activos detrás CDMX y Edomex ",
     "url": "https://www.infobae.com/america/mexico/2021/03/21/mapa-del-coronavirus-en-mexico-21-de-marzo-queretaro-ya-es-el-tercer-estado-con-mas-contagios-activos-detras-cdmx-y-edomex/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/3U5JZOPM5VA3ZDANXKGEPZ6TXI.jpg"
   },
   {
-    "n": 117,
+    "n": 118,
     "id": "https://www.infobae.com/america/mexico/2021/03/21/abre-mi-escuela-exigieron-reapertura-de-escuelas-en-10-estados-a-un-ano-del-cierre-por-covid-19/",
     "title": "“Abre mi escuela”: exigieron regresar a clases presenciales en 10 estados a un año del cierre por COVID-19",
     "url": "https://www.infobae.com/america/mexico/2021/03/21/abre-mi-escuela-exigieron-reapertura-de-escuelas-en-10-estados-a-un-ano-del-cierre-por-covid-19/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/UKMKWJDEQJDD3EMMCFBYQ3ZPTU.jpg"
   },
   {
-    "n": 118,
+    "n": 119,
     "id": "https://www.infobae.com/america/mexico/2021/03/21/creyeron-a-su-madre-desaparecida-durante-20-anos-su-tumba-eran-las-paredes-de-su-propia-casa/",
     "title": "Creyeron a su madre desaparecida durante 20 años:  su tumba eran las paredes de su propia casa ",
     "url": "https://www.infobae.com/america/mexico/2021/03/21/creyeron-a-su-madre-desaparecida-durante-20-anos-su-tumba-eran-las-paredes-de-su-propia-casa/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/7GPYKXH3CRCGNDO6H6MLWKR5WM.jpg"
   },
   {
-    "n": 119,
+    "n": 120,
     "id": "https://www.infobae.com/america/tendencias-america/2021/03/21/las-sorprendentes-predicciones-para-el-fin-de-la-pandemia-segun-un-experto-de-yale/",
     "title": "Las sorprendentes predicciones para el fin de la pandemia, según un experto de Yale",
     "url": "https://www.infobae.com/america/tendencias-america/2021/03/21/las-sorprendentes-predicciones-para-el-fin-de-la-pandemia-segun-un-experto-de-yale/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/F4E5GY45SVAJ7GTOZH6JKGIZBQ.jpg"
-  },
-  {
-    "n": 120,
-    "id": "https://www.infobae.com/america/mexico/2021/03/21/mas-alla-del-mito-de-que-se-le-acusa-a-benito-juarez/",
-    "title": "Más allá del mito: de qué se le acusa a Benito Juárez",
-    "url": "https://www.infobae.com/america/mexico/2021/03/21/mas-alla-del-mito-de-que-se-le-acusa-a-benito-juarez/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/VUQXTKTBA5BR7KH7672ZM5CSMA.jpg"
   },
   {
     "n": 121,
