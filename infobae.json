@@ -23,7 +23,7 @@
   {
     "n": 4,
     "id": "https://www.infobae.com/politica/2021/04/04/contagios-en-semana-santa-la-ciudad-de-buenos-aires-registro-mas-de-mil-casos-positivos-por-el-turismo/",
-    "title": "Contagios en Semana Santa: la ciudad de Buenos Aires registró más de mil casos positivos por el turismo",
+    "title": "La ciudad de Buenos Aires registró más de mil casos positivos durante Semana Santa",
     "url": "https://www.infobae.com/politica/2021/04/04/contagios-en-semana-santa-la-ciudad-de-buenos-aires-registro-mas-de-mil-casos-positivos-por-el-turismo/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/T4GCYDHZPZAITMEVRFQ2UYWBQM.jpg"
   },
@@ -225,10 +225,10 @@
   },
   {
     "n": 33,
-    "id": "https://www.infobae.com/deportes/2021/04/04/racing-recibe-a-godoy-cruz-huracan-visita-a-newells-colon-expone-la-cima-ante-argentinos-y-velez-va-por-la-punta-contra-union-la-agenda-del-domingo/",
-    "title": "Vélez goleó a Unión y es el único líder de la Zona B",
-    "url": "https://www.infobae.com/deportes/2021/04/04/racing-recibe-a-godoy-cruz-huracan-visita-a-newells-colon-expone-la-cima-ante-argentinos-y-velez-va-por-la-punta-contra-union-la-agenda-del-domingo/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/UWSZK4XKFZELPMCMYOSHVXJEIM.jpg"
+    "id": "https://www.infobae.com/america/deportes/espn/2021/04/04/racing-se-mide-ante-godoy-cruz-con-la-mision-de-ganar-para-entrar-en-puestos-de-clasificacion/",
+    "title": "Racing se mide ante Godoy Cruz con la misión de ganar para entrar en puestos de clasificación",
+    "url": "https://www.infobae.com/america/deportes/espn/2021/04/04/racing-se-mide-ante-godoy-cruz-con-la-mision-de-ganar-para-entrar-en-puestos-de-clasificacion/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/AHIWGWEJO5DFBMQJRESL43K6MY.jpg"
   },
   {
     "n": 34,
@@ -582,10 +582,10 @@
   },
   {
     "n": 84,
-    "id": "https://www.infobae.com/america/deportes/2021/04/04/gol-agonico-burla-al-rival-y-victoria-rogelio-funes-mori-alcanzo-un-record-historico-con-el-rayados-de-monterrey/",
-    "title": "Gol agónico, burla al rival y victoria: Rogelio Funes Mori alcanzó un récord histórico con el Rayados de Monterrey",
-    "url": "https://www.infobae.com/america/deportes/2021/04/04/gol-agonico-burla-al-rival-y-victoria-rogelio-funes-mori-alcanzo-un-record-historico-con-el-rayados-de-monterrey/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/HLNLQXS6FQNI6DRWC6DY7G3VOE.jpg"
+    "id": "https://www.infobae.com/deportes/2021/04/04/racing-recibe-a-godoy-cruz-huracan-visita-a-newells-colon-expone-la-cima-ante-argentinos-y-velez-va-por-la-punta-contra-union-la-agenda-del-domingo/",
+    "title": "Vélez goleó a Unión y es el único líder de la Zona B",
+    "url": "https://www.infobae.com/deportes/2021/04/04/racing-recibe-a-godoy-cruz-huracan-visita-a-newells-colon-expone-la-cima-ante-argentinos-y-velez-va-por-la-punta-contra-union-la-agenda-del-domingo/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/FJ2TTHJSGRER3EHDMMZEC6UM74.jpg"
   },
   {
     "n": 85,
@@ -785,73 +785,73 @@
   },
   {
     "n": 113,
+    "id": "https://www.infobae.com/america/mexico/2021/04/05/sepultaron-en-su-natal-el-salvador-a-victoria-salazar-asesinada-por-policias-en-tulum-mexico/",
+    "title": "Sepultaron en su natal El Salvador a Victoria Salazar, asesinada por policías en Tulum, México",
+    "url": "https://www.infobae.com/america/mexico/2021/04/05/sepultaron-en-su-natal-el-salvador-a-victoria-salazar-asesinada-por-policias-en-tulum-mexico/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/TQEUIXPHC2P2K3CEG47SWHYQFY.jpg"
+  },
+  {
+    "n": 114,
+    "id": "https://www.infobae.com/america/mexico/2021/04/04/vincularon-a-proceso-a-vincent-n-presunto-feminicida-de-lucia-mujer-asesinada-en-la-condesa/",
+    "title": "Vincularon a proceso a Vincent “N”, presunto feminicida de Lucía, mujer asesinada en la Condesa",
+    "url": "https://www.infobae.com/america/mexico/2021/04/04/vincularon-a-proceso-a-vincent-n-presunto-feminicida-de-lucia-mujer-asesinada-en-la-condesa/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/QAASYF6BENBI3D5LW2BA3F5VUY.jpg"
+  },
+  {
+    "n": 115,
     "id": "https://www.infobae.com/america/wapo/2021/04/04/la-nueva-ley-de-agentes-extranjeros-de-putin-amenaza-a-grupos-de-derechos-humanos-y-activistas-que-lograron-sobrevivir-a-las-presiones-sovieticas/",
     "title": "La nueva “ley de agentes extranjeros” de Putin amenaza a grupos de derechos humanos y activistas que lograron sobrevivir a las presiones soviéticas",
     "url": "https://www.infobae.com/america/wapo/2021/04/04/la-nueva-ley-de-agentes-extranjeros-de-putin-amenaza-a-grupos-de-derechos-humanos-y-activistas-que-lograron-sobrevivir-a-las-presiones-sovieticas/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/Z24DX4GRVVGI5PYMU4T24IJJIQ.jpg"
   },
   {
-    "n": 114,
+    "n": 116,
     "id": "https://www.infobae.com/america/america-latina/2021/04/04/arribaron-a-uruguay-las-primeras-48000-dosis-de-astrazeneca-del-programa-covax/",
     "title": "Arribaron a Uruguay las primeras 48.000 vacunas contra el COVID-19 de AstraZeneca del programa COVAX",
     "url": "https://www.infobae.com/america/america-latina/2021/04/04/arribaron-a-uruguay-las-primeras-48000-dosis-de-astrazeneca-del-programa-covax/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/SRAZNSUM4FGNXF6RZZ5GVTVDFI.jpg"
   },
   {
-    "n": 115,
+    "n": 117,
     "id": "https://www.infobae.com/america/mexico/2021/04/04/asesinaron-a-menor-de-14-anos-en-la-alcaldia-venustiano-carranza-en-un-intento-de-asalto/",
     "title": "Asesinaron a menor de 14 años en la alcaldía Venustiano Carranza en un intento de asalto",
     "url": "https://www.infobae.com/america/mexico/2021/04/04/asesinaron-a-menor-de-14-anos-en-la-alcaldia-venustiano-carranza-en-un-intento-de-asalto/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/LSB6TE2VMZCMLFBGQRUOI57LAY.jpeg"
   },
   {
-    "n": 116,
-    "id": "https://www.infobae.com/america/mexico/2021/04/04/no-hay-pretextos-para-no-acudir-a-la-vacunacion-adulto-mayor-presento-fe-de-bautismo-para-recibir-dosis-contra-covid-19/",
-    "title": "“No hay pretextos para no acudir a la vacunación”: adulto mayor presentó fe de bautismo para recibir dosis contra COVID-19",
-    "url": "https://www.infobae.com/america/mexico/2021/04/04/no-hay-pretextos-para-no-acudir-a-la-vacunacion-adulto-mayor-presento-fe-de-bautismo-para-recibir-dosis-contra-covid-19/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/AOQU2DAM6NER7FWZZPZUSSG74A.jpg"
-  },
-  {
-    "n": 117,
-    "id": "https://www.infobae.com/america/mexico/2021/04/04/lo-que-no-mata-fortalece-el-pan-refrendo-apoyo-a-maru-campos-presunta-complice-de-cesar-duarte/",
-    "title": "“Lo que no mata, fortalece”: el PAN refrendó apoyo a Maru Campos, presunta cómplice de César Duarte",
-    "url": "https://www.infobae.com/america/mexico/2021/04/04/lo-que-no-mata-fortalece-el-pan-refrendo-apoyo-a-maru-campos-presunta-complice-de-cesar-duarte/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/H3GE75YARVG5HNW6CRFKLYY2BE.jpg"
-  },
-  {
     "n": 118,
+    "id": "https://www.infobae.com/teleshow/infoshow/2021/04/04/el-pollo-alvarez-le-pidio-a-alberto-fernandez-que-vacune-a-las-personas-con-discapacidad-estan-entrando-en-depresion/",
+    "title": "El Pollo Álvarez le pidió a Alberto Fernández que vacune a las personas con discapacidad: “Están entrando en depresión”",
+    "url": "https://www.infobae.com/teleshow/infoshow/2021/04/04/el-pollo-alvarez-le-pidio-a-alberto-fernandez-que-vacune-a-las-personas-con-discapacidad-estan-entrando-en-depresion/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/HMPV6RPL6FD5DOPT6XAO6JIZIE.jpg"
+  },
+  {
+    "n": 119,
+    "id": "https://www.infobae.com/america/entretenimiento/2021/04/04/kate-winslet-denuncio-la-homofobia-de-hollywood-los-actores-gays-temen-por-su-carrera-si-revelan-su-sexualidad/",
+    "title": "Kate Winslet denunció la homofobia de Hollywood: “Los actores gays temen por su carrera si revelan su sexualidad” ",
+    "url": "https://www.infobae.com/america/entretenimiento/2021/04/04/kate-winslet-denuncio-la-homofobia-de-hollywood-los-actores-gays-temen-por-su-carrera-si-revelan-su-sexualidad/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/ECSM6ZNZUZCUZJZXNU37BY74OM.jpg"
+  },
+  {
+    "n": 120,
     "id": "https://www.infobae.com/teleshow/infoshow/2021/04/04/el-susto-de-sofia-pachano-por-el-derrumbe-del-techo-de-su-casa-mi-mama-casi-muere-aplastada/",
     "title": "El susto de Sofía Pachano por el derrumbe del techo de su casa: “Mi mamá casi muere aplastada”",
     "url": "https://www.infobae.com/teleshow/infoshow/2021/04/04/el-susto-de-sofia-pachano-por-el-derrumbe-del-techo-de-su-casa-mi-mama-casi-muere-aplastada/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/G25U6LM455HTFFHDP5AVZ7YVM4.jpg"
   },
   {
-    "n": 119,
+    "n": 121,
     "id": "https://www.infobae.com/teleshow/infoshow/2021/04/04/luciano-caceres-revelo-que-recibio-un-mensaje-de-su-madre-17-anos-despues-de-su-muerte-como-no-creer-en-los-angeles/",
     "title": "Luciano Cáceres reveló que recibió un mensaje de su madre 17 años después de su muerte: “¿Cómo no creer en los ángeles?”",
     "url": "https://www.infobae.com/teleshow/infoshow/2021/04/04/luciano-caceres-revelo-que-recibio-un-mensaje-de-su-madre-17-anos-despues-de-su-muerte-como-no-creer-en-los-angeles/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/2COCWH3VBVFRPB2XJGJ6RZ2LGU.jpg"
   },
   {
-    "n": 120,
+    "n": 122,
     "id": "https://www.infobae.com/teleshow/infoshow/2021/04/04/german-martitegui-compartio-las-fotos-de-su-celebracion-de-pascuas-junto-a-sus-hijos/",
     "title": "Germán Martitegui compartió las fotos de su celebración de Pascuas junto a sus hijos",
     "url": "https://www.infobae.com/teleshow/infoshow/2021/04/04/german-martitegui-compartio-las-fotos-de-su-celebracion-de-pascuas-junto-a-sus-hijos/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/JRXUXP54QFAQVCWSAE47ZMHQNE.jpg"
-  },
-  {
-    "n": 121,
-    "id": "https://www.infobae.com/teleshow/infoshow/2021/04/04/marcelo-tinelli-y-su-regreso-a-la-television-falta-poco-para-que-arranquemos-fines-de-abril-o-principios-de-mayo-estamos-volviendo/",
-    "title": "Marcelo Tinelli y su regreso a la televisión: “Falta poco para que arranquemos, fines de abril o principios de mayo estamos volviendo”",
-    "url": "https://www.infobae.com/teleshow/infoshow/2021/04/04/marcelo-tinelli-y-su-regreso-a-la-television-falta-poco-para-que-arranquemos-fines-de-abril-o-principios-de-mayo-estamos-volviendo/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/6UXIVS4E4BDCBNRIGA4ZG2Z4MY.jpg"
-  },
-  {
-    "n": 122,
-    "id": "https://www.infobae.com/america/entretenimiento/2021/04/04/es-de-ensueno-el-increible-festejo-de-pascua-de-andy-benavides/",
-    "title": "Es de ensueño: el increíble festejo de pascua de Andy Benavides",
-    "url": "https://www.infobae.com/america/entretenimiento/2021/04/04/es-de-ensueno-el-increible-festejo-de-pascua-de-andy-benavides/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/BCXXFX3365GX7HNBWQDVJCQRLU.jpg"
   },
   {
     "n": 123,
