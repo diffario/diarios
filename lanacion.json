@@ -2,23 +2,23 @@
   {
     "n": 1,
     "id": 2661813,
-    "title": "Inminente anuncio. Restringen la circulación de 20 a 6 en las zonas críticas",
+    "title": "Nuevas medidas. Restringen la circulación de 20 a 6 en las zonas críticas",
     "url": "https://www.lanacion.com.ar/politica/el-gobierno-restringe-la-circulacion-de-20-a-6-en-las-zonas-criticas-nid14042021/",
     "image": "https://bucket1.glanacion.com/anexos/fotos/45/3713545.jpg"
   },
   {
     "n": 2,
+    "id": 2661920,
+    "title": "En frases. El presidente Alberto Fernández anuncia nuevas restricciones",
+    "url": "https://www.lanacion.com.ar/politica/covid-19-el-presidente-alberto-fernandez-anuncia-nuevas-restricciones-nid14042021/",
+    "image": "https://bucket1.glanacion.com/anexos/fotos/17/3713717.png"
+  },
+  {
+    "n": 3,
     "id": 2661827,
     "title": "Uno por uno. Los distritos donde se restringirá la circulación",
     "url": "https://www.lanacion.com.ar/sociedad/uno-por-uno-los-lugares-donde-se-restringira-la-circulacion-de-20-a-6-nid14042021/",
     "image": "https://bucket1.glanacion.com/anexos/fotos/37/3713537.jpg"
-  },
-  {
-    "n": 3,
-    "id": 2661799,
-    "title": "Coronavirus. Fuerte salto en la cantidad de muertos: registran 368 fallecidos",
-    "url": "https://www.lanacion.com.ar/sociedad/coronavirus-fuerte-salto-en-los-muertos-registran-368-fallecidos-y-25157-casos-nid14042021/",
-    "image": "https://bucket1.glanacion.com/anexos/fotos/63/3713463.jpg"
   },
   {
     "n": 4,
@@ -29,10 +29,10 @@
   },
   {
     "n": 5,
-    "id": 2661752,
-    "title": "En el país. Qué porcentaje de vacunados contrajo Covid-19 según cada vacuna",
-    "url": "https://www.lanacion.com.ar/sociedad/en-el-pais-que-porcentaje-de-vacunados-contrajo-covid-19-segun-cada-vacuna-nid14042021/",
-    "image": "https://bucket1.glanacion.com/anexos/fotos/27/3713327.jpg"
+    "id": 2661799,
+    "title": "Coronavirus. Fuerte salto en la cantidad de muertos: registran 368 fallecidos",
+    "url": "https://www.lanacion.com.ar/sociedad/coronavirus-fuerte-salto-en-los-muertos-registran-368-fallecidos-y-25157-casos-nid14042021/",
+    "image": "https://bucket1.glanacion.com/anexos/fotos/63/3713463.jpg"
   },
   {
     "n": 6,
@@ -57,10 +57,10 @@
   },
   {
     "n": 9,
-    "id": 2647262,
-    "title": "Coronavirus. Qué medidas aconsejan los expertos frente a la segunda ola",
-    "url": "https://www.lanacion.com.ar/sociedad/guia-todo-lo-que-hay-que-saber-sobre-la-segunda-ola-de-covid-19-nid31032021/",
-    "image": "https://bucket1.glanacion.com/anexos/fotos/64/3713164.gif"
+    "id": 2661752,
+    "title": "En el país. Qué porcentaje de vacunados contrajo Covid-19 según cada vacuna",
+    "url": "https://www.lanacion.com.ar/sociedad/en-el-pais-que-porcentaje-de-vacunados-contrajo-covid-19-segun-cada-vacuna-nid14042021/",
+    "image": "https://bucket1.glanacion.com/anexos/fotos/27/3713327.jpg"
   },
   {
     "n": 10,
@@ -437,10 +437,10 @@
   },
   {
     "n": 64,
-    "id": 2657512,
-    "title": "Krys: el productor argentino que servía café y ya ganó 17 Grammy",
-    "url": "https://www.lanacion.com.ar/revista-rolling-stone/krys-el-productor-argentino-que-servia-cafe-y-ya-gano-17-grammy-nid10042021/",
-    "image": "https://bucket1.glanacion.com/anexos/fotos/69/3707269.jpg"
+    "id": 2660690,
+    "title": "Vivir en Montreal: ''Sos el argentino por más ciudadano del mundo que te creas''",
+    "url": "https://www.lanacion.com.ar/lifestyle/vivir-en-montreal-descubrio-dos-caras-de-la-ciudad-debia-volver-a-argentina-nid13042021/",
+    "image": "https://bucket1.glanacion.com/anexos/fotos/29/3711829.jpg"
   },
   {
     "n": 65,
@@ -451,10 +451,10 @@
   },
   {
     "n": 66,
-    "id": 2660680,
-    "title": "Al rescate. Una vecina se conmovió al verla atada en un patio y sin comida",
-    "url": "https://www.lanacion.com.ar/lifestyle/con-una-soga-al-cuello-y-sin-comida-la-abandonaron-en-el-patio-de-la-casa-nid13042021/",
-    "image": "https://bucket1.glanacion.com/anexos/fotos/88/3711788.jpg"
+    "id": 2660604,
+    "title": "Adiós. Cómo cambia la forma de hablar antes de separarnos",
+    "url": "https://www.lanacion.com.ar/lifestyle/adios-como-cambia-la-forma-de-hablar-antes-de-separarnos-nid13042021/",
+    "image": "https://bucket1.glanacion.com/anexos/fotos/97/3711597.jpg"
   },
   {
     "n": 67,
@@ -472,10 +472,10 @@
   },
   {
     "n": 69,
-    "id": 2660604,
-    "title": "Adiós. Cómo cambia la forma de hablar antes de separarnos",
-    "url": "https://www.lanacion.com.ar/lifestyle/adios-como-cambia-la-forma-de-hablar-antes-de-separarnos-nid13042021/",
-    "image": "https://bucket1.glanacion.com/anexos/fotos/97/3711597.jpg"
+    "id": 2660680,
+    "title": "Al rescate. Una vecina se conmovió al verla atada en un patio y sin comida",
+    "url": "https://www.lanacion.com.ar/lifestyle/con-una-soga-al-cuello-y-sin-comida-la-abandonaron-en-el-patio-de-la-casa-nid13042021/",
+    "image": "https://bucket1.glanacion.com/anexos/fotos/88/3711788.jpg"
   },
   {
     "n": 70,
