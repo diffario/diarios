@@ -23,7 +23,7 @@
   {
     "n": 4,
     "id": 2676631,
-    "title": "Intimidad. Los mensajes de Esteban Bullrich a su gente y las ganas de \"pelearla\"",
+    "title": "Intimidad. Los mensajes de Esteban Bullrich a su entorno y las ganas de \"pelearla\"",
     "url": "https://www.lanacion.com.ar/politica/la-salud-de-esteban-bullrich-un-viaje-a-eeuu-para-diagnosticarse-y-como-sobrelleva-su-labor-en-el-nid28042021/",
     "image": "https://bucket1.glanacion.com/anexos/fotos/87/3734687.jpg"
   },
@@ -277,7 +277,7 @@
   {
     "n": 41,
     "id": 2676797,
-    "title": "\"Es triste\": ''Jujuy'' Jiménez contó por qué se separó de ''El Pelado'' López",
+    "title": "\"Es triste\". ''Jujuy'' Jiménez contó por qué se separó de ''El Pelado'' López",
     "url": "https://www.lanacion.com.ar/espectaculos/sofia-jujuy-jimenez-conto-por-que-se-separo-de-el-pelado-lopez-es-triste-nid28042021/",
     "image": "https://bucket1.glanacion.com/anexos/fotos/09/3734309.png"
   },
@@ -311,24 +311,24 @@
   },
   {
     "n": 46,
-    "id": 2675992,
-    "title": "BA recicla. Un plan que apunta a la separación de residuos y la gestión social",
-    "url": "https://www.lanacion.com.ar/sociedad/ba-recicla-un-plan-que-apunta-a-la-separacion-de-residuos-y-la-gestion-social-nid27042021/",
-    "image": "https://bucket1.glanacion.com/anexos/fotos/78/3733678.jpg"
+    "id": 2677336,
+    "title": "Cosmética. Por qué lo que viene es la belleza sustentable",
+    "url": "https://www.lanacion.com.ar/sociedad/por-que-lo-que-viene-es-la-belleza-sustentable-nid29042021/",
+    "image": "https://bucket1.glanacion.com/anexos/fotos/04/3735004.jpg"
   },
   {
     "n": 47,
+    "id": 2676981,
+    "title": "El difícil momento de Luis Majul",
+    "url": "https://www.lanacion.com.ar/espectaculos/murio-rosa-flores-la-madre-del-periodista-luis-majul-nid28042021/",
+    "image": "https://bucket1.glanacion.com/anexos/fotos/97/3734597.jpg"
+  },
+  {
+    "n": 48,
     "id": 2676882,
     "title": "Jony Viale. ''Tuvieron 421 días y ni testearon ni vacunaron''",
     "url": "https://www.lanacion.com.ar/politica/jony-viale-sobre-las-restricciones-tuvieron-421-dias-y-ni-testearon-ni-vacunaron-nid28042021/",
     "image": "https://bucket1.glanacion.com/anexos/fotos/94/3734494.jpg"
-  },
-  {
-    "n": 48,
-    "id": 2676935,
-    "title": "Sobre la gestión. Alfredo Leuco: ''Hay mala praxis y torpezas''",
-    "url": "https://www.lanacion.com.ar/politica/alfredo-leuco-sobre-la-gestion-de-la-pandemia-hay-mala-praxis-y-torpezas-nid28042021/",
-    "image": "https://bucket1.glanacion.com/anexos/fotos/31/3734531.jpg"
   },
   {
     "n": 49,
@@ -388,159 +388,145 @@
   },
   {
     "n": 57,
-    "id": 2676974,
-    "title": "Joseph Fiennes. Su paso por Buenos Aires y lo que viene en The Handmaid\"s Tale",
-    "url": "https://www.lanacion.com.ar/espectaculos/personajes/joseph-fiennes-sus-recuerdos-de-buenos-aires-el-trabajo-en-pandemia-y-por-que-the-handmaids-tale-nid29042021/",
-    "image": "https://bucket1.glanacion.com/anexos/fotos/71/3734571.jpg"
-  },
-  {
-    "n": 58,
-    "id": 2676975,
-    "title": "Luis Miguel, la serie. Un cóctel explosivo de pop noventoso, ranchera y Sinatra",
-    "url": "https://www.lanacion.com.ar/espectaculos/musica/luis-miguel-la-serie-entre-los-ultimos-coletazos-de-la-musica-disco-el-pop-noventoso-la-ranchera-y-nid29042021/",
-    "image": "https://bucket1.glanacion.com/anexos/fotos/91/3734591.jpg"
-  },
-  {
-    "n": 59,
     "id": 2676972,
     "title": "Daniel Toro. \"Se me curó el alma, no tengo bronca de cuando me prohibieron\"",
     "url": "https://www.lanacion.com.ar/espectaculos/musica/daniel-toro-a-mi-se-me-curo-el-alma-no-tengo-broncas-de-cuando-prohibieron-mis-canciones-nid28042021/",
     "image": "https://bucket1.glanacion.com/anexos/fotos/67/3734567.jpg"
   },
   {
-    "n": 60,
-    "id": 2677050,
-    "title": "MasterChef. Andrea Rincón recordó una de las etapas más difíciles de su vida",
-    "url": "https://www.lanacion.com.ar/espectaculos/television/masterchef-celebrity-andrea-rincon-recordo-una-de-las-etapas-mas-dificiles-de-su-vida-nid29042021/",
-    "image": "https://bucket1.glanacion.com/anexos/fotos/76/3734676.jpg"
-  },
-  {
-    "n": 61,
+    "n": 58,
     "id": 2677026,
     "title": "Sobre Giselle Rímolo. Soldán: ''Si me la cruzo por la calle, no la reconocería\"",
     "url": "https://www.lanacion.com.ar/espectaculos/personajes/silvio-soldan-sobre-giselle-rimolo-si-me-la-cruzo-por-la-calle-no-la-reconozco-nid29042021/",
     "image": "https://bucket1.glanacion.com/anexos/fotos/40/3734640.jpg"
   },
   {
-    "n": 62,
+    "n": 59,
+    "id": 2676974,
+    "title": "Joseph Fiennes. Su paso por Buenos Aires y lo que viene en The Handmaid\"s Tale",
+    "url": "https://www.lanacion.com.ar/espectaculos/personajes/joseph-fiennes-sus-recuerdos-de-buenos-aires-el-trabajo-en-pandemia-y-por-que-the-handmaids-tale-nid29042021/",
+    "image": "https://bucket1.glanacion.com/anexos/fotos/71/3734571.jpg"
+  },
+  {
+    "n": 60,
     "id": 2677314,
     "title": "Boca. La exitosa conexión MVA y el reencuentro con su columna vertebral",
     "url": "https://www.lanacion.com.ar/deportes/futbol/boca-juniors/boca-la-exitosa-conexion-mva-y-el-reencuentro-con-su-columna-vertebral-nid29042021/",
     "image": "https://bucket1.glanacion.com/anexos/fotos/81/3734981.jpeg"
   },
   {
-    "n": 63,
+    "n": 61,
     "id": 2677326,
     "title": "Gareca. Contó que tiene una hija: cuándo la conoció y qué dijo su familia",
     "url": "https://www.lanacion.com.ar/deportes/futbol/ricardo-gareca-confeso-que-tiene-una-hija-extramatrimonial-cuando-la-conocio-y-que-dijo-su-familia-nid29042021/",
     "image": "https://bucket1.glanacion.com/anexos/fotos/95/3734995.jpg"
   },
   {
-    "n": 64,
+    "n": 62,
     "id": 2676622,
     "title": "Liga de España. Barcelona - Granada: horario, TV y formaciones",
     "url": "https://www.lanacion.com.ar/deportes/barcelona-granada-liga-de-espana-el-partido-de-la-jornada-33-nid28042021/",
     "image": "https://bucket1.glanacion.com/anexos/fotos/96/3734996.jpg"
   },
   {
-    "n": 65,
+    "n": 63,
     "id": 2676754,
     "title": "Puertos. Una ciudad pensada y diseñada para vivir en contacto con la naturaleza",
     "url": "https://www.lanacion.com.ar/propiedades/puertos-una-ciudad-pensada-y-disenada-para-vivir-en-contacto-con-la-naturaleza-nid28042021/",
     "image": "https://bucket1.glanacion.com/anexos/fotos/54/3734254.jpg"
   },
   {
-    "n": 66,
+    "n": 64,
     "id": 2255187,
     "title": "Elegancia zen. Amplitud, colores bien pensados y la deco justa y necesaria",
     "image": "https://bucket1.glanacion.com/anexos/fotos/61/3032461.jpg"
   },
   {
-    "n": 67,
+    "n": 65,
     "id": 2676692,
     "title": "Coronavirus. Crean en San Juan una cápsula para trasladar pacientes contagiados",
     "url": "https://www.lanacion.com.ar/tecnologia/coronavirus-crearon-en-san-juan-una-capsula-para-trasladar-pacientes-contagiados-nid28042021/",
     "image": "https://bucket1.glanacion.com/anexos/fotos/02/3734102.jpg"
   },
   {
-    "n": 68,
+    "n": 66,
     "id": 2676738,
     "title": "Pet friendly. 5 hoteles top en Argentina y el mundo para alojarse con mascotas",
     "url": "https://www.lanacion.com.ar/lifestyle/pet-friendly-5-alojamientos-top-en-argentina-y-el-mundo-para-ir-con-mascotas-nid28042021/",
     "image": "https://bucket1.glanacion.com/anexos/fotos/17/3734217.jpg"
   },
   {
-    "n": 69,
+    "n": 67,
     "id": 2676705,
     "title": "Lo que faltaba. Telegram tiene todo listo para lanzar las videollamadas grupales",
     "url": "https://www.lanacion.com.ar/tecnologia/lo-que-faltaba-telegram-tiene-todo-listo-para-lanzar-las-videollamadas-grupales-nid28042021/",
     "image": "https://bucket1.glanacion.com/anexos/fotos/93/3734993.jpg"
   },
   {
-    "n": 70,
+    "n": 68,
     "id": 2676565,
     "title": "Salidas tempraneras. 7 lugares ideales para tapear y beber antes de las 20",
     "url": "https://www.lanacion.com.ar/revista-lugares/salidas-tempraneras-7-lugares-ideales-para-tapear-y-beber-antes-de-las-20-nid28042021/",
     "image": "https://bucket1.glanacion.com/anexos/fotos/15/3733915.jpg"
   },
   {
-    "n": 71,
+    "n": 69,
     "id": 2676747,
     "title": "Lo nuevo. Del cucurucho al tenedor de salvado, tendencia en vajilla comestible",
     "url": "https://www.lanacion.com.ar/lifestyle/del-cucurucho-al-tenedor-de-salvado-la-tendencia-de-la-vajilla-comestible-nid28042021/",
     "image": "https://bucket1.glanacion.com/anexos/fotos/34/3734234.jpg"
   },
   {
-    "n": 72,
+    "n": 70,
     "id": 2676383,
     "title": "Clase media. ¿Cuánto más puede resistir la pandemia?",
     "url": "https://www.lanacion.com.ar/sociedad/clase-media-cuanto-mas-puede-resistir-la-pandemia-nid28042021/",
     "image": "https://bucket1.glanacion.com/anexos/fotos/65/3733665.jpg"
   },
   {
-    "n": 73,
+    "n": 71,
     "id": 2675748,
     "title": "El madrileño. C. Tangana habla sobre su obra maestra",
     "url": "https://www.lanacion.com.ar/espectaculos/musica/el-madrileno-c-tangana-habla-sobre-su-obra-maestra-nid27042021/",
     "image": "https://bucket1.glanacion.com/anexos/fotos/36/3732836.jpeg"
   },
   {
-    "n": 74,
+    "n": 72,
     "id": 2676871,
     "title": "Desopilante. La reacción de Barassi ante el precio de las zapatillas",
     "url": "https://www.lanacion.com.ar/espectaculos/a-mi-me-cuestan-dos-stories-la-desopilante-reaccion-de-barassi-ante-el-precio-de-unas-zapatillas-nid28042021/",
     "image": "https://bucket1.glanacion.com/anexos/fotos/79/3734479.jpg"
   },
   {
-    "n": 75,
+    "n": 73,
     "id": 2676844,
     "title": "Peligroso. Se sumó a un desafío de TikTok y perdió varios dientes",
     "url": "https://www.lanacion.com.ar/lifestyle/una-usuaria-de-tiktok-perdio-varios-dientes-tras-sumarse-a-un-desafio-viral-nid28042021/",
     "image": "https://bucket1.glanacion.com/anexos/fotos/28/3734428.png"
   },
   {
-    "n": 76,
+    "n": 74,
     "id": 2676899,
     "title": "Descubren un extraño barco vikingo usado para ''evitar el fin del mundo''",
     "url": "https://www.lanacion.com.ar/el-mundo/descubren-un-extrano-barco-vikingo-usado-para-evitar-el-fin-del-mundo-nid28042021/",
     "image": "https://bucket1.glanacion.com/anexos/fotos/06/3734506.png"
   },
   {
-    "n": 77,
+    "n": 75,
     "id": 2676709,
     "title": "Ranking de Netflix Argentina: las 10 series y películas más vistas de hoy",
     "url": "https://www.lanacion.com.ar/espectaculos/ranking-de-netflix-argentina-las-10-series-y-peliculas-mas-vistas-este-28-de-abril-nid28042021/",
     "image": "https://bucket1.glanacion.com/anexos/fotos/53/3734153.jpg"
   },
   {
-    "n": 78,
+    "n": 76,
     "id": 2676615,
     "title": "El hijo de Beto Casella habló sobre la misteriosa carta que le escribió su papá",
     "url": "https://www.lanacion.com.ar/espectaculos/personajes/el-hijo-de-beto-casella-dio-detalles-de-una-misteriosa-carta-que-le-escribio-su-padre-nid28042021/",
     "image": "https://bucket1.glanacion.com/anexos/fotos/67/3733967.jpg"
   },
   {
-    "n": 79,
+    "n": 77,
     "id": 2676555,
     "title": "El llamativo error de Caniggia al desafiar a sus seguidores en las redes",
     "url": "https://www.lanacion.com.ar/deportes/claudio-caniggia-desafio-a-sus-seguidores-a-reconocer-leyendas-pero-un-error-de-ortografia-llamo-la-nid28042021/",
