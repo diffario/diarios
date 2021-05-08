@@ -44,7 +44,7 @@
   {
     "n": 7,
     "id": "yTGoxKxDP",
-    "title": "La otra catástrofe. Cómo resiste la cultura en la Venezuela de Maduro",
+    "title": "La otra catástrofe. Cómo es hacer cultura en la Venezuela de Maduro",
     "url": "https://www.clarin.com/revista-n/venezuela-campo-cultural-intemperie_0_yTGoxKxDP.html",
     "image": "https://images.clarin.com/2021/05/07/VXegvWxFi_1256x620__2.jpg#1620423469299"
   },
@@ -64,17 +64,17 @@
   },
   {
     "n": 10,
+    "id": "AQhJExzHj",
+    "title": "Auge en pandemia. La mitad de los delitos ya son online: cuáles son los más comunes y cómo protegerse",
+    "url": "https://www.clarin.com/tecnologia/advierten-mitad-delitos-online_0_AQhJExzHj.html",
+    "image": "https://images.clarin.com/2021/05/06/vTe5QHLqn_720x0__1.jpg"
+  },
+  {
+    "n": 11,
     "id": "SqfF8LBwk",
     "title": "En 1915. El hundimiento del Lusitania: una tragedia anunciada y un \"crimen monstruoso\"",
     "url": "https://www.clarin.com/mundo/hundimiento-lusitania-tragedia-anunciada-crimen-monstruoso-_0_SqfF8LBwk.html",
     "image": "https://images.clarin.com/2021/05/04/TdtYDdH-__720x0__1.jpg"
-  },
-  {
-    "n": 11,
-    "id": "AUURkBveT",
-    "title": "Italia. Descubren los restos de una residencia del Imperio Romano en el sótano de un edificio",
-    "url": "https://www.clarin.com/mundo/descubren-restos-residencia-imperio-romano-sotano-edifico-roma_0_AUURkBveT.html",
-    "image": "https://images.clarin.com/2021/05/07/Z1g8jlGPj_1256x620__2.jpg#1620392015640"
   },
   {
     "n": 12,
@@ -121,7 +121,7 @@
   {
     "n": 18,
     "id": "yTGoxKxDP",
-    "title": "La otra catástrofe. Cómo resiste la cultura en la Venezuela de Maduro",
+    "title": "La otra catástrofe. Cómo es hacer cultura en la Venezuela de Maduro",
     "url": "https://www.clarin.com/revista-n/venezuela-campo-cultural-intemperie_0_yTGoxKxDP.html",
     "image": "https://images.clarin.com/2021/05/07/VXegvWxFi_1256x620__2.jpg#1620423469299"
   },
@@ -239,10 +239,10 @@
   },
   {
     "n": 35,
-    "id": "Jrm-rQj-f",
-    "title": "Polémica. Zuckerberg amenaza con cobrarles Facebook a usuarios de iPhone",
-    "url": "https://www.clarin.com/tecnologia/96-usuarios-iphone-bloquearon-facebook-ahora-zuckerberg-amenaza-cobrarles_0_Jrm-rQj-f.html",
-    "image": "https://images.clarin.com/2021/04/29/riDYmpAe7_720x0__1.jpg"
+    "id": "NiapDO0RW",
+    "title": "Redes sociales. Quién es el empresario argentino al que Elon Musk le contestó en Twitter",
+    "url": "https://www.clarin.com/tecnologia/empresario-argentino-elon-musk-contesto-twitter_0_NiapDO0RW.html",
+    "image": "https://images.clarin.com/2020/12/08/BFOsppnDz_720x0__1.jpg"
   },
   {
     "n": 36,
@@ -267,24 +267,24 @@
   },
   {
     "n": 39,
+    "id": "Jrm-rQj-f",
+    "title": "Polémica. Zuckerberg amenaza con cobrarles Facebook a usuarios de iPhone",
+    "url": "https://www.clarin.com/tecnologia/96-usuarios-iphone-bloquearon-facebook-ahora-zuckerberg-amenaza-cobrarles_0_Jrm-rQj-f.html",
+    "image": "https://images.clarin.com/2021/04/29/riDYmpAe7_720x0__1.jpg"
+  },
+  {
+    "n": 40,
     "id": "FzKK8vinO",
     "title": "Según un estudio. Por qué los niños que conviven con perros tienen ventaja sobre el resto",
     "url": "https://www.clarin.com/familias/ninos-conviven-perros-ventaja-resto_0_FzKK8vinO.html",
     "image": "https://images.clarin.com/2021/05/06/6LivUEb2k_720x0__1.jpg"
   },
   {
-    "n": 40,
+    "n": 41,
     "id": "oVYzu0tXT",
     "title": "Sexualidad. Erotofobia: qué es el miedo al sexo y cómo superarlo",
     "url": "https://www.clarin.com/buena-vida/erotofobia-miedo-sexo-superarlo_0_oVYzu0tXT.html",
     "image": "https://images.clarin.com/2021/05/06/drVniSknb_720x0__1.jpg"
-  },
-  {
-    "n": 41,
-    "id": "Ztjnd4giw",
-    "title": "Sexualidad. Día de la Masturbación: por qué el autoplacer mejora la salud",
-    "url": "https://www.clarin.com/relaciones/aud1enc14-j0v3n_0_Ztjnd4giw.html",
-    "image": "https://images.clarin.com/2021/05/06/z5z9g820q_720x0__1.jpg"
   },
   {
     "n": 42,
@@ -491,37 +491,44 @@
   },
   {
     "n": 71,
+    "id": "w1T9_sDRx",
+    "title": "Parto respetado. Nueve preguntas para parir sin dudas",
+    "url": "https://www.clarin.com/familias/parto-respetado-9-preguntas-parir-dudas_0_w1T9_sDRx.html",
+    "image": "https://images.clarin.com/2021/05/07/NazitJRdY_720x0__1.jpg"
+  },
+  {
+    "n": 72,
+    "id": "UWbrRqALa",
+    "title": "Se me hace cuento. La nueva historia de Marcelo Birmajer: Un deseo",
+    "url": "https://www.clarin.com/espectaculos/nueva-historia-marcelo-birmajer-deseo_0_UWbrRqALa.html",
+    "image": "https://images.clarin.com/2021/05/06/JcjhUn5rs_720x0__1.jpg"
+  },
+  {
+    "n": 73,
     "id": "XqkI9J8gt",
     "title": "Entrevista. Lizy Tagliani se confiesa: \"Quiero ser Susana\"",
     "url": "https://www.clarin.com/espectaculos/tv/punto-volver-tv--lizy-tagliani-confiesa-quiero-susana_0_XqkI9J8gt.html",
     "image": "https://images.clarin.com/2021/05/06/3JkNuHwb0_720x0__1.jpg"
   },
   {
-    "n": 72,
+    "n": 74,
     "id": "lYA0wRpWt",
     "title": "De Platón al \"pará, pará\". Alejandro Fantino: las mil vueltas de un exitoso insatisfecho",
     "url": "https://www.clarin.com/historias/alejandro-fantino-paradojas-exitoso-vive-insatisfecho_0_lYA0wRpWt.html",
     "image": "https://images.clarin.com/2021/05/06/d0Z5m17tn_1256x620__2.jpg#1620342154554"
   },
   {
-    "n": 73,
+    "n": 75,
     "id": "lsVITKIORt",
     "title": "Hot Sale 2021. Cinco sitios que comparan precios y permiten descubrir ofertas falsas",
     "url": "https://www.clarin.com/servicios/hot-sale-2021-sitios-comparan-precios-permiten-descubrir-ofertas-falsas_0_lsVITKIORt.html",
     "image": "https://images.clarin.com/2020/11/01/3xNVNccZA_720x0__1.jpg"
   },
   {
-    "n": 74,
+    "n": 76,
     "id": "koZjx2B7i",
     "title": "Agustín Canapino. Éxito en la pista, dolor en medio del vértigo y el último pedido de su papá",
     "url": "https://www.clarin.com/deportes/agustin-canapino-muerte-alberto-quedarme-tirado-casa-poner-sacar-adelante-_0_koZjx2B7i.html",
     "image": "https://images.clarin.com/2021/05/06/ZHM5XdWJ4_720x0__1.jpg"
-  },
-  {
-    "n": 75,
-    "id": "NiapDO0RW",
-    "title": "Redes sociales. Quién es el empresario argentino al que Elon Musk le contestó en Twitter",
-    "url": "https://www.clarin.com/tecnologia/empresario-argentino-elon-musk-contesto-twitter_0_NiapDO0RW.html",
-    "image": "https://images.clarin.com/2020/12/08/BFOsppnDz_720x0__1.jpg"
   }
 ]
