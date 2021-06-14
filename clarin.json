@@ -1,24 +1,24 @@
 [
   {
     "n": 1,
-    "id": "o9SvaLPcU",
-    "title": "La segunda ola de coronavirus. 85.000 argentinos muertos por Covid: cómo hicieron los cuatro países que controlaron al virus",
-    "url": "https://www.clarin.com/mundo/argentina-cuenta-85-000-muertos-covid-hicieron-paises-domar-virus_0_o9SvaLPcU.html",
-    "image": "https://images.clarin.com/2020/12/31/XwUmM09Ix_720x0__1.jpg"
-  },
-  {
-    "n": 2,
     "id": "K3ZMxgUGZ",
-    "title": "Acto en La Plata con Kicillof. Cristina Kirchner: \"Dejemos la pandemia y las vacunas fuera de la disputa política\"",
+    "title": "Acto en La Plata con Kicillof. Cristina, a la oposición: \"Dejemos la pandemia y las vacunas fuera de la disputa política\"",
     "url": "https://www.clarin.com/politica/cristina-kirchner-participara-acto-axel-kicillof-plata_0_K3ZMxgUGZ.html",
     "image": "https://images.clarin.com/2021/06/14/mVtfjZYNJ_720x0__1.jpg"
   },
   {
-    "n": 3,
+    "n": 2,
     "id": "5jfgeUv-r",
     "title": "¿Se podrá viajar?. Restricciones por el Covid: qué va a pasar con las vacaciones de invierno",
     "url": "https://www.clarin.com/sociedad/va-pasar-vacaciones-invierno-posible-viajar-_0_5jfgeUv-r.html",
     "image": "https://images.clarin.com/2021/02/28/no9kd_EA3_1256x620__2.jpg#1623683809491"
+  },
+  {
+    "n": 3,
+    "id": "o9SvaLPcU",
+    "title": "La segunda ola. 85.000 muertos por Covid en Argentina: cómo hicieron los países que lo frenaron",
+    "url": "https://www.clarin.com/mundo/argentina-cuenta-85-000-muertos-covid-hicieron-paises-domar-virus_0_o9SvaLPcU.html",
+    "image": "https://images.clarin.com/2020/12/31/XwUmM09Ix_720x0__1.jpg"
   },
   {
     "n": 4,
@@ -37,7 +37,7 @@
   {
     "n": 6,
     "id": "Un1KWE8u2",
-    "title": "Nuevo parte médico. Susana Giménez pasó a terapia intermedia y es asistida con oxígeno",
+    "title": "Nuevo parte médico. Susana Giménez debió pasar a terapia intermedia y es asistida con oxígeno",
     "url": "https://www.clarin.com/fama/conocio-nuevo-parte-medico-salud-susana-gimenez-internada-coronavirus_0_Un1KWE8u2.html",
     "image": "https://images.clarin.com/2020/05/29/_pfaJFWHz_720x0__1.jpg"
   },
@@ -85,24 +85,24 @@
   },
   {
     "n": 13,
-    "id": "o9SvaLPcU",
-    "title": "La segunda ola de coronavirus. 85.000 argentinos muertos por Covid: cómo hicieron los cuatro países que controlaron al virus",
-    "url": "https://www.clarin.com/mundo/argentina-cuenta-85-000-muertos-covid-hicieron-paises-domar-virus_0_o9SvaLPcU.html",
-    "image": "https://images.clarin.com/2020/12/31/XwUmM09Ix_720x0__1.jpg"
-  },
-  {
-    "n": 14,
     "id": "K3ZMxgUGZ",
-    "title": "Acto en La Plata con Kicillof. Cristina Kirchner: \"Dejemos la pandemia y las vacunas fuera de la disputa política\"",
+    "title": "Acto en La Plata con Kicillof. Cristina, a la oposición: \"Dejemos la pandemia y las vacunas fuera de la disputa política\"",
     "url": "https://www.clarin.com/politica/cristina-kirchner-participara-acto-axel-kicillof-plata_0_K3ZMxgUGZ.html",
     "image": "https://images.clarin.com/2021/06/14/mVtfjZYNJ_720x0__1.jpg"
   },
   {
-    "n": 15,
+    "n": 14,
     "id": "5jfgeUv-r",
     "title": "¿Se podrá viajar?. Restricciones por el Covid: qué va a pasar con las vacaciones de invierno",
     "url": "https://www.clarin.com/sociedad/va-pasar-vacaciones-invierno-posible-viajar-_0_5jfgeUv-r.html",
     "image": "https://images.clarin.com/2021/02/28/no9kd_EA3_1256x620__2.jpg#1623683809491"
+  },
+  {
+    "n": 15,
+    "id": "o9SvaLPcU",
+    "title": "La segunda ola. 85.000 muertos por Covid en Argentina: cómo hicieron los países que lo frenaron",
+    "url": "https://www.clarin.com/mundo/argentina-cuenta-85-000-muertos-covid-hicieron-paises-domar-virus_0_o9SvaLPcU.html",
+    "image": "https://images.clarin.com/2020/12/31/XwUmM09Ix_720x0__1.jpg"
   },
   {
     "n": 16,
@@ -121,7 +121,7 @@
   {
     "n": 18,
     "id": "Un1KWE8u2",
-    "title": "Nuevo parte médico. Susana Giménez pasó a terapia intermedia y es asistida con oxígeno",
+    "title": "Nuevo parte médico. Susana Giménez debió pasar a terapia intermedia y es asistida con oxígeno",
     "url": "https://www.clarin.com/fama/conocio-nuevo-parte-medico-salud-susana-gimenez-internada-coronavirus_0_Un1KWE8u2.html",
     "image": "https://images.clarin.com/2020/05/29/_pfaJFWHz_720x0__1.jpg"
   },
