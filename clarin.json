@@ -51,7 +51,7 @@
   {
     "n": 8,
     "id": "XnkFFq0ir",
-    "title": "¿Fin de una grieta?. Los taxistas que sumaron apps de movilidad",
+    "title": "¿Fin de una grieta?. Los taxistas que manejan para las apps",
     "url": "https://www.clarin.com/ciudades/taxistas-manejan-aplicaciones-movilidad-fin-grieta-_0_XnkFFq0ir.html",
     "image": "https://images.clarin.com/2021/06/17/gniVn1YPc_720x0__1.jpg"
   },
@@ -128,7 +128,7 @@
   {
     "n": 19,
     "id": "XnkFFq0ir",
-    "title": "¿Fin de una grieta?. Los taxistas que sumaron apps de movilidad",
+    "title": "¿Fin de una grieta?. Los taxistas que manejan para las apps",
     "url": "https://www.clarin.com/ciudades/taxistas-manejan-aplicaciones-movilidad-fin-grieta-_0_XnkFFq0ir.html",
     "image": "https://images.clarin.com/2021/06/17/gniVn1YPc_720x0__1.jpg"
   },
@@ -204,17 +204,17 @@
   },
   {
     "n": 30,
+    "id": "X0-5eeaaZ",
+    "title": "En Salta. La esposa de Sáenz, que compartió un acto con Alberto F., tiene coronavirus",
+    "url": "https://www.clarin.com/politica/esposa-gustavo-saenz-dio-positivo-coronavirus-gobernador-quedo-aislado_0_X0-5eeaaZ.html",
+    "image": "https://images.clarin.com/2021/06/18/Qp9ImAioq_720x0__1.jpg"
+  },
+  {
+    "n": 31,
     "id": "c1aDCzzJZ",
     "title": "Lo impulsa Bolsonaro.  Brasil privatiza Eletrobras, la mayor empresa eléctrica de Latinoamérica",
     "url": "https://www.clarin.com/mundo/senado-brasil-aprobo-privatizacion-eletrobras-euforia-bolsa_0_c1aDCzzJZ.html",
     "image": "https://images.clarin.com/2021/06/18/4JWmYXFBi_720x0__1.jpg"
-  },
-  {
-    "n": 31,
-    "id": "F18hN-yld",
-    "title": "Nueva encuesta. Macri y Scioli últimos, y llamativo empate entre Carrió y Máximo Kirchner",
-    "url": "https://www.clarin.com/politica/encuesta-incomoda-estrellas-presidencial-hoy-peor-imagen_0_F18hN-yld.html",
-    "image": "https://images.clarin.com/2015/10/25/SylXdekyVl_720x0.jpg"
   },
   {
     "n": 32,
@@ -464,7 +464,7 @@
   {
     "n": 67,
     "id": "d-j3OzyhK",
-    "title": "Perfil de un asesino. Ratko Mladic, el \"carnicero de Bosnia\" que desató un infierno sobre la tierra",
+    "title": "Perfil de un asesino. Ratko Mladic, el \"carnicero de Bosnia\" que desencadenó un infierno sobre la tierra",
     "url": "https://www.clarin.com/mundo/brutal-historia-ratko-mladic--carnicero-bosnia-desencadeno-infierno-tierra_0_d-j3OzyhK.html",
     "image": "https://images.clarin.com/2021/06/15/mLQbDqsib_1256x620__2.jpg#1623781759442"
   },
@@ -498,146 +498,139 @@
   },
   {
     "n": 72,
-    "id": "X0-5eeaaZ",
-    "title": "En Salta. La esposa de Sáenz, que compartió un acto con Alberto F., tiene coronavirus",
-    "url": "https://www.clarin.com/politica/esposa-gustavo-saenz-dio-positivo-coronavirus-gobernador-quedo-aislado_0_X0-5eeaaZ.html",
-    "image": "https://images.clarin.com/2021/06/18/Qp9ImAioq_720x0__1.jpg"
-  },
-  {
-    "n": 73,
     "id": "IYzL2TmRC",
     "title": "Érica Farías. Inédito: es argentina y peleará en Las Vegas por el título mundial",
     "url": "https://www.clarin.com/deportes/primera-vez-boxeadora-argentina-peleara-vegas-titulo-mundial-erica-farias-gloria-mikaela-mayer_0_IYzL2TmRC.html",
     "image": "https://images.clarin.com/2021/06/18/7BsDQgtjO_1256x620__2.jpg#1624037146887"
   },
   {
-    "n": 74,
+    "n": 73,
     "id": "xYukQpKOP",
     "title": "WhatsApp. Trucos para leer mensajes sin que tus contactos vean que estás en línea",
     "url": "https://www.clarin.com/tecnologia/trucos-leer-mensajes-whatsapp-contactos-vean-linea_0_xYukQpKOP.html",
     "image": "https://images.clarin.com/2017/04/07/BkRctUBpx_720x0.jpg"
   },
   {
-    "n": 75,
+    "n": 74,
     "id": "6MRExDXla",
     "title": "Dejó de producir en 2019. Bieckert, la fábrica pionera de cerveza que vendió hasta malta para embarazadas",
     "url": "https://www.clarin.com/gourmet/historia-bieckert-primera-fabrica-cerveza-argentina-vendio-malta-embarazadas_0_6MRExDXla.html",
     "image": "https://images.clarin.com/2021/06/18/aTz3I7cw2_720x0__1.jpg"
   },
   {
-    "n": 76,
+    "n": 75,
     "id": "sB70TqvacF",
     "title": "En pandemia. Emigrar a España: cuáles son las 5 profesiones que más piden y cuánto pagan",
     "url": "https://www.clarin.com/servicios/emigrar-espana-5-profesiones-piden-pagan_0_sB70TqvacF.html",
     "image": "https://images.clarin.com/2021/06/17/LOwQUaie4_720x0__1.jpg"
   },
   {
-    "n": 77,
+    "n": 76,
     "id": "zrKuvUaTs",
     "title": "Esteban De Jesús. Cárcel, drogas y muerte prematura: la vida del boxeador que noqueó a Mano de Piedra Durán",
     "url": "https://www.clarin.com/deportes/carcel-drogas-muerte-prematura-vih-caida-esteban-jesus-boxeador-sorprendio-mundo-noquear-mano-piedra-duran_0_zrKuvUaTs.html",
     "image": "https://images.clarin.com/2021/06/17/0G5NA2qfG_1256x620__2.jpg#1623967655820"
   },
   {
-    "n": 78,
+    "n": 77,
     "id": "WFObNIUzZ",
     "title": "Alekhine. El genio del ajedrez que destronó a Capablanca y su misteriosa muerte",
     "url": "https://www.clarin.com/deportes/alekhine--genio-ajedrez-destrono-capablanca-buenos-aires-misteriosa-muerte-coquetear-nazis_0_WFObNIUzZ.html",
     "image": "https://images.clarin.com/2021/06/17/muQRB7jGZ_720x0__1.jpg"
   },
   {
-    "n": 79,
+    "n": 78,
     "id": "VgS-q_VVJ",
     "title": "Sexo y parejas. Cuando la diferencia de edad no importa: qué es el \"cubbing\"",
     "url": "https://www.clarin.com/buena-vida/diferencia-edad-importa-cubbing-_0_VgS-q_VVJ.html",
     "image": "https://images.clarin.com/2021/06/17/Ogw7c9mZ7_720x0__1.jpg"
   },
   {
-    "n": 80,
+    "n": 79,
     "id": "1Rz5WQsxv",
     "title": "Salud. Una entidad médica y la cosmética vaginal: \"No hay una vulva perfecta\"",
     "url": "https://www.clarin.com/sociedad/-vulva-perfecta-entidad-medica-cuestiona-cosmetica-vaginal_0_1Rz5WQsxv.html",
     "image": "https://images.clarin.com/2021/03/20/d5HFdtxKq_720x0__1.jpg"
   },
   {
-    "n": 81,
+    "n": 80,
     "id": "URICIGGjw",
     "title": "Françoise Hardy. La mítica cantante que ayudó a morir a su madre ahora reclama su propia eutanasia",
     "url": "https://www.clarin.com/internacional/espectaculos/fran-oise-hardy-mitica-cantante-ayudo-morir-madre-ahora-reclama-propia-eutanasia_0_URICIGGjw.html",
     "image": "https://images.clarin.com/2021/06/18/n2D-uvcM-_720x0__1.jpg"
   },
   {
-    "n": 82,
+    "n": 81,
     "id": "kpdi_AqWf",
     "title": "Oportunidad. Liquidan Smart TV con rebajas de hasta 40% y 18 cuotas sin interés",
     "url": "https://www.clarin.com/servicios/oportunidad-liquidan-smart-tv-rebajas-40-18-cuotas-interes_0_kpdi_AqWf.html",
     "image": "https://images.clarin.com/2021/03/09/VhK7BtYEJ_720x0__1.jpg"
   },
   {
-    "n": 83,
+    "n": 82,
     "id": "Fr4xllqBS",
     "title": "Se me hace cuento. La nueva historia de Birmajer: La despedida del siglo",
     "url": "https://www.clarin.com/espectaculos/nueva-historia-marcelo-birmajer-despedida-siglo_0_Fr4xllqBS.html",
     "image": "https://images.clarin.com/2021/06/17/8YzlzKi_q_720x0__1.jpg"
   },
   {
-    "n": 84,
+    "n": 83,
     "id": "6MRExDXla",
     "title": "Dejó de producir en 2019. Bieckert, la fábrica pionera de cerveza que vendió hasta malta para embarazadas",
     "url": "https://www.clarin.com/gourmet/historia-bieckert-primera-fabrica-cerveza-argentina-vendio-malta-embarazadas_0_6MRExDXla.html",
     "image": "https://images.clarin.com/2021/06/18/aTz3I7cw2_720x0__1.jpg"
   },
   {
-    "n": 85,
+    "n": 84,
     "id": "sB70TqvacF",
     "title": "En pandemia. Emigrar a España: cuáles son las 5 profesiones que más piden y cuánto pagan",
     "url": "https://www.clarin.com/servicios/emigrar-espana-5-profesiones-piden-pagan_0_sB70TqvacF.html",
     "image": "https://images.clarin.com/2021/06/17/LOwQUaie4_720x0__1.jpg"
   },
   {
-    "n": 86,
+    "n": 85,
     "id": "zrKuvUaTs",
     "title": "Esteban De Jesús. Cárcel, drogas y muerte prematura: la vida del boxeador que noqueó a Mano de Piedra Durán",
     "url": "https://www.clarin.com/deportes/carcel-drogas-muerte-prematura-vih-caida-esteban-jesus-boxeador-sorprendio-mundo-noquear-mano-piedra-duran_0_zrKuvUaTs.html",
     "image": "https://images.clarin.com/2021/06/17/0G5NA2qfG_1256x620__2.jpg#1623967655820"
   },
   {
-    "n": 87,
+    "n": 86,
     "id": "WFObNIUzZ",
     "title": "Alekhine. El genio del ajedrez que destronó a Capablanca y su misteriosa muerte",
     "url": "https://www.clarin.com/deportes/alekhine--genio-ajedrez-destrono-capablanca-buenos-aires-misteriosa-muerte-coquetear-nazis_0_WFObNIUzZ.html",
     "image": "https://images.clarin.com/2021/06/17/muQRB7jGZ_720x0__1.jpg"
   },
   {
-    "n": 88,
+    "n": 87,
     "id": "VgS-q_VVJ",
     "title": "Sexo y parejas. Cuando la diferencia de edad no importa: qué es el \"cubbing\"",
     "url": "https://www.clarin.com/buena-vida/diferencia-edad-importa-cubbing-_0_VgS-q_VVJ.html",
     "image": "https://images.clarin.com/2021/06/17/Ogw7c9mZ7_720x0__1.jpg"
   },
   {
-    "n": 89,
+    "n": 88,
     "id": "1Rz5WQsxv",
     "title": "Salud. Una entidad médica y la cosmética vaginal: \"No hay una vulva perfecta\"",
     "url": "https://www.clarin.com/sociedad/-vulva-perfecta-entidad-medica-cuestiona-cosmetica-vaginal_0_1Rz5WQsxv.html",
     "image": "https://images.clarin.com/2021/03/20/d5HFdtxKq_720x0__1.jpg"
   },
   {
-    "n": 90,
+    "n": 89,
     "id": "URICIGGjw",
     "title": "Françoise Hardy. La mítica cantante que ayudó a morir a su madre ahora reclama su propia eutanasia",
     "url": "https://www.clarin.com/internacional/espectaculos/fran-oise-hardy-mitica-cantante-ayudo-morir-madre-ahora-reclama-propia-eutanasia_0_URICIGGjw.html",
     "image": "https://images.clarin.com/2021/06/18/n2D-uvcM-_720x0__1.jpg"
   },
   {
-    "n": 91,
+    "n": 90,
     "id": "kpdi_AqWf",
     "title": "Oportunidad. Liquidan Smart TV con rebajas de hasta 40% y 18 cuotas sin interés",
     "url": "https://www.clarin.com/servicios/oportunidad-liquidan-smart-tv-rebajas-40-18-cuotas-interes_0_kpdi_AqWf.html",
     "image": "https://images.clarin.com/2021/03/09/VhK7BtYEJ_720x0__1.jpg"
   },
   {
-    "n": 92,
+    "n": 91,
     "id": "Fr4xllqBS",
     "title": "Se me hace cuento. La nueva historia de Birmajer: La despedida del siglo",
     "url": "https://www.clarin.com/espectaculos/nueva-historia-marcelo-birmajer-despedida-siglo_0_Fr4xllqBS.html",
