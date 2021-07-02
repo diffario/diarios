@@ -44,7 +44,7 @@
   {
     "n": 7,
     "id": "https://www.infobae.com/salud/2021/07/02/como-consecuencia-de-la-pandemia-la-argentina-registro-36306-muertes-en-exceso-en-2020/",
-    "title": "Como consecuencia de la pandemia, la Argentina registró 36.306 muertes en exceso en 2020",
+    "title": "Por el coronavirus, Argentina registró 36.306 muertes más en 2020 que el promedio de los últimos cinco años",
     "url": "https://www.infobae.com/salud/2021/07/02/como-consecuencia-de-la-pandemia-la-argentina-registro-36306-muertes-en-exceso-en-2020/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/CIOUOZGT2RGX5KA7HGVTRKOMO4.jpg"
   },
@@ -72,7 +72,7 @@
   {
     "n": 11,
     "id": "https://www.infobae.com/america/deportes/2021/07/02/peru-y-paraguay-abriran-los-cuartos-de-final-de-la-copa-america-hora-tv-y-formaciones/",
-    "title": "Perú llega al empate ante Paraguay en el duelo que abre los cuartos de final de la Copa América",
+    "title": "Perú da vuelta el marcador y le gana a Paraguay en el duelo que abre los cuartos de final de la Copa América",
     "url": "https://www.infobae.com/america/deportes/2021/07/02/peru-y-paraguay-abriran-los-cuartos-de-final-de-la-copa-america-hora-tv-y-formaciones/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/XRVVUDYV73HP266U6Q7WK5ZOMM.jpg"
   },
@@ -666,17 +666,17 @@
   },
   {
     "n": 96,
+    "id": "https://www.infobae.com/teleshow/2021/07/02/los-dias-de-cabito-internado-en-el-hospital-de-clinicas-sin-obra-social-cual-es-su-cuadro-como-esta-de-animo-y-el-apoyo-incondicional-de-su-hermana/",
+    "title": "Los días de Cabito, internado en el Hospital de Clínicas sin obra social: cuál es su cuadro, cómo está de ánimo y el apoyo incondicional de su hermana",
+    "url": "https://www.infobae.com/teleshow/2021/07/02/los-dias-de-cabito-internado-en-el-hospital-de-clinicas-sin-obra-social-cual-es-su-cuadro-como-esta-de-animo-y-el-apoyo-incondicional-de-su-hermana/",
+    "image": "https://www.infobae.com/new-resizer/QU8opar5i1rY7lBsTxZY7-H6hRM=/cloudfront-us-east-1.images.arcpublishing.com/infobae/ACWO7ABOJNCDRI6TS7ZLCID3NE.jpg"
+  },
+  {
+    "n": 97,
     "id": "https://www.infobae.com/cultura/2021/07/02/como-nacieron-los-redondos-los-anos-siniestros-las-primeras-grabaciones-y-el-circo-arriba-del-escenario/",
     "title": "Cómo nacieron Los Redondos: los años siniestros, las primeras grabaciones y el circo arriba del escenario",
     "url": "https://www.infobae.com/cultura/2021/07/02/como-nacieron-los-redondos-los-anos-siniestros-las-primeras-grabaciones-y-el-circo-arriba-del-escenario/",
     "image": "https://www.infobae.com/new-resizer/kL7EnNQdfvLbdUX9pBVOp5nLgrE=/cloudfront-us-east-1.images.arcpublishing.com/infobae/IDLPXYAENNE2BHXJP7DLDXYHPY.png"
-  },
-  {
-    "n": 97,
-    "id": "https://www.infobae.com/america/mundo/2021/07/02/murio-mircea-popescu-multimillonario-en-bitcoin-ahora-nadie-sabe-como-acceder-a-los-usd-2-mil-millones-que-poseia-en-criptomonedas/",
-    "title": "Murió Mircea Popescu, multimillonario en Bitcoin: ahora nadie sabe cómo acceder a los USD 2 mil millones que poseía en criptomonedas",
-    "url": "https://www.infobae.com/america/mundo/2021/07/02/murio-mircea-popescu-multimillonario-en-bitcoin-ahora-nadie-sabe-como-acceder-a-los-usd-2-mil-millones-que-poseia-en-criptomonedas/",
-    "image": "https://www.infobae.com/new-resizer/w33HUItAMFzTdsaNG_zR2oDzVW0=/cloudfront-us-east-1.images.arcpublishing.com/infobae/HY77KXRZPJF7DJCEFXVQ7ZLAVQ.jpg"
   },
   {
     "n": 98,
@@ -701,73 +701,73 @@
   },
   {
     "n": 101,
+    "id": "https://www.infobae.com/economia/2021/07/02/los-detalles-de-la-ley-que-aprobo-diputados-para-ampliar-la-exencion-impositiva-en-los-instrumentos-de-ahorro-financiero/",
+    "title": "Los detalles de la ley que aprobó Diputados para ampliar la exención impositiva en los instrumentos de ahorro financiero",
+    "url": "https://www.infobae.com/economia/2021/07/02/los-detalles-de-la-ley-que-aprobo-diputados-para-ampliar-la-exencion-impositiva-en-los-instrumentos-de-ahorro-financiero/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/5ZORB652ZRDORKN5LX2DMFORB4.jpeg"
+  },
+  {
+    "n": 102,
+    "id": "https://www.infobae.com/economia/2021/07/02/fuertes-criticas-de-las-empresas-de-eeuu-al-proyecto-de-etiquetado-frontal-de-los-alimentos/",
+    "title": "Fuertes críticas de las empresas de EEUU al proyecto de etiquetado frontal de los alimentos",
+    "url": "https://www.infobae.com/economia/2021/07/02/fuertes-criticas-de-las-empresas-de-eeuu-al-proyecto-de-etiquetado-frontal-de-los-alimentos/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/WLVCSORL45BARDF3VOJ2ITAUVY.jpg"
+  },
+  {
+    "n": 103,
     "id": "https://www.infobae.com/salud/2021/07/02/como-consecuencia-de-la-pandemia-la-argentina-registro-36306-muertes-en-exceso-en-2020/",
     "title": "Como consecuencia de la pandemia, la Argentina registró 36.306 muertes en exceso en 2020",
     "url": "https://www.infobae.com/salud/2021/07/02/como-consecuencia-de-la-pandemia-la-argentina-registro-36306-muertes-en-exceso-en-2020/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/CIOUOZGT2RGX5KA7HGVTRKOMO4.jpg"
   },
   {
-    "n": 102,
+    "n": 104,
     "id": "https://www.infobae.com/politica/2021/07/02/los-4-puntos-claves-del-dnu-que-firmo-alberto-fernandez-para-adquirir-vacunas-de-pfizer-moderna-y-janssen/",
     "title": "Los 4 puntos claves del DNU que firmó Alberto Fernández para adquirir vacunas de Pfizer, Moderna y Janssen",
     "url": "https://www.infobae.com/politica/2021/07/02/los-4-puntos-claves-del-dnu-que-firmo-alberto-fernandez-para-adquirir-vacunas-de-pfizer-moderna-y-janssen/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/42EB466YV5CITKSHIGR3WNVBBI.JPG"
   },
   {
-    "n": 103,
+    "n": 105,
     "id": "https://www.infobae.com/cultura/2021/07/02/12-convocatorias-y-5-disciplinas-todo-lo-que-tenes-que-saber-sobre-la-bienal-arte-joven/",
     "title": "12 convocatorias y 5 disciplinas: todo lo que tenés que saber sobre la Bienal Arte Joven",
     "url": "https://www.infobae.com/cultura/2021/07/02/12-convocatorias-y-5-disciplinas-todo-lo-que-tenes-que-saber-sobre-la-bienal-arte-joven/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/7GNR3E3AHFFKNJRUZ5GED2AJW4.jpg"
   },
   {
-    "n": 104,
-    "id": "https://www.infobae.com/sociedad/2021/07/02/coronavirus-en-argentina-confirmaron-614-muertes-y-20888-contagios-en-las-ultimas-24-horas/",
-    "title": "La segunda ola de coronavirus no cede: Argentina superó los 95 mil muertos y los 4.500.000 contagios",
-    "url": "https://www.infobae.com/sociedad/2021/07/02/coronavirus-en-argentina-confirmaron-614-muertes-y-20888-contagios-en-las-ultimas-24-horas/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/33P6GY5DWFBOTLNTLRBA6672SA.jpg"
-  },
-  {
-    "n": 105,
-    "id": "https://www.infobae.com/economia/2021/07/02/el-duro-pronostico-del-doctor-catastrofe-crisis-de-deuda-con-estanflacion-y-otra-decada-perdida-para-america-latina/",
-    "title": "El duro pronóstico del “Doctor Catástrofe”: crisis de deuda con estanflación y otra “década perdida” para América Latina",
-    "url": "https://www.infobae.com/economia/2021/07/02/el-duro-pronostico-del-doctor-catastrofe-crisis-de-deuda-con-estanflacion-y-otra-decada-perdida-para-america-latina/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/TMZKXFJUWFG3HH2JSPIE23NGEQ.JPG"
-  },
-  {
     "n": 106,
+    "id": "https://www.infobae.com/america/mexico/2021/07/02/no-hay-investigacion-en-contra-de-florencia-serrania-por-tragedia-de-la-linea-12-del-metro-sheinbaum/",
+    "title": "No hay investigación en contra de Florencia Serranía por tragedia de la Línea 12 del Metro: Sheinbaum ",
+    "url": "https://www.infobae.com/america/mexico/2021/07/02/no-hay-investigacion-en-contra-de-florencia-serrania-por-tragedia-de-la-linea-12-del-metro-sheinbaum/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/CRDREUROT5H65E5QKAQIUP6Z5Y.jpg"
+  },
+  {
+    "n": 107,
     "id": "https://www.infobae.com/america/colombia/2021/07/02/video-diva-jessurum-revelo-los-dificiles-momentos-que-vivio-por-cuenta-del-covid-19/",
     "title": "Video | Diva Jessurum reveló los difíciles momentos que vivió por cuenta del covid-19",
     "url": "https://www.infobae.com/america/colombia/2021/07/02/video-diva-jessurum-revelo-los-dificiles-momentos-que-vivio-por-cuenta-del-covid-19/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/3KJCRHDZSNCV5JNUMP45LLLG7U.jpeg"
   },
   {
-    "n": 107,
+    "n": 108,
     "id": "https://www.infobae.com/america/mexico/2021/07/02/que-dijo-claudia-sheinbaum-tras-haber-sido-llamada-presidenta-por-militantes-de-morena/",
     "title": "Qué dijo Claudia Sheinbaum tras haber sido llamada “presidenta” por militantes de MORENA",
     "url": "https://www.infobae.com/america/mexico/2021/07/02/que-dijo-claudia-sheinbaum-tras-haber-sido-llamada-presidenta-por-militantes-de-morena/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/FDJZA2SPXNGCTDUTZ2RWV6EFDA.jpeg"
   },
   {
-    "n": 108,
+    "n": 109,
     "id": "https://www.infobae.com/america/eeuu/2021/07/02/wall-street-cerro-con-record-del-sp-500-por-septimo-dia-consecutivo-y-se-consolida-la-recuperacion-economica-de-eeuu/",
     "title": "Wall Street cerró con récord del S&P 500 por séptimo día consecutivo y se consolida la recuperación económica de EEUU",
     "url": "https://www.infobae.com/america/eeuu/2021/07/02/wall-street-cerro-con-record-del-sp-500-por-septimo-dia-consecutivo-y-se-consolida-la-recuperacion-economica-de-eeuu/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/6ED4FALAKJAODP6V4ZSVNSGAMM.jpg"
   },
   {
-    "n": 109,
+    "n": 110,
     "id": "https://www.infobae.com/america/america-latina/2021/07/02/el-abogado-de-dos-precandidatos-presidenciales-presos-abandono-nicaragua-por-amenazas/",
     "title": "El abogado de dos precandidatos presidenciales presos abandonó Nicaragua por amenazas",
     "url": "https://www.infobae.com/america/america-latina/2021/07/02/el-abogado-de-dos-precandidatos-presidenciales-presos-abandono-nicaragua-por-amenazas/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/DFS3HKDP6ZHX5D7YYKOI5M2R2E.jpg"
-  },
-  {
-    "n": 110,
-    "id": "https://www.infobae.com/america/mexico/2021/07/02/violencia-y-terror-en-mexico-julio-inicio-con-64-homicidios/",
-    "title": "Violencia y terror en México: julio inició con 64 homicidios",
-    "url": "https://www.infobae.com/america/mexico/2021/07/02/violencia-y-terror-en-mexico-julio-inicio-con-64-homicidios/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/3LBALSGJKZFVROZ3VFB3D27SR4.jpeg"
   },
   {
     "n": 111,
