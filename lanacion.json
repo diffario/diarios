@@ -2,7 +2,7 @@
   {
     "n": 1,
     "id": "PYHTX3QPYRAMTLGP6M45BWWNDI",
-    "title": "Clases. Para pasar de grado o año, los estudiantes deberán aprobar el 70% de los contenidos priorizados",
+    "title": "Clases. Para pasar de año, los estudiantes deberán aprobar el 70% de los contenidos priorizados",
     "url": "https://www.lanacion.com.ar/sociedad/clases-para-pasar-de-grado-o-ano-los-estudiantes-deberan-aprobar-el-70-de-los-contenidos-priorizados-nid20072021/",
     "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/NqvceMbq0ARUCTyMm1lwWxh-LiA=/879x586/smart/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/WYQJ77OPYFD3RDWBDPIOQLSRFA.JPG"
   },
@@ -15,24 +15,24 @@
   },
   {
     "n": 3,
+    "id": "EAI2IFCVURCMPP46LIDC4WLTAE",
+    "title": "Acto en Chaco. Alberto Fernández: “Está a pocos metros la salida de la pandemia”",
+    "url": "https://www.lanacion.com.ar/politica/alberto-fernandez-inaugura-obras-en-chaco-nid20072021/",
+    "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/CRFXEYewhr4ympodBANRKr526p8=/879x586/smart/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/LJQRMEY2XNCJVGVLRUTJFOPM7A.jpg"
+  },
+  {
+    "n": 4,
+    "id": "NIT5U4RFPFDSBEHRE274Q7HVZ4",
+    "title": "Interna. En campaña, Manes ya pisa el conurbano con sus aliados peronistas",
+    "url": "https://www.lanacion.com.ar/politica/en-campana-facundo-manes-ya-pisa-el-conurbano-con-sus-aliados-peronistas-nid20072021/",
+    "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/KrzV1u7EcZBp3RJVU10lOK3CK7o=/879x586/smart/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/EEF5OK75JFH5VI5WBFJFOUMULI.jpg"
+  },
+  {
+    "n": 5,
     "id": "PRR23UEHXNFZPJ2LCAIWIGVXVI",
     "title": "Dólar. El blue sigue subiendo y enciende las alarmas por la brecha cambiaria",
     "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-el-blue-sigue-subiendo-y-enciende-las-alarmas-por-la-brecha-cambiaria-nid20072021/",
     "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/qzXD_GuK7NM0Cf3QiLcMeWrHh5E=/879x586/smart/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/GF2BR3JRARCGXGETW3P3CLLGRI.jpg"
-  },
-  {
-    "n": 4,
-    "id": "EMJGT6PVHJEFBCPS3LUYWNQMJQ",
-    "title": "Elecciones. Nervios, especulaciones y tironeos en la Casa Rosada por las listas",
-    "url": "https://www.lanacion.com.ar/politica/nervios-especulaciones-y-tironeos-en-la-casa-rosada-por-la-indefinicion-con-las-listas-nid20072021/",
-    "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/hEy4X_R3HPjysPHFAwIIyr9_3FY=/360x240/smart/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/WCCETVTZEFDFFEMWHNHUEDAB5Q.jpg"
-  },
-  {
-    "n": 5,
-    "id": "VZX3CE5PDZCH7NOL6PUGP7NLM4",
-    "title": "Perfil de riesgo. Qué dicen los primeros datos locales sobre el impacto cardiovascular del Covid-19",
-    "url": "https://www.lanacion.com.ar/sociedad/que-dicen-los-primeros-datos-locales-sobre-el-impacto-cardiovascular-del-covid-19-nid20072021/",
-    "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/KW3ShUWTuJ_HU4ki6BdePaN5rQ0=/879x586/smart/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/YNSIHG3BHFAMDCHU3GR3XQL2HQ.jpg"
   },
   {
     "n": 6,
@@ -44,7 +44,7 @@
   {
     "n": 7,
     "id": "AECLZGBC4BH23BQNS22NHI67ZY",
-    "title": "Minuto a minuto. Jeff Bezos, el hombre más rico del mundo, finalizó con éxito su viaje al espacio",
+    "title": "Hazaña. Jeff Bezos, el hombre más rico del mundo, finalizó con éxito su viaje al espacio",
     "url": "https://www.lanacion.com.ar/sociedad/jeff-bezos-vuelo-al-espacio-en-vivo-nid20072021/",
     "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/elrtEUEUc48bW9XyhX2V4xcC1RY=/360x240/smart/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/4TORQ5JDSRBINGO2IM2OQPA2KU"
   },
@@ -78,24 +78,24 @@
   },
   {
     "n": 12,
-    "id": "PTFAED7MFVCUNEMAGYFQPQE4NQ",
-    "title": "Reina Máxima. Las razones por las que sufrirá, junto al rey Guillermo, \"síndrome de palacio vacío\"",
-    "url": "https://www.lanacion.com.ar/revista-hola/reina-maxima-las-razones-por-las-que-sufrira-junto-al-rey-guillermo-sindrome-de-palacio-vacio-nid20072021/",
-    "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/w-cxgscvvYvrPI-nJWYooGKig2k=/879x586/smart/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/S4SH2LP4EZFTBJLPPH2FV73VT4.jpg"
+    "id": "VZX3CE5PDZCH7NOL6PUGP7NLM4",
+    "title": "Perfil de riesgo. Qué dicen los primeros datos locales sobre el impacto cardiovascular del Covid-19",
+    "url": "https://www.lanacion.com.ar/sociedad/que-dicen-los-primeros-datos-locales-sobre-el-impacto-cardiovascular-del-covid-19-nid20072021/",
+    "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/KW3ShUWTuJ_HU4ki6BdePaN5rQ0=/879x586/smart/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/YNSIHG3BHFAMDCHU3GR3XQL2HQ.jpg"
   },
   {
     "n": 13,
+    "id": "SUAMSYV4MFDYDHXHN22UWDSKYQ",
+    "title": "\"The Small One\". La argentina ejemplar: los elogios de la revista Time a Pareto",
+    "url": "https://www.lanacion.com.ar/deportes/judo/the-small-one-paulo-pareto-en-la-lista-de-la-revista-time-de-heroes-del-deporte-que-le-dieron-nid20072021/",
+    "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/Kb7MoylwozH9cTsU2IXiIL-CB7c=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/TIFPHQDE6VFI7B2436NW5DXLMA.jpg"
+  },
+  {
+    "n": 14,
     "id": "QLHFDFUVTJCG5JAV42RRBMH72E",
     "title": "Días, horarios y TV. Cuándo juega la Selección argentina de fútbol en los Juegos Olímpicos",
     "url": "https://www.lanacion.com.ar/deportes/futbol/tokio-2020-cuando-juega-la-seleccion-argentina-de-futbol-en-los-juegos-olimpicos-nid19072021/",
     "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/ET-FhvwK-rRPnKWAPibnq4LsW7c=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/5MDCUZDWHVAZ5BXBFDD5DPBGJE.JPG"
-  },
-  {
-    "n": 14,
-    "id": "SIIRTQLOG5ALJN3XGB265JIYQQ",
-    "title": "La ilusión del tenis. El desafío de Zeballos en el dobles y el partido que jamás deja de mirar en Youtube",
-    "url": "https://www.lanacion.com.ar/deportes/tenis/tokio-2020-horacio-zeballos-sigo-mirando-por-youtube-la-final-que-le-gane-a-nadal-en-vina-del-mar-nid20072021/",
-    "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/ILQIs2KEpiCx19ZEwWQ-vLyzW3A=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/3EX3R55IVRHU3HN3C24BPE2N3I.JPG"
   },
   {
     "n": 15,
@@ -113,10 +113,10 @@
   },
   {
     "n": 17,
-    "id": "UFF7QJI57JCCDAXPFXEOQOFYEY",
-    "title": "Vacuna contra el Covid-19. Cuáles son los países que combinan dosis de distintos laboratorios",
-    "url": "https://www.lanacion.com.ar/el-mundo/vacuna-contra-el-covid-19-cuales-son-los-paises-que-ya-combinan-dosis-de-distintos-laboratorios-nid20072021/",
-    "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/XPbgClmu3hVcKcBt4b1fsq6bofU=/879x586/smart/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/IW6XOJVAX5HTLCM65EN4KQADWE"
+    "id": "EMJGT6PVHJEFBCPS3LUYWNQMJQ",
+    "title": "Elecciones. Nervios, especulaciones y tironeos en la Casa Rosada por las listas",
+    "url": "https://www.lanacion.com.ar/politica/nervios-especulaciones-y-tironeos-en-la-casa-rosada-por-la-indefinicion-con-las-listas-nid20072021/",
+    "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/hEy4X_R3HPjysPHFAwIIyr9_3FY=/360x240/smart/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/WCCETVTZEFDFFEMWHNHUEDAB5Q.jpg"
   },
   {
     "n": 18,
@@ -326,7 +326,7 @@
     "id": "4KT5YXU3NZAZFPBEURICRUH5XI",
     "title": "Gansbaai. Por qué la paradisíaca playa de Sudáfrica es la elegida por los amantes del buceo",
     "url": "https://www.lanacion.com.ar/lifestyle/amada-y-odiada-la-gran-playa-de-sudafrica-que-seduce-a-amantes-del-buceo-por-su-gran-peligro-nid20072021/",
-    "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/B13Da-SN4tj-YUmIdLm43KFgX4k=/1920x1280/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/FUNOF7DCQFDE3CN2UZ2I7GAX2M.jpg"
+    "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/9Dyqww_2wJ9ixr9lHlZA6ad6iRM=/1920x1280/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/RW4DA37NLRAKFBO3LQ7N2HVW3M.jpg"
   },
   {
     "n": 48,
@@ -337,10 +337,10 @@
   },
   {
     "n": 49,
-    "id": "LY25RA5KKJHG3CMXAGWW3LTIAY",
-    "title": "Futuro Sostenible: qué están haciendo las compañías para ser agentes de cambio",
-    "url": "https://www.lanacion.com.ar/lifestyle/futuro-sostenible-acumulado-nid07062021/",
-    "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/C2j8R-dc1HcjYpduy3kOuw-SuwU=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/JKODJADP35CWLKSVLWT5STDBKA.jpg"
+    "id": "JCNDE4ZK7RCNPLAB3ZN5HQ4P6Y",
+    "title": "Fintech: las soluciones que te hacen más fácil la vida",
+    "url": "https://www.lanacion.com.ar/economia/negocios/fintech-las-soluciones-que-te-hacen-mas-facil-la-vida-nid27052021/",
+    "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/3l9OBTrrghsPk-HyOB0e6fJh1IE=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/YMQNE2URI5E2NF4KBM22AKFUYE.jpg"
   },
   {
     "n": 50,
