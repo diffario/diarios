@@ -37,7 +37,7 @@
   {
     "n": 6,
     "id": "b9lD_LSBs",
-    "title": "Lo confirmó Scioli. El plantel de Russo vuelve esta tarde al país tras el escándalo",
+    "title": "Partió de Brasil. Tras el escándalo, el plantel de Boca ya está en camino al país",
     "url": "https://www.clarin.com/deportes/boca-vuelve-tarde-pais-escandalo-belo-horizonte_0_b9lD_LSBs.html",
     "image": "https://images.clarin.com/2021/07/21/JrIgrcxmI_720x0__1.jpg"
   },
@@ -135,7 +135,7 @@
   {
     "n": 20,
     "id": "b9lD_LSBs",
-    "title": "Lo confirmó Scioli. El plantel de Russo vuelve esta tarde al país tras el escándalo",
+    "title": "Partió de Brasil. Tras el escándalo, el plantel de Boca ya está en camino al país",
     "url": "https://www.clarin.com/deportes/boca-vuelve-tarde-pais-escandalo-belo-horizonte_0_b9lD_LSBs.html",
     "image": "https://images.clarin.com/2021/07/21/JrIgrcxmI_720x0__1.jpg"
   },
@@ -232,17 +232,17 @@
   },
   {
     "n": 34,
+    "id": "3HzpbSESI",
+    "title": "Las huellas del Covid. La impactante caída de la expectativa de vida en EE.UU. el año pasado",
+    "url": "https://www.clarin.com/mundo/huellas-covid-expectativa-vida-unidos-cayo-ano-medio-2020_0_3HzpbSESI.html",
+    "image": "https://images.clarin.com/2021/07/21/J9-s4Ga6J_1256x620__2.jpg#1626873544455"
+  },
+  {
+    "n": 35,
     "id": "bHTGUKPkl",
     "title": "Movilidad. La bici está de moda y hay \"congestiones\": las ciclovías que más se usan",
     "url": "https://www.clarin.com/ciudades/bici-moda-congestion-hora-pico-ciclovias-usan_0_bHTGUKPkl.html",
     "image": "https://images.clarin.com/2021/07/17/ZEaMoJThy_720x0__1.jpg"
-  },
-  {
-    "n": 35,
-    "id": "MjJQ4D7zD",
-    "title": "Chubut. Denuncian que más de mil personas tomaron terrenos tras incendios",
-    "url": "https://www.clarin.com/sociedad/chubut-denuncian-mil-personas-tomaron-terrenos-serie-incendios_0_MjJQ4D7zD.html",
-    "image": "https://images.clarin.com/2021/03/12/5pth_PhC9_720x0__1.jpg"
   },
   {
     "n": 36,
@@ -358,174 +358,181 @@
   },
   {
     "n": 52,
+    "id": "C9acAmJvY",
+    "title": "Justicia y política. La trama K para designar una jueza afín en el tribunal que define la causa Correo",
+    "url": "https://www.clarin.com/politica/trama-k-designar-jueza-afin-tribunal-define-causa-correo-argentino_0_C9acAmJvY.html",
+    "image": "https://images.clarin.com/2021/02/17/ZbSbcK0Ss_720x0__1.jpg"
+  },
+  {
+    "n": 53,
     "id": "xTZlsGC8E",
     "title": "La pelea en CABA. Nueva encuesta electoral de una de las consultoras que mide para el Gobierno",
     "url": "https://www.clarin.com/politica/nueva-encuesta-electoral-consultoras-mide-gobierno_0_xTZlsGC8E.html",
     "image": "https://images.clarin.com/2021/05/01/gBleWwOX8_720x0__1.jpg"
   },
   {
-    "n": 53,
-    "id": "2utaN_BoE",
-    "title": "Deuda bonaerense. Kicillof alcanza un acuerdo con su principal acreedor un año después que Nación",
-    "url": "https://www.clarin.com/economia/deuda-axel-kicillof-alcanza-acuerdo-principal-acreedor-ano-despues-nacion_0_2utaN_BoE.html",
-    "image": "https://images.clarin.com/2021/06/09/65ZSS59gD_720x0__1.jpg"
+    "n": 54,
+    "id": "lMMc0iNMW",
+    "title": "Frente de Todos. Victoria Tolosa Paz encabezaría la lista oficial en Provincia y la secundaría Gollan",
+    "url": "https://www.clarin.com/politica/victoria-tolosa-paz-encabezaria-lista-diputados-nacionales-secundaria-daniel-gollan_0_lMMc0iNMW.html",
+    "image": "https://images.clarin.com/2019/12/21/FVg5uIX-_1256x620__2.jpg#1626881340738"
   },
   {
-    "n": 54,
+    "n": 55,
     "id": "WxLlN5pUs",
-    "title": "Coronavirus. Francia entra en la cuarta ola con medidas más duras y denuncias de \"dictadura sanitaria\"",
+    "title": "Coronavirus. Francia: cuarta ola, medidas más duras y denuncias de \"dictadura sanitaria\"",
     "url": "https://www.clarin.com/mundo/francia-entra-cuarta-ola-coronavirus-estrena-pasaporte-sanitario-endurece-medidas_0_WxLlN5pUs.html",
     "image": "https://images.clarin.com/2021/07/21/_LSunfKEQ_720x0__1.jpg"
   },
   {
-    "n": 55,
-    "id": "3HzpbSESI",
-    "title": "Las huellas del Covid. La impactante caída de la expectativa de vida en EE.UU. el año pasado",
-    "url": "https://www.clarin.com/mundo/huellas-covid-expectativa-vida-unidos-cayo-ano-medio-2020_0_3HzpbSESI.html",
-    "image": "https://images.clarin.com/2021/07/21/J9-s4Ga6J_1256x620__2.jpg#1626873544455"
+    "n": 56,
+    "id": "BbfX3pPo0",
+    "title": "Desde el celular. Coronavirus: cómo tramitar el certificado digital de vacunación",
+    "url": "https://www.clarin.com/servicios/coronavirus-tramitar-certificado-digital-vacunacion_0_BbfX3pPo0.html",
+    "image": "https://images.clarin.com/2021/07/21/huKoLhoix_720x0__1.jpg"
   },
   {
-    "n": 56,
+    "n": 57,
+    "id": "5aJQGf1nR",
+    "title": "En plena audiencia. Crimen del contador: un detenido dijo que tenía Covid y provocó una situación insólita",
+    "url": "https://www.clarin.com/policiales/crimen-contador-parana-sospechosos-misma-familia-fiscal-va-pedir-prisiones-preventivas_0_5aJQGf1nR.html",
+    "image": "https://images.clarin.com/2021/07/19/jhNyj3DLC_1256x620__3.jpg#1626870352501"
+  },
+  {
+    "n": 58,
     "id": "3DeHC8Jp8",
     "title": "Debate. Penes de madera: ¿qué pasó con la ESI en pandemia?",
     "url": "https://www.clarin.com/sociedad/debate-penes-madera-pandemia-profundizo-fallas-educacion-sexual-integral-_0_3DeHC8Jp8.html",
     "image": "https://images.clarin.com/2021/07/18/iGN9QA312_720x0__1.jpg"
   },
   {
-    "n": 57,
-    "id": "5aJQGf1nR",
-    "title": "Hay cuatro detenidos. Crimen del contador en Paraná: los sospechosos son de una misma familia",
-    "url": "https://www.clarin.com/policiales/crimen-contador-parana-sospechosos-misma-familia-fiscal-va-pedir-prisiones-preventivas_0_5aJQGf1nR.html",
-    "image": "https://images.clarin.com/2021/07/19/jhNyj3DLC_1256x620__3.jpg#1626870352501"
-  },
-  {
-    "n": 58,
+    "n": 59,
     "id": "WlpB2HC3p",
     "title": "Insólita situación. Video: encontró a su mujer y su mejor amigo entrando a un hotel",
     "url": "https://www.clarin.com/sociedad/video-encontro-mujer-mejor-amigo-entrando-hotel_0_WlpB2HC3p.html",
     "image": "https://images.clarin.com/2021/07/20/Qx-KODnJt_720x0__1.jpg"
   },
   {
-    "n": 59,
+    "n": 60,
     "id": "ibvJXCKe_",
     "title": "Veinte preguntas a José Luis Clerc. La política, su rivalidad con Vilas y el mundo de la raqueta: \"En el tenis hay mucha envidia\"",
     "url": "https://www.clarin.com/viva/jose-luis-clerc-tenis-mucha-envidia-_0_ibvJXCKe_.html",
     "image": "https://images.clarin.com/2018/05/01/Hyl8nuwTf_1256x620__3.jpg#1626865222109"
   },
   {
-    "n": 60,
+    "n": 61,
     "id": "KIZEInUvj",
     "title": "Inversiones. Emprendedores: cuál es la última apuesta de Marcos Galperin",
     "url": "https://www.clarin.com/economia/emprendedores-ultima-apuesta-marcos-galperin_0_KIZEInUvj.html",
     "image": "https://images.clarin.com/2021/07/21/DSnpn3FLf_720x0__1.jpg"
   },
   {
-    "n": 61,
+    "n": 62,
     "id": "g6Ip1rOt4",
     "title": "Finanzas. Manual de supervivencia para pymes: 5 claves para sobrevivir a la crisis",
     "url": "https://www.clarin.com/servicios/manual-supervivencia-pymes-5-claves-sobrevivir-crisis-reinventarse_0_g6Ip1rOt4.html",
     "image": "https://images.clarin.com/2021/06/11/RK31pBSM2_720x0__1.jpg"
   },
   {
-    "n": 62,
+    "n": 63,
     "id": "J45mjhAuI",
     "title": "Burocracia judicial. El insólito pedido a la madre de un joven atropellado por un médico borracho",
     "url": "https://www.clarin.com/sociedad/insolito-pedido-madre-joven-murio-atropellado-medico-borracho_0_J45mjhAuI.html",
     "image": "https://images.clarin.com/2021/07/20/BUE0Cpecr_1256x620__2.jpg#1626813843223"
   },
   {
-    "n": 63,
+    "n": 64,
     "id": "P-fS-jNWC",
     "title": "\"Post it\" online. A qué se dedica Mural, la startup que es el nuevo unicornio argentino",
     "url": "https://www.clarin.com/tecnologia/dedica-mural-startup-convirtio-nuevo-unicornio-argentino_0_P-fS-jNWC.html",
     "image": "https://images.clarin.com/2021/07/21/tLkKPL2fU_720x0__1.jpg"
   },
   {
-    "n": 64,
+    "n": 65,
     "id": "G_MhTZEah",
     "title": "Diversidad. Qué significa ser graysexual",
     "url": "https://www.clarin.com/relaciones/-que-significa-ser-graysexual-_0_G_MhTZEah.html",
     "image": "https://images.clarin.com/2021/07/15/DbhCKihm4_720x0__1.jpg"
   },
   {
-    "n": 65,
+    "n": 66,
     "id": "CaCG8LjJn",
     "title": "Alimentación. De los copos al cous cous: cómo sumar cereales más allá del desayuno",
     "url": "https://www.clarin.com/buena-vida/copos-cous-cous-incorporar-cereales-alla-desayuno_0_CaCG8LjJn.html",
     "image": "https://images.clarin.com/2021/07/20/BM6OtDzjm_720x0__1.jpg"
   },
   {
-    "n": 66,
+    "n": 67,
     "id": "oBPwNU_0a",
     "title": "La ficción después del amor. La TV volvió a juntar a Cecilia Dopazo y Fernán Mirás",
     "url": "https://www.clarin.com/espectaculos/tv/ficcion-despues-amor-tv-volvio-juntar-cecilia-dopazo-fernan-miras_0_oBPwNU_0a.html",
     "image": "https://images.clarin.com/2021/07/20/xLjNl6CrY_720x0__1.jpg"
   },
   {
-    "n": 67,
+    "n": 68,
     "id": "cWxZKUv4T",
     "title": "En Provincia. Tras las huellas de Francisco Salamone: guía para conocer sus mejores obras",
     "url": "https://www.clarin.com/viajes/recorrido-provincia-buenos-aires-traves-obra-arquitecto-francisco-salamone_0_cWxZKUv4T.html",
     "image": "https://images.clarin.com/2021/07/09/vbz4BnkGd_720x0__1.jpg"
   },
   {
-    "n": 68,
+    "n": 69,
     "id": "ibvJXCKe_",
     "title": "Veinte preguntas a José Luis Clerc. La política, su rivalidad con Vilas y el mundo de la raqueta: \"En el tenis hay mucha envidia\"",
     "url": "https://www.clarin.com/viva/jose-luis-clerc-tenis-mucha-envidia-_0_ibvJXCKe_.html",
     "image": "https://images.clarin.com/2018/05/01/Hyl8nuwTf_1256x620__3.jpg#1626865222109"
   },
   {
-    "n": 69,
+    "n": 70,
     "id": "KIZEInUvj",
     "title": "Inversiones. Emprendedores: cuál es la última apuesta de Marcos Galperin",
     "url": "https://www.clarin.com/economia/emprendedores-ultima-apuesta-marcos-galperin_0_KIZEInUvj.html",
     "image": "https://images.clarin.com/2021/07/21/DSnpn3FLf_720x0__1.jpg"
   },
   {
-    "n": 70,
+    "n": 71,
     "id": "g6Ip1rOt4",
     "title": "Finanzas. Manual de supervivencia para pymes: 5 claves para sobrevivir a la crisis",
     "url": "https://www.clarin.com/servicios/manual-supervivencia-pymes-5-claves-sobrevivir-crisis-reinventarse_0_g6Ip1rOt4.html",
     "image": "https://images.clarin.com/2021/06/11/RK31pBSM2_720x0__1.jpg"
   },
   {
-    "n": 71,
+    "n": 72,
     "id": "J45mjhAuI",
     "title": "Burocracia judicial. El insólito pedido a la madre de un joven atropellado por un médico borracho",
     "url": "https://www.clarin.com/sociedad/insolito-pedido-madre-joven-murio-atropellado-medico-borracho_0_J45mjhAuI.html",
     "image": "https://images.clarin.com/2021/07/20/BUE0Cpecr_1256x620__2.jpg#1626813843223"
   },
   {
-    "n": 72,
+    "n": 73,
     "id": "P-fS-jNWC",
     "title": "\"Post it\" online. A qué se dedica Mural, la startup que es el nuevo unicornio argentino",
     "url": "https://www.clarin.com/tecnologia/dedica-mural-startup-convirtio-nuevo-unicornio-argentino_0_P-fS-jNWC.html",
     "image": "https://images.clarin.com/2021/07/21/tLkKPL2fU_720x0__1.jpg"
   },
   {
-    "n": 73,
+    "n": 74,
     "id": "G_MhTZEah",
     "title": "Diversidad. Qué significa ser graysexual",
     "url": "https://www.clarin.com/relaciones/-que-significa-ser-graysexual-_0_G_MhTZEah.html",
     "image": "https://images.clarin.com/2021/07/15/DbhCKihm4_720x0__1.jpg"
   },
   {
-    "n": 74,
+    "n": 75,
     "id": "CaCG8LjJn",
     "title": "Alimentación. De los copos al cous cous: cómo sumar cereales más allá del desayuno",
     "url": "https://www.clarin.com/buena-vida/copos-cous-cous-incorporar-cereales-alla-desayuno_0_CaCG8LjJn.html",
     "image": "https://images.clarin.com/2021/07/20/BM6OtDzjm_720x0__1.jpg"
   },
   {
-    "n": 75,
+    "n": 76,
     "id": "oBPwNU_0a",
     "title": "La ficción después del amor. La TV volvió a juntar a Cecilia Dopazo y Fernán Mirás",
     "url": "https://www.clarin.com/espectaculos/tv/ficcion-despues-amor-tv-volvio-juntar-cecilia-dopazo-fernan-miras_0_oBPwNU_0a.html",
     "image": "https://images.clarin.com/2021/07/20/xLjNl6CrY_720x0__1.jpg"
   },
   {
-    "n": 76,
+    "n": 77,
     "id": "cWxZKUv4T",
     "title": "En Provincia. Tras las huellas de Francisco Salamone: guía para conocer sus mejores obras",
     "url": "https://www.clarin.com/viajes/recorrido-provincia-buenos-aires-traves-obra-arquitecto-francisco-salamone_0_cWxZKUv4T.html",
