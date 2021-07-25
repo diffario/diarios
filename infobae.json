@@ -86,7 +86,7 @@
   {
     "n": 13,
     "id": "https://www.infobae.com/deportes/juegos-olimpicos/2021/07/25/argentina-va-por-la-recuperacion-ante-egipto-en-el-futbol-masculino-de-los-juegos-olimpicos-hora-tv-y-formaciones/",
-    "title": "Argentina no puede ante Egipto y empata 0-0 en el fútbol masculino de los Juegos Olímpicos",
+    "title": "Argentina vence 1-0 a Egipto en el fútbol masculino de los Juegos Olímpicos",
     "url": "https://www.infobae.com/deportes/juegos-olimpicos/2021/07/25/argentina-va-por-la-recuperacion-ante-egipto-en-el-futbol-masculino-de-los-juegos-olimpicos-hora-tv-y-formaciones/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/FMS76RJRRBC7ZCKPE67VS46UWQ.jfif"
   },
@@ -184,7 +184,7 @@
   {
     "n": 27,
     "id": "https://www.infobae.com/america/deportes/juegos-olimpicos/2021/07/24/agenda-de-actividades-de-los-juegos-olimpicos-de-tokio-dia-2-y-3-pareto-ira-al-repechaje-por-el-bronce-y-lucas-guzman-sigue-en-carrera-en-el-taekwondo/",
-    "title": "Agenda de los Juegos Olímpicos, día 2: Ganó Nadia Podoroska en el tenis individual, debutó Simone Biles y habrá un duelo de lujo en básquet",
+    "title": "Agenda de los Juegos Olímpicos, día 2: Ganó Nadia Podoroska en el tenis individual, se presentó Simone Biles y habrá un duelo de lujo en básquet",
     "url": "https://www.infobae.com/america/deportes/juegos-olimpicos/2021/07/24/agenda-de-actividades-de-los-juegos-olimpicos-de-tokio-dia-2-y-3-pareto-ira-al-repechaje-por-el-bronce-y-lucas-guzman-sigue-en-carrera-en-el-taekwondo/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/2ZXPEFEI5EFM5VJS3DJX7HP374.jpg"
   },
@@ -743,38 +743,38 @@
   },
   {
     "n": 107,
+    "id": "https://www.infobae.com/economia/2021/07/25/el-dia-despues-para-las-aereas-que-empresas-sobreviviran-una-vez-que-se-haya-controlado-la-pandemia/",
+    "title": "El día después para las aéreas: qué empresas sobrevivirán una vez que se haya controlado la pandemia",
+    "url": "https://www.infobae.com/economia/2021/07/25/el-dia-despues-para-las-aereas-que-empresas-sobreviviran-una-vez-que-se-haya-controlado-la-pandemia/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/B5UARTBOTHB3WTZISVVBPHP5IA.jpg"
+  },
+  {
+    "n": 108,
+    "id": "https://www.infobae.com/politica/2021/07/25/durante-el-juicio-por-enriquecimiento-ilicito-de-ricardo-jaime-murieron-tres-de-sus-testaferros/",
+    "title": "Durante el juicio por enriquecimiento ilícito de Ricardo Jaime murieron tres de sus testaferros",
+    "url": "https://www.infobae.com/politica/2021/07/25/durante-el-juicio-por-enriquecimiento-ilicito-de-ricardo-jaime-murieron-tres-de-sus-testaferros/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/S6ENBB342VD3DBRKVCCOMG4V54.jpg"
+  },
+  {
+    "n": 109,
     "id": "https://www.infobae.com/politica/2021/07/25/como-cerraron-sus-listas-los-celestes-el-partido-que-lidera-guillermo-moreno-y-el-frente-de-santiago-cuneo/",
     "title": "Cómo cerraron sus listas “los celestes”, el partido que lidera Guillermo Moreno y el frente de Santiago Cúneo",
     "url": "https://www.infobae.com/politica/2021/07/25/como-cerraron-sus-listas-los-celestes-el-partido-que-lidera-guillermo-moreno-y-el-frente-de-santiago-cuneo/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/OUJO22RKVFEENOT34PCVW5CUC4.jpg"
   },
   {
-    "n": 108,
+    "n": 110,
     "id": "https://www.infobae.com/politica/2021/07/25/rogelio-frigerio-logro-cerrar-los-acuerdos-necesarios-en-entre-rios-y-encabezara-una-lista-dentro-de-juntos-por-el-cambio/",
     "title": "Rogelio Frigerio cerró los acuerdos necesarios en Entre Ríos y encabezará una lista dentro de Juntos por el Cambio",
     "url": "https://www.infobae.com/politica/2021/07/25/rogelio-frigerio-logro-cerrar-los-acuerdos-necesarios-en-entre-rios-y-encabezara-una-lista-dentro-de-juntos-por-el-cambio/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/M3ADMA4RZJBWJJ2YNTUP33JMDQ.jfif"
   },
   {
-    "n": 109,
+    "n": 111,
     "id": "https://www.infobae.com/politica/2021/07/25/chubut-rio-negro-y-neuquen-como-quedo-el-armado-del-oficialismo-en-el-sur-del-pais/",
     "title": "Chubut, Río Negro y Neuquén: cómo quedó el armado del oficialismo en el sur del país ",
     "url": "https://www.infobae.com/politica/2021/07/25/chubut-rio-negro-y-neuquen-como-quedo-el-armado-del-oficialismo-en-el-sur-del-pais/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/MWS2JIUBAJA5FOT2XF7U4E3PUA.jpg"
-  },
-  {
-    "n": 110,
-    "id": "https://www.infobae.com/politica/2021/07/25/los-nombres-inesperados-de-las-paso-cantantes-periodistas-un-campeon-del-mundo-y-un-ex-dirigente-de-boca-se-lanzan-a-la-politica/",
-    "title": "Las sorpresas de las PASO: cantantes, periodistas, un campeón del mundo y un ex dirigente de Boca se lanzan a la política",
-    "url": "https://www.infobae.com/politica/2021/07/25/los-nombres-inesperados-de-las-paso-cantantes-periodistas-un-campeon-del-mundo-y-un-ex-dirigente-de-boca-se-lanzan-a-la-politica/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/IY5FB2RYJFFXHDU6TNFDASCF7Y.jpg"
-  },
-  {
-    "n": 111,
-    "id": "https://www.infobae.com/politica/2021/07/25/el-radicalismo-en-mendoza-llevara-a-cobos-para-diputado-a-cornejo-para-senador-y-al-gobernador-como-suplente/",
-    "title": "El radicalismo en Mendoza llevará a Cobos para diputado, a Cornejo para senador y al gobernador como “suplente”",
-    "url": "https://www.infobae.com/politica/2021/07/25/el-radicalismo-en-mendoza-llevara-a-cobos-para-diputado-a-cornejo-para-senador-y-al-gobernador-como-suplente/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/SRGRL6KCPBAWTFT4CJZGE2YHOI.jpg"
   },
   {
     "n": 112,
@@ -848,37 +848,37 @@
   },
   {
     "n": 122,
+    "id": "https://www.infobae.com/america/deportes/juegos-olimpicos/2021/07/25/simone-biles-debuto-en-los-juegos-olimpicos-de-tokio-2020-asi-fue-su-desempeno/",
+    "title": "Simone Biles debutó en los Juegos Olímpicos de Tokio 2020: así fue su desempeño",
+    "url": "https://www.infobae.com/america/deportes/juegos-olimpicos/2021/07/25/simone-biles-debuto-en-los-juegos-olimpicos-de-tokio-2020-asi-fue-su-desempeno/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/I6OGWMCESXE77XBF3WMMXJ5SNY.jpg"
+  },
+  {
+    "n": 123,
+    "id": "https://www.infobae.com/america/deportes/2021/07/25/tokio-2020-yareli-salazar-no-termino-competencia-en-ciclismo-de-ruta-femenil-quedo-en-la-posicion-55/",
+    "title": "Tokio 2020: Yareli Salazar no terminó competencia en ciclismo de ruta femenil; quedó en la posición 55",
+    "url": "https://www.infobae.com/america/deportes/2021/07/25/tokio-2020-yareli-salazar-no-termino-competencia-en-ciclismo-de-ruta-femenil-quedo-en-la-posicion-55/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/W52ZA4AAFULPOYNTKGSTVV4NIU.jpg"
+  },
+  {
+    "n": 124,
     "id": "https://www.infobae.com/america/deportes/2021/07/25/tokio-2020-equipo-femenil-de-clavados-termino-en-cuarta-posicion-vencio-a-japon-y-usa/",
     "title": "Tokio 2020: equipo femenil de clavados terminó en cuarta posición; venció a Japón y USA en trampolín de 3 metros",
     "url": "https://www.infobae.com/america/deportes/2021/07/25/tokio-2020-equipo-femenil-de-clavados-termino-en-cuarta-posicion-vencio-a-japon-y-usa/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/ZGL25TBW7XM4TIPCEYNX5J4HGM.jpg"
   },
   {
-    "n": 123,
+    "n": 125,
     "id": "https://www.infobae.com/america/deportes/2021/07/25/tokio-2020-edson-ramirez-no-clasifico-a-la-final-de-tiro-deportivo-con-carabina-de-aire/",
     "title": "Tokio 2020: Edson Ramírez no clasificó a la final de tiro deportivo con carabina de aire",
     "url": "https://www.infobae.com/america/deportes/2021/07/25/tokio-2020-edson-ramirez-no-clasifico-a-la-final-de-tiro-deportivo-con-carabina-de-aire/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/FF6DH32V25CZNEPCR26GTFK2CI.jpeg"
   },
   {
-    "n": 124,
+    "n": 126,
     "id": "https://www.infobae.com/america/deportes/2021/07/25/tokio-2020-sofia-reinoso-debuto-en-los-juegos-durante-la-clasificatoria-de-canotaje-eslalon/",
     "title": "Tokio 2020: Sofia Reinoso debutó en los juegos durante la clasificatoria de canotaje eslalon",
     "url": "https://www.infobae.com/america/deportes/2021/07/25/tokio-2020-sofia-reinoso-debuto-en-los-juegos-durante-la-clasificatoria-de-canotaje-eslalon/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/V3XTWDMVBKDKIZSAZ5IP6AR4SI.jpg"
-  },
-  {
-    "n": 125,
-    "id": "https://www.infobae.com/america/deportes/2021/07/25/tokio-2020-ignacio-berenguer-y-elena-oetling-finalizaron-su-primeras-competencias-de-vela/",
-    "title": "Tokio 2020: Ignacio Berenguer y Elena Oetling finalizaron su primeras competencias de Vela ",
-    "url": "https://www.infobae.com/america/deportes/2021/07/25/tokio-2020-ignacio-berenguer-y-elena-oetling-finalizaron-su-primeras-competencias-de-vela/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/NWG2PCHWKT654UROKVVPPLD2UI.jpg"
-  },
-  {
-    "n": 126,
-    "id": "https://www.infobae.com/america/deportes/2021/07/25/joaquin-capilla-el-primer-clavadista-que-le-dio-una-medalla-a-mexico/",
-    "title": "Joaquín Capilla, el primer clavadista que le dio una medalla a México",
-    "url": "https://www.infobae.com/america/deportes/2021/07/25/joaquin-capilla-el-primer-clavadista-que-le-dio-una-medalla-a-mexico/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/P2LGWDOLCVA45LJ2SP37ZPUEJU.jpg"
   }
 ]
