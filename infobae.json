@@ -142,7 +142,7 @@
   {
     "n": 21,
     "id": "https://www.infobae.com/america/mundo/2021/08/15/los-talibanes-esperan-por-el-desalojo-de-la-embajada-de-eeuu-en-afganistan-para-ingresar-a-kabul/",
-    "title": "Los talibanes esperan por el desalojo de la Embajada de EEUU en Afganistán para ingresar a Kabul",
+    "title": "Tensión en Kabul: los talibanes esperan por el desalojo de la Embajada de EEUU en Afganistán para ingresar a la capital",
     "url": "https://www.infobae.com/america/mundo/2021/08/15/los-talibanes-esperan-por-el-desalojo-de-la-embajada-de-eeuu-en-afganistan-para-ingresar-a-kabul/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/LZSEGAWFZ5GGHHVEPRPBLLEFJA.jpg"
   },
@@ -540,17 +540,17 @@
   },
   {
     "n": 78,
+    "id": "https://www.infobae.com/sociedad/2021/08/14/coronavirus-en-argentina-confirmaron-121-muertes-y-6183-contagios-en-las-ultimas-24-horas/",
+    "title": "Coronavirus en Argentina: confirmaron 121 muertes y 6.183 contagios en las últimas 24 horas",
+    "url": "https://www.infobae.com/sociedad/2021/08/14/coronavirus-en-argentina-confirmaron-121-muertes-y-6183-contagios-en-las-ultimas-24-horas/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/2JXX7OBFGNABBO2JTOOSMTWQHI.jpg"
+  },
+  {
+    "n": 79,
     "id": "https://www.infobae.com/america/ciencia-america/2021/08/14/coronavirus-la-tercera-dosis-de-pfizer-genera-un-43-mas-de-anticuerpos-en-las-personas-inmunodeprimidas/",
     "title": "Coronavirus: la tercera dosis de Pfizer genera un 43% más de anticuerpos en las personas inmunodeprimidas",
     "url": "https://www.infobae.com/america/ciencia-america/2021/08/14/coronavirus-la-tercera-dosis-de-pfizer-genera-un-43-mas-de-anticuerpos-en-las-personas-inmunodeprimidas/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/7WN52MQWWZK5KZIUFFG3POVA34.jpg"
-  },
-  {
-    "n": 79,
-    "id": "https://www.infobae.com/america/ciencia-america/2021/08/13/cuales-son-los-sintomas-de-la-variante-delta-y-que-precauciones-se-deben-tomar/",
-    "title": "¿Cuáles son los síntomas de la variante Delta y qué precauciones se deben tomar?",
-    "url": "https://www.infobae.com/america/ciencia-america/2021/08/13/cuales-son-los-sintomas-de-la-variante-delta-y-que-precauciones-se-deben-tomar/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/X7FJVGLJB5AV7DTDEMBD2MNRK4.jpg"
   },
   {
     "n": 80,
@@ -764,10 +764,10 @@
   },
   {
     "n": 110,
-    "id": "https://www.infobae.com/sociedad/2021/08/13/vivio-en-la-calle-pero-nunca-dejo-la-facultad-casi-recibido-de-ingeniero-industrial-trabaja-ayudando-a-personas-sin-techo/",
-    "title": "Vivió en la calle pero nunca dejó la facultad: casi recibido de ingeniero industrial trabaja ayudando a personas sin techo",
-    "url": "https://www.infobae.com/sociedad/2021/08/13/vivio-en-la-calle-pero-nunca-dejo-la-facultad-casi-recibido-de-ingeniero-industrial-trabaja-ayudando-a-personas-sin-techo/",
-    "image": "https://www.infobae.com/new-resizer/de8buxhSZIUJ5lRNMj6XzHmgQlY=/cloudfront-us-east-1.images.arcpublishing.com/infobae/ZWPEKQVHLND5VJQ2UQD6M3QZDQ.jpeg"
+    "id": "https://www.infobae.com/sociedad/2021/08/15/amalita-fortabat-cumpliria-100-anos-poder-amores-tormentosos-y-una-fortuna-de-1800-millones-de-dolares/",
+    "title": "Amalita Fortabat cumpliría 100 años: poder, amores tormentosos y una fortuna de 1.800 millones de dólares",
+    "url": "https://www.infobae.com/sociedad/2021/08/15/amalita-fortabat-cumpliria-100-anos-poder-amores-tormentosos-y-una-fortuna-de-1800-millones-de-dolares/",
+    "image": "https://www.infobae.com/new-resizer/fUOxBIMmOI1plI2dYIHOnSOpofw=/cloudfront-us-east-1.images.arcpublishing.com/infobae/6IEAGULZ5ZBUTM24UPYHKQLY7U.jpg"
   },
   {
     "n": 111,
@@ -835,7 +835,7 @@
   {
     "n": 120,
     "id": "https://www.infobae.com/america/mundo/2021/08/15/los-talibanes-esperan-por-el-desalojo-de-la-embajada-de-eeuu-en-afganistan-para-ingresar-a-kabul/",
-    "title": "Los talibanes esperan por el desalojo de la Embajada de EEUU en Afganistán para ingresar a Kabul",
+    "title": "Tensión en Kabul: los talibanes esperan por el desalojo de la Embajada de EEUU en Afganistán para ingresar a la capital",
     "url": "https://www.infobae.com/america/mundo/2021/08/15/los-talibanes-esperan-por-el-desalojo-de-la-embajada-de-eeuu-en-afganistan-para-ingresar-a-kabul/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/LZSEGAWFZ5GGHHVEPRPBLLEFJA.jpg"
   },
@@ -869,38 +869,38 @@
   },
   {
     "n": 125,
+    "id": "https://www.infobae.com/america/entretenimiento/2021/08/15/en-fin-la-hipotenusa-regina-blandon-respondio-ante-ataques-por-defender-a-las-infancias-trans/",
+    "title": "“En fin, la hipotenusa”: Regina Blandón respondió ante ataques por defender a las infancias trans",
+    "url": "https://www.infobae.com/america/entretenimiento/2021/08/15/en-fin-la-hipotenusa-regina-blandon-respondio-ante-ataques-por-defender-a-las-infancias-trans/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/RS44BI3LZNGFNPVA4BOY7DF2DE.JPG"
+  },
+  {
+    "n": 126,
+    "id": "https://www.infobae.com/america/entretenimiento/2021/08/15/maldito-susto-ingrid-matrz-narro-el-momento-cuando-su-hija-casi-es-arrollada-por-una-cuatrimoto-en-acapulco/",
+    "title": "“Maldito susto”: Ingrid Matrz narró el momento cuando su hija casi es arrollada por una cuatrimoto en Acapulco",
+    "url": "https://www.infobae.com/america/entretenimiento/2021/08/15/maldito-susto-ingrid-matrz-narro-el-momento-cuando-su-hija-casi-es-arrollada-por-una-cuatrimoto-en-acapulco/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/2YNUB6AFTRGV5BOVEYFVWA5AJ4.jpg"
+  },
+  {
+    "n": 127,
     "id": "https://www.infobae.com/america/entretenimiento/2021/08/15/a-cuanto-ascenderia-la-multa-del-capi-perez-por-su-denuncia-ante-cofepris/",
     "title": "A cuánto ascendería la multa del Capi Pérez por su denuncia ante Cofepris",
     "url": "https://www.infobae.com/america/entretenimiento/2021/08/15/a-cuanto-ascenderia-la-multa-del-capi-perez-por-su-denuncia-ante-cofepris/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/7IV6GFIWPRHK3MGRYNJYCNIEJU.jpg"
   },
   {
-    "n": 126,
+    "n": 128,
     "id": "https://www.infobae.com/america/entretenimiento/2021/08/15/la-historia-de-amor-de-salma-hayek-un-flechazo-instantaneo-una-ruptura-y-una-boda-de-ensueno/",
     "title": "La historia de amor de Salma Hayek: un flechazo instantáneo, una ruptura y una boda de ensueño ",
     "url": "https://www.infobae.com/america/entretenimiento/2021/08/15/la-historia-de-amor-de-salma-hayek-un-flechazo-instantaneo-una-ruptura-y-una-boda-de-ensueno/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/6QMMLVTAWZCWNORP4NLT7CHQZY.png"
   },
   {
-    "n": 127,
+    "n": 129,
     "id": "https://www.infobae.com/america/entretenimiento/2021/08/15/perdi-completamente-la-vista-julio-preciado-revelo-los-motivos-que-lo-llevaron-al-hospital/",
     "title": "“Perdí completamente la vista”: Julio Preciado reveló los motivos que lo llevaron al hospital",
     "url": "https://www.infobae.com/america/entretenimiento/2021/08/15/perdi-completamente-la-vista-julio-preciado-revelo-los-motivos-que-lo-llevaron-al-hospital/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/4XNUNY44XNHJVP5ZORSD7LSBIQ.jpg"
-  },
-  {
-    "n": 128,
-    "id": "https://www.infobae.com/america/entretenimiento/2021/08/15/altair-jarabo-ya-esta-casada-por-el-civil-con-frederic-garcia/",
-    "title": "Altaír Jarabo ya está casada por el civil con Frédéric García",
-    "url": "https://www.infobae.com/america/entretenimiento/2021/08/15/altair-jarabo-ya-esta-casada-por-el-civil-con-frederic-garcia/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/WUB4ILKTYZA67EXKBMMIDGBF4U.JPG"
-  },
-  {
-    "n": 129,
-    "id": "https://www.infobae.com/america/entretenimiento/2021/08/15/al-ritmo-de-vivir-sin-aire-franco-escamilla-relato-sus-complicados-dias-con-covid-19/",
-    "title": "Al ritmo de “Vivir sin aire”, Franco Escamilla relató sus complicados días con COVID-19",
-    "url": "https://www.infobae.com/america/entretenimiento/2021/08/15/al-ritmo-de-vivir-sin-aire-franco-escamilla-relato-sus-complicados-dias-con-covid-19/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/R3OS34A4M5CF7PAF7XX66SHK6A.jpg"
   },
   {
     "n": 130,
