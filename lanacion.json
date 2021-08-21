@@ -43,17 +43,17 @@
   },
   {
     "n": 7,
-    "id": "ZMTRTH3WE5GJVFGTZS3JGMJ43E",
-    "title": "Diferencias. Moyano no rompe, pero hace equilibrio entre Alberto y Cristina",
-    "url": "https://www.lanacion.com.ar/politica/hugo-moyano-no-rompe-pero-hace-equilibrio-entre-alberto-fernandez-y-cristina-kirchner-nid21082021/",
-    "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/R88Kqd10RALo64_5wnAwLyR6dOw=/879x586/smart/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/V5XXVFJPH5BTDGQ4HKHGUI3ZGU.JPG"
-  },
-  {
-    "n": 8,
     "id": "HTI7XNXY3NE2VJOLOOS4W3MBAA",
     "title": "Hubo 70 invitados. Elisa Carrió se presentará a la Justicia tras ser denunciada por su fiesta de cumpleaños",
     "url": "https://www.lanacion.com.ar/politica/posible-denuncia-del-kirchnerismo-la-aclaracion-de-la-coalicion-civica-por-el-cumpleanos-de-elisa-nid20082021/",
     "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/uC8KpggbZDfz7FgM-QIe5gXkDuI=/879x586/smart/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/UFU7WYZBP5EVBPU4VR37OEHK4A.JPG"
+  },
+  {
+    "n": 8,
+    "id": "ZMTRTH3WE5GJVFGTZS3JGMJ43E",
+    "title": "Diferencias. Moyano no rompe, pero hace equilibrio entre Alberto y Cristina",
+    "url": "https://www.lanacion.com.ar/politica/hugo-moyano-no-rompe-pero-hace-equilibrio-entre-alberto-fernandez-y-cristina-kirchner-nid21082021/",
+    "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/R88Kqd10RALo64_5wnAwLyR6dOw=/879x586/smart/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/V5XXVFJPH5BTDGQ4HKHGUI3ZGU.JPG"
   },
   {
     "n": 9,
@@ -127,10 +127,10 @@
   },
   {
     "n": 19,
-    "id": "CT5P2RCGJZDQPKNGYSYD7G4WVY",
-    "title": "Como en la Copa América. El golazo de Di María, una copia del que le hizo a Brasil, la frutilla de la goleada del PSG",
-    "url": "https://www.lanacion.com.ar/deportes/futbol/brest-psg-ligue-1-de-francia-el-partido-de-la-jornada-3-nid19082021/",
-    "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/2KUoxEkArjJXQcjyoD2TZi-UMUQ=/879x586/smart/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/ZAW3OKBGWRBEFMADO452B56JBQ.jpg"
+    "id": "S743P6B3LVBJDJ6MW4DOTQ43Z4",
+    "title": "Iluminado. El regreso dorado de Di María: un golazo copiado a sí mismo y la felicidad permanente",
+    "url": "https://www.lanacion.com.ar/deportes/futbol/di-maria-tuvo-un-regreso-dorado-en-psg-y-emulo-su-gol-de-la-final-de-la-copa-america-nid20082021/",
+    "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/TfPkY1FpKRn-VHLlR9VioU0kN7w=/879x586/smart/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/JT2SU7V5WZB37GNDPHJG2BSNYU.jpg"
   },
   {
     "n": 20,
@@ -170,7 +170,7 @@
   {
     "n": 25,
     "id": "DCA5LJ4O65DJ5PXQLOYOEUFILE",
-    "title": "Vive en Suecia. Victoria Elizalde, una argentina en Spotify",
+    "title": "Vive en Suecia. Es argentina, a los 12 descubrió su profesión y hace cuatro años un mail la llevó hasta Suecia",
     "url": "https://www.lanacion.com.ar/tecnologia/victoria-elizalde-una-argentina-en-spotify-nid21082021/",
     "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/fYZgg8WolC8-Mv_eGROdQZYenNQ=/879x586/filters:quality(80):focal(774x303:784x293)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/VVTY56WVNZFZTC2PPXRV77UNLA.jpg"
   },
@@ -212,7 +212,7 @@
   {
     "n": 31,
     "id": "OB2WRK4XIBEARLBWWSAHASRIUY",
-    "title": "Opinión. Rumbo a una “nueva anormalidad” económica",
+    "title": "Rumbo a una “nueva anormalidad” económica",
     "url": "https://www.lanacion.com.ar/economia/rumbo-a-una-nueva-anormalidad-economica-nid21082021/",
     "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/CO0ZEz-Q2DNackCU8fpPxlyDpyE=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/PIXRSJBTLJCZPI2VH4WRNHLXG4.jpg"
   },
