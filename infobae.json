@@ -177,7 +177,7 @@
   {
     "n": 26,
     "id": "https://www.infobae.com/america/deportes/futbol-europeo/2021/08/27/cristiano-ronaldo-aviso-en-juventus-que-no-seguira-y-ya-hablo-con-guardiola-el-argentino-que-podria-reemplazarlo/",
-    "title": "Cristiano Ronaldo avisó en Juventus que no seguirá y ya habló con Guardiola: el argentino que podría reemplazarlo  ",
+    "title": "Cristiano Ronaldo no entrenó en Juventus y su DT confirmó que se irá: el argentino que podría reemplazarlo  ",
     "url": "https://www.infobae.com/america/deportes/futbol-europeo/2021/08/27/cristiano-ronaldo-aviso-en-juventus-que-no-seguira-y-ya-hablo-con-guardiola-el-argentino-que-podria-reemplazarlo/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/64NC5DOTCFBMDNNNOI4L36QAYM"
   },
@@ -295,10 +295,10 @@
   },
   {
     "n": 43,
-    "id": "https://www.infobae.com/sociedad/2021/08/26/manuel-lozano-el-nivel-con-el-que-los-chicos-salen-del-secundario-es-cada-vez-peor-hay-que-explicarles-conjugar-verbos-o-las-reglas-ortograficas/",
-    "title": "Manuel Lozano: “El nivel con el que los chicos salen del secundario es cada vez peor, hay que explicarles conjugar verbos o las reglas ortográficas”",
-    "url": "https://www.infobae.com/sociedad/2021/08/26/manuel-lozano-el-nivel-con-el-que-los-chicos-salen-del-secundario-es-cada-vez-peor-hay-que-explicarles-conjugar-verbos-o-las-reglas-ortograficas/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/HE3TTWSC6NCZVKMY7IBEPAP2IU.jpg"
+    "id": "https://www.infobae.com/teleshow/2021/08/25/quien-era-mavys-la-cubana-a-la-que-diego-maradona-quiso-traer-a-la-argentina-en-una-valija/",
+    "title": "Quién era Mavys, la cubana a la que Diego Maradona quiso traer a la Argentina en una valija",
+    "url": "https://www.infobae.com/teleshow/2021/08/25/quien-era-mavys-la-cubana-a-la-que-diego-maradona-quiso-traer-a-la-argentina-en-una-valija/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/VYWUHAYXLJCLHIFTDYBYNHLXRY.jpg"
   },
   {
     "n": 44,
@@ -386,17 +386,17 @@
   },
   {
     "n": 56,
-    "id": "https://www.infobae.com/sociedad/policiales/2021/08/27/confeso-uno-de-los-acusados-por-el-asesinato-de-un-nino-de-4-anos-y-la-violacion-de-su-madre-en-puerto-deseado/",
-    "title": "Confesó uno de los acusados por el asesinato de un niño de 4 años y la violación de su madre en Puerto Deseado",
-    "url": "https://www.infobae.com/sociedad/policiales/2021/08/27/confeso-uno-de-los-acusados-por-el-asesinato-de-un-nino-de-4-anos-y-la-violacion-de-su-madre-en-puerto-deseado/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/X74W7EPIHRG7DPMLMYDGIT6WU4.jpg"
-  },
-  {
-    "n": 57,
     "id": "https://www.infobae.com/teleshow/2021/08/27/jose-maria-listorti-le-respondio-a-los-antivacunas-que-lo-escracharon-es-un-debate-del-medioevo-y-un-gesto-de-egoismo/",
     "title": "Jose María Listorti le respondió a los antivacunas que lo escracharon: “Es un debate del medioevo y un gesto de egoísmo”",
     "url": "https://www.infobae.com/teleshow/2021/08/27/jose-maria-listorti-le-respondio-a-los-antivacunas-que-lo-escracharon-es-un-debate-del-medioevo-y-un-gesto-de-egoismo/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/CWC4DL3QZVCPPCFZYPP6LGRX6Y.jpg"
+  },
+  {
+    "n": 57,
+    "id": "https://www.infobae.com/sociedad/policiales/2021/08/27/confeso-uno-de-los-acusados-por-el-asesinato-de-un-nino-de-4-anos-y-la-violacion-de-su-madre-en-puerto-deseado/",
+    "title": "Confesó uno de los acusados por el asesinato de un niño de 4 años y la violación de su madre en Puerto Deseado",
+    "url": "https://www.infobae.com/sociedad/policiales/2021/08/27/confeso-uno-de-los-acusados-por-el-asesinato-de-un-nino-de-4-anos-y-la-violacion-de-su-madre-en-puerto-deseado/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/X74W7EPIHRG7DPMLMYDGIT6WU4.jpg"
   },
   {
     "n": 58,
@@ -680,78 +680,78 @@
   },
   {
     "n": 98,
+    "id": "https://www.infobae.com/america/tendencias-america/2021/08/27/covid-prolongado-la-mitad-de-los-hospitalizados-sigue-con-problemas-de-salud-tras-un-ano/",
+    "title": "COVID prolongado: la mitad de los hospitalizados sigue con problemas de salud tras un año",
+    "url": "https://www.infobae.com/america/tendencias-america/2021/08/27/covid-prolongado-la-mitad-de-los-hospitalizados-sigue-con-problemas-de-salud-tras-un-ano/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/WW3AMX4GB5CJ7NTOR6QXNIJULY.jpg"
+  },
+  {
+    "n": 99,
+    "id": "https://www.infobae.com/economia/2021/08/27/no-se-como-pero-siempre-salen-adelante-el-mensaje-del-pepe-mujica-a-los-productores-agropecuarios-argentinos/",
+    "title": "“No sé cómo, pero siempre salen adelante”: el mensaje del Pepe Mujica a los productores agropecuarios argentinos",
+    "url": "https://www.infobae.com/economia/2021/08/27/no-se-como-pero-siempre-salen-adelante-el-mensaje-del-pepe-mujica-a-los-productores-agropecuarios-argentinos/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/FPCJGTC5VNDEDB2KRZCG3GA4AE.jpg"
+  },
+  {
+    "n": 100,
     "id": "https://www.infobae.com/economia/2021/08/27/alberto-fernandez-no-estoy-apurado-por-firmar-un-acuerdo-con-el-fmi-los-que-me-apuran-son-los-que-quieren-que-me-haga-cargo-de-la-deuda-de-ellos/",
     "title": "Alberto Fernández: “No estoy apurado por firmar un acuerdo con el FMI, los que me apuran son los que quieren que me haga cargo de la deuda de ellos”",
     "url": "https://www.infobae.com/economia/2021/08/27/alberto-fernandez-no-estoy-apurado-por-firmar-un-acuerdo-con-el-fmi-los-que-me-apuran-son-los-que-quieren-que-me-haga-cargo-de-la-deuda-de-ellos/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/2LVCEJDFPWND7ZOLR7CRN6QO4U.jpg"
   },
   {
-    "n": 99,
+    "n": 101,
     "id": "https://www.infobae.com/politica/2021/08/27/quiros-estimo-cuando-habra-circulacion-comunitaria-de-la-variante-delta-de-coronavirus-y-cuanto-tardara-en-ser-predominante/",
     "title": "Quirós estimó cuándo habrá circulación comunitaria de la variante Delta de coronavirus y cuánto tardará en ser predominante",
     "url": "https://www.infobae.com/politica/2021/08/27/quiros-estimo-cuando-habra-circulacion-comunitaria-de-la-variante-delta-de-coronavirus-y-cuanto-tardara-en-ser-predominante/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/AWYRFFXAEVD7ZM2HYXC6PJSACI.png"
   },
   {
-    "n": 100,
+    "n": 102,
     "id": "https://www.infobae.com/sociedad/policiales/2021/08/27/un-alumno-de-un-conocido-colegio-de-belgrano-denuncio-que-dos-hombres-en-una-camioneta-intentaron-secuestrarlo/",
     "title": "Un alumno de un conocido colegio de Belgrano denunció que dos hombres en una camioneta intentaron secuestrarlo",
     "url": "https://www.infobae.com/sociedad/policiales/2021/08/27/un-alumno-de-un-conocido-colegio-de-belgrano-denuncio-que-dos-hombres-en-una-camioneta-intentaron-secuestrarlo/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/GBKKQDGDSRBDROULD5WN5XAPV4.jpg"
   },
   {
-    "n": 101,
-    "id": "https://www.infobae.com/politica/2021/08/27/el-relato-del-dirigente-que-estaba-a-centimetros-del-diputado-baleado-en-corrientes-escuchamos-el-ruido-el-se-toco-la-panza-y-sangraba/",
-    "title": "El relato del dirigente que estaba a centímetros del diputado baleado en Corrientes: “Escuchamos el ruido, él se tocó la panza y sangraba”",
-    "url": "https://www.infobae.com/politica/2021/08/27/el-relato-del-dirigente-que-estaba-a-centimetros-del-diputado-baleado-en-corrientes-escuchamos-el-ruido-el-se-toco-la-panza-y-sangraba/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/44KAQ6ZQGVDF7DJHZ4OTU73ZLI.jpg"
-  },
-  {
-    "n": 102,
-    "id": "https://www.infobae.com/economia/2021/08/27/hasta-cuando-pueden-durar-los-usd-4300-millones-que-el-fmi-le-cedio-a-la-argentina/",
-    "title": "Hasta cuándo pueden durar los USD 4.300 millones que el FMI le cedió a la Argentina",
-    "url": "https://www.infobae.com/economia/2021/08/27/hasta-cuando-pueden-durar-los-usd-4300-millones-que-el-fmi-le-cedio-a-la-argentina/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/TPPRAVTPY6W7IIEMUMPRTOOYCA.jpg"
-  },
-  {
     "n": 103,
+    "id": "https://www.infobae.com/america/mexico/2021/08/27/mapa-del-coronavirus-en-mexico-27-de-agosto-slp-durango-y-colima-los-estados-con-los-hospitales-mas-llenos/",
+    "title": "Mapa del coronavirus en México 27 de agosto: SLP, Durango y Colima, los estados con los hospitales más llenos",
+    "url": "https://www.infobae.com/america/mexico/2021/08/27/mapa-del-coronavirus-en-mexico-27-de-agosto-slp-durango-y-colima-los-estados-con-los-hospitales-mas-llenos/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/Y2G6VNSI4JHP7FVLADVGR76TDI.jpeg"
+  },
+  {
+    "n": 104,
+    "id": "https://www.infobae.com/america/mexico/2021/08/27/el-agua-que-no-se-mueve-se-estanca-y-se-pudre-jesusa-rodriguez-nego-irse-triste-del-senado/",
+    "title": "“El agua que no se mueve se estanca y se pudre”: Jesusa Rodríguez negó irse triste del Senado",
+    "url": "https://www.infobae.com/america/mexico/2021/08/27/el-agua-que-no-se-mueve-se-estanca-y-se-pudre-jesusa-rodriguez-nego-irse-triste-del-senado/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/YJTFPN2F5BBJJD7KARPT7FBN4I.jpg"
+  },
+  {
+    "n": 105,
+    "id": "https://www.infobae.com/america/opinion/2021/08/27/por-que-las-campanas-electorales-renuncian-casi-siempre-a-convencer-a-sus-contrarios/",
+    "title": "¿Por qué las campañas electorales renuncian (casi siempre) a convencer a sus contrarios?",
+    "url": "https://www.infobae.com/america/opinion/2021/08/27/por-que-las-campanas-electorales-renuncian-casi-siempre-a-convencer-a-sus-contrarios/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/WMFR5TDZPBC6TG3STNVIEL62MM.jpg"
+  },
+  {
+    "n": 106,
+    "id": "https://www.infobae.com/america/colombia/2021/08/27/cuanto-bajara-el-gas-para-los-estratos-1-2-y-3-en-colombia/",
+    "title": "Cuánto bajará el gas para los estratos 1, 2 y 3 en Colombia",
+    "url": "https://www.infobae.com/america/colombia/2021/08/27/cuanto-bajara-el-gas-para-los-estratos-1-2-y-3-en-colombia/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/T7Q7KDBRZZHHPJTNKB36436KAA.jpg"
+  },
+  {
+    "n": 107,
     "id": "https://www.infobae.com/america/perrosygatos/2021/08/27/por-que-los-animales-de-compania-pueden-ser-muy-buenos-para-reducir-el-estres/",
     "title": "Por qué los animales de compañía pueden ser muy buenos para reducir el estrés",
     "url": "https://www.infobae.com/america/perrosygatos/2021/08/27/por-que-los-animales-de-compania-pueden-ser-muy-buenos-para-reducir-el-estres/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/TGBQEFF53JAI5AW5GAFOCCANLY.jpg"
   },
   {
-    "n": 104,
-    "id": "https://www.infobae.com/america/colombia/2021/08/27/entre-tomates-incautaron-cargamento-de-marihuana-camuflado-en-finca-de-sonson-antioquia/",
-    "title": "Entre tomates, incautaron cargamento de marihuana camuflado en finca de Sonsón, Antioquia",
-    "url": "https://www.infobae.com/america/colombia/2021/08/27/entre-tomates-incautaron-cargamento-de-marihuana-camuflado-en-finca-de-sonson-antioquia/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/JDKOM2ZBNJBQBKA3GAGUF6Z6DI.jpg"
-  },
-  {
-    "n": 105,
-    "id": "https://www.infobae.com/america/mexico/2021/08/27/tamaulipas-revivio-el-terror-tras-una-serie-de-enfrentamientos-violentos-en-matamoros/",
-    "title": "Tamaulipas revivió el terror tras una serie de enfrentamientos violentos en Matamoros",
-    "url": "https://www.infobae.com/america/mexico/2021/08/27/tamaulipas-revivio-el-terror-tras-una-serie-de-enfrentamientos-violentos-en-matamoros/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/ACAM2HPEKBB4PHMS4FWLMEGU6I.jpg"
-  },
-  {
-    "n": 106,
-    "id": "https://www.infobae.com/america/colombia/2021/08/27/la-familia-santandereana-que-acumula-cinco-medallas-paralimpicas-tia-y-sobrino-ya-subieron-al-podio-en-tokio/",
-    "title": "La familia santandereana que acumula cinco medallas paralímpicas: tía y sobrino ya subieron al podio en Tokio",
-    "url": "https://www.infobae.com/america/colombia/2021/08/27/la-familia-santandereana-que-acumula-cinco-medallas-paralimpicas-tia-y-sobrino-ya-subieron-al-podio-en-tokio/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/GBULLV7JLVDV3ED3OBRTP4SBBU"
-  },
-  {
-    "n": 107,
-    "id": "https://www.infobae.com/america/mundo/2021/08/27/todo-lo-que-se-sabe-hasta-el-momento-de-isis-k-los-herederos-del-estado-islamico-en-afganistan/",
-    "title": "Todo lo que se sabe hasta el momento de ISIS-K, los herederos del Estado Islámico en Afganistán",
-    "url": "https://www.infobae.com/america/mundo/2021/08/27/todo-lo-que-se-sabe-hasta-el-momento-de-isis-k-los-herederos-del-estado-islamico-en-afganistan/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/OYOGCV4ZIRA5DN42MD5SQ3YGGQ.jpg"
-  },
-  {
     "n": 108,
     "id": "https://www.infobae.com/america/entretenimiento/2021/08/27/que-dijo-jaime-camil-sobre-su-relacion-con-eugenio-derbez-y-luis-miguel-la-serie-con-diego-boneta/",
-    "title": "Qué dijo Jaime Camil sobre su relación con Eugenio Derbez y “Luis Miguel, la serie” con Diego Boneta",
+    "title": "Qué dijo Jaime Camil sobre su amistad con Eugenio Derbez y “Luis Miguel, la serie” con Diego Boneta",
     "url": "https://www.infobae.com/america/entretenimiento/2021/08/27/que-dijo-jaime-camil-sobre-su-relacion-con-eugenio-derbez-y-luis-miguel-la-serie-con-diego-boneta/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/EWJAUEI6PNAGBBGBLBRWQHJORA.jpg"
   },
