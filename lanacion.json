@@ -2,7 +2,7 @@
   {
     "n": 1,
     "id": "SRJB6STTOZAIFLJ7Z2A4ADQDGI",
-    "title": "Sin servicio. No funcionan WhatsApp, Facebook ni Instagram desde el mediodía",
+    "title": "Sin servicio. No funcionan WhatsApp, Facebook ni Instagram: parece ser un error de configuración interno",
     "url": "https://www.lanacion.com.ar/tecnologia/reportan-fallas-de-servicio-en-whatsapp-facebook-e-instagram-nid04102021/",
     "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/10e6fSgSY4FTytxK5ZbXAvFtWvw=/879x586/smart/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/XB6T7OGIOZEQ7GXVQTDPUDDIIU.jpg"
   },
@@ -71,10 +71,10 @@
   },
   {
     "n": 11,
-    "id": "GTAZI5F75NEOJHP3AL6AU2EOCE",
-    "title": "Opciones. Caída de WhatsApp: de Telegram a Google Duo, las 5 apps \"alternativas\" de mensajes",
-    "url": "https://www.lanacion.com.ar/tecnologia/caida-whatsapp-telegram-google-duo-facebook-messenger-viber-zello-nid2397281/",
-    "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/_qAv8JY7COD7N6tZmp5XCs1wfd8=/879x586/smart/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/3OCFFHNYRBESFDLTELWWO4VKNU.jpg"
+    "id": "3YFNY3JSWJFCFMS2OVAB36GWOE",
+    "title": "Apagón. Se desploman las acciones de Facebook",
+    "url": "https://www.lanacion.com.ar/economia/facebook-se-desploman-las-acciones-por-el-apagon-en-todo-el-mundo-nid04102021/",
+    "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/O3uuiQbMrwX_2AGhY8D64ERQQak=/360x240/smart/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/XHIG4NPSJVH35CYWZXUNO5O5JE.jpg"
   },
   {
     "n": 12,
@@ -470,24 +470,24 @@
   },
   {
     "n": 68,
+    "id": "EDHST4GCKRBSNHXOXOJKAI3MHM",
+    "title": "Tras las PASO. Post PASO: el campo es pesimista con el arribo de Domínguez a Agricultura",
+    "url": "https://www.lanacion.com.ar/economia/campo/el-campo-es-pesimista-con-el-arribo-de-dominguez-a-agricultura-nid04102021/",
+    "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/0vlyo9gMKETo7RquZb6Il3C5Da8=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/YJDYNKOLRBC53EE45G5KIU5LSQ.jpg"
+  },
+  {
+    "n": 69,
     "id": "SLHEVVZOZBHIBOIR2TOJKN4BHA",
     "title": "Innovación. Tiene una empresa familiar y el ingreso de su hijo le permitió un crecimiento exponencial",
     "url": "https://www.lanacion.com.ar/economia/campo/en-misiones-tiene-un-empresa-familiar-y-el-ingreso-de-su-hijo-le-permitio-un-crecimiento-exponencial-nid04102021/",
     "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/rF_soccXH36SjwKgFpeE1o9HV1I=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/AIGCFE4QTNABNDV566W5NDUU2Q.jpeg"
   },
   {
-    "n": 69,
+    "n": 70,
     "id": "XX7Q3YRQI5E5NCTB2G3UWT7GKA",
     "title": "Opinión. Sector agropecuario: menos política y más representación",
     "url": "https://www.lanacion.com.ar/economia/campo/sector-agropecuario-menos-politica-y-mas-representacion-nid04102021/",
     "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/ZcpE8DZRnyyiPTqrOfMzQH8q0wg=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/ZJL65F2BNFAT3NFUNFEOLWN7SE.jpeg"
-  },
-  {
-    "n": 70,
-    "id": "URUXYK6KYNBM7LYMJ5LY6ITIHM",
-    "title": "Soja. Cuáles son las dos variedades que harán la diferencia en esta campaña",
-    "url": "https://www.lanacion.com.ar/economia/campo/nk-suma-dos-variedades-de-soja-a-su-porfolio-nid27082021/",
-    "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/WatJh3bGgDPMT9KHs_NsJsAi3kQ=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/VTSGD4KZJBE6DJ3ZKGZVUE2RPQ.jpg"
   },
   {
     "n": 71,
@@ -498,17 +498,17 @@
   },
   {
     "n": 72,
-    "id": "AIJDYIMA4FEOFKJKU6QNMWI5CM",
-    "title": "Fabián Pizzorno. El actor argentino que abandonó el país tras una tragedia personal y hoy trabaja en Hollywood",
-    "url": "https://www.lanacion.com.ar/espectaculos/personajes/fabian-pizzorno-el-actor-argentino-que-abandono-el-pais-tras-sufrir-una-tragedia-personal-y-hoy-nid03102021/",
-    "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/9pYjT3qekWRIGIqAJ_DpJpqHKgs=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/6W5FBNYWJBG3PJNK5M7CJOFL2Q.JPG"
+    "id": "ZTMLO3DSIVDGXCAB3HKXZJX7BE",
+    "title": "Despedida. Damian Lewis deja la serie Billions después de cinco temporadas",
+    "url": "https://www.lanacion.com.ar/espectaculos/series-de-tv/el-actor-damian-lewis-deja-la-serie-billions-despues-de-cinco-temporadas-nid04102021/",
+    "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/lAuXeO_zZzNR0xGpNZkxtqpbEPk=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/LDVLM2BTDBF5PERBU3NWQAIWDQ.jpg"
   },
   {
     "n": 73,
-    "id": "QKGASWC2GJHILIVZOADECLELC4",
-    "title": "Las grandes canciones. El enigma de “El pibe de los astilleros”, de Los Redondos: ¿el Indio Solari habla de Monzón?",
-    "url": "https://www.lanacion.com.ar/espectaculos/musica/el-enigma-de-el-pibe-de-los-astilleros-de-los-redondos-el-indio-solari-habla-de-monzon-nid04102021/",
-    "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/m7RbxdDNSNSHY6mf4kTsQAwSNlw=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/HMBYMA66KNA4TIU6XHMO7ERHPE.JPG"
+    "id": "GR2ZB7U2FJA2VBL2HUSBGT7LEY",
+    "title": "“Fue horrible”. Stanley Tucci recordó los momentos más duros de su batalla contra un cáncer de lengua",
+    "url": "https://www.lanacion.com.ar/espectaculos/personajes/stanley-tucci-recordo-los-momentos-mas-duros-de-su-batalla-contra-un-cancer-de-lengua-fue-horrible-nid04102021/",
+    "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/zIQIIeF8mB_wWsabvsoXduOrsOQ=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/FMAJ7TWPFZDUDOXNQVCGO5JDDU.jpg"
   },
   {
     "n": 74,
