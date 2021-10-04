@@ -2,7 +2,7 @@
   {
     "n": 1,
     "id": "etXFm_vqo",
-    "title": "Fallo masivo . Tras siete horas, Facebook e Instagram empiezan a funcionar, pero WhatsApp sigue caído",
+    "title": "Fallo masivo . Tras siete horas, Facebook e Instagram funcionan y WhatsApp comienza a normalizarse",
     "url": "https://www.clarin.com/tecnologia/cayeron-whatsapp-facebook-instagram-usuarios-reportan-problemas-nivel-global_0_etXFm_vqo.html",
     "image": "https://images.clarin.com/2021/10/04/z7KUgUTqZ_720x0__1.jpg"
   },
@@ -36,10 +36,10 @@
   },
   {
     "n": 6,
-    "id": "NyIJt8WGF",
-    "title": "Sinopharm \"pediátrica\". Las provincias decidieron avanzar con los chicos con factores de riesgo",
-    "url": "https://www.clarin.com/sociedad/sinopharm-pediatrica-provincias-decidieron-avanzar-chicos-factores-riesgo_0_NyIJt8WGF.html",
-    "image": "https://images.clarin.com/2021/09/18/0onpfAQAF_1256x620__2.jpg#1633364678688"
+    "id": "4qnhwKX3W",
+    "title": "Del editor. \"Chorros y vagos\": el pibe que tiene 17 años y ya está harto",
+    "url": "https://www.clarin.com/opinion/-chorros-vagos-pibe-17-anos-harto_0_4qnhwKX3W.html",
+    "image": "https://images.clarin.com/2021/10/04/-UdruZFqb_720x0__1.jpg"
   },
   {
     "n": 7,
@@ -71,45 +71,45 @@
   },
   {
     "n": 11,
-    "id": "l2GaH7onz",
-    "title": "Movilidad. Viajar en taxi será un 30% más caro: cuando aumenta y cuánto costará la bajada de bandera",
-    "url": "https://www.clarin.com/ciudades/viajar-taxi-30-caro-aumenta-costara-bajada-bandera_0_l2GaH7onz.html",
-    "image": "https://images.clarin.com/2020/03/11/OUvmmC1O_1256x620__2.jpg#1633379052549"
-  },
-  {
-    "n": 12,
     "id": "dO0LOa4t-",
     "title": "Sin vueltas. Tras las críticas, L-Gante blanqueó el motivo de su entrevista con Alberto Fernández",
     "url": "https://www.clarin.com/fama/criticas-l-gante-blanqueo-motivo-entrevista-alberto-fernandez_0_dO0LOa4t-.html",
     "image": "https://images.clarin.com/2021/10/04/WgJjdA8g1_720x0__1.jpg"
   },
   {
+    "n": 12,
+    "id": "Tk8qdrW66",
+    "title": "El sello Jones Huala. A los cuidadores de Vialidad en Río Negro los ataron a una cama en el ataque \"mapuche\"",
+    "url": "https://www.clarin.com/sociedad/sello-jones-huala-cuidadores-predio-vialidad-rio-negro-ataron-cama-ataque-mapuche-_0_Tk8qdrW66.html",
+    "image": "https://images.clarin.com/2021/10/04/RtRO0JE3w_1256x620__2.jpg#1633385304271"
+  },
+  {
     "n": 13,
-    "id": "RapBRyb41",
-    "title": "Coronavirus. Sputnik en su laberinto: de salvavidas urgente a final incierto con guiño ruso al país",
-    "url": "https://www.clarin.com/sociedad/sputnik-laberinto-salvavidas-urgente-final-incierto-guino-ruso-argentina_0_RapBRyb41.html",
-    "image": "https://images.clarin.com/2021/09/16/UfxIy6niB_720x0__1.jpg"
+    "id": "NyIJt8WGF",
+    "title": "Sinopharm \"pediátrica\". Las provincias decidieron avanzar con los chicos con factores de riesgo",
+    "url": "https://www.clarin.com/sociedad/sinopharm-pediatrica-provincias-decidieron-avanzar-chicos-factores-riesgo_0_NyIJt8WGF.html",
+    "image": "https://images.clarin.com/2021/09/18/0onpfAQAF_1256x620__2.jpg#1633364678688"
   },
   {
     "n": 14,
-    "id": "mX50Fnyjy",
-    "title": "Rumbo a las elecciones. Con visitas y denuncias, JxC busca asegurar los triunfos en La Pampa, Santa Fe y Chubut",
-    "url": "https://www.clarin.com/politica/visitas-denuncias-juntos-cambio-busca-asegurar-triunfos-pampa-santa-fe-chubut_0_mX50Fnyjy.html",
-    "image": "https://images.clarin.com/2021/10/04/qY5nGAaJc_720x0__1.jpg"
-  },
-  {
-    "n": 15,
-    "id": "ou-7gocqO",
-    "title": "Florencio Varela. Un youtuber mostró el ruinoso estado de la estancia que fue de Martínez de Hoz",
-    "url": "https://www.clarin.com/zonales/youtuber-mostro-ruinoso-historica-estancia-martinez-hoz_0_ou-7gocqO.html",
-    "image": "https://images.clarin.com/2021/07/12/oKHuFnh0T_720x0__1.jpg"
-  },
-  {
-    "n": 16,
     "id": "OoU5r9UP1",
     "title": "Duro cruce en vivo. Riquelme, a Chatruc: \"Fuiste futbolista, si querés hacer de periodista y pelearme...\"",
     "url": "https://www.clarin.com/deportes/cruce-riquelme-chatruc-vivo-futbolista-queres-hacer-periodista-pelearme-_0_OoU5r9UP1.html",
     "image": "https://images.clarin.com/2021/10/04/-qNO4GbLq_720x0__1.jpg"
+  },
+  {
+    "n": 15,
+    "id": "l2GaH7onz",
+    "title": "Movilidad. El taxi será un 30% más caro: cuándo aumenta y cuánto costará la bajada de bandera",
+    "url": "https://www.clarin.com/ciudades/viajar-taxi-30-caro-aumenta-costara-bajada-bandera_0_l2GaH7onz.html",
+    "image": "https://images.clarin.com/2020/03/11/OUvmmC1O_1256x620__2.jpg#1633379052549"
+  },
+  {
+    "n": 16,
+    "id": "ou-7gocqO",
+    "title": "Florencio Varela. Un youtuber mostró el ruinoso estado de la estancia que fue de Martínez de Hoz",
+    "url": "https://www.clarin.com/zonales/youtuber-mostro-ruinoso-historica-estancia-martinez-hoz_0_ou-7gocqO.html",
+    "image": "https://images.clarin.com/2021/07/12/oKHuFnh0T_720x0__1.jpg"
   },
   {
     "n": 17,
@@ -134,17 +134,17 @@
   },
   {
     "n": 20,
+    "id": "mX50Fnyjy",
+    "title": "Rumbo a las elecciones. Con visitas y denuncias, JxC busca asegurar los triunfos en La Pampa, Santa Fe y Chubut",
+    "url": "https://www.clarin.com/politica/visitas-denuncias-juntos-cambio-busca-asegurar-triunfos-pampa-santa-fe-chubut_0_mX50Fnyjy.html",
+    "image": "https://images.clarin.com/2021/10/04/qY5nGAaJc_720x0__1.jpg"
+  },
+  {
+    "n": 21,
     "id": "BgjYzIOiT",
     "title": "Tras el Superclásico. El Gobierno apunta a la Ciudad por el aforo y lanza un ultimátum a los clubes",
     "url": "https://www.clarin.com/politica/gobierno-apunta-ciudad-aforo-superclasico-exigira-reforzar-controles_0_BgjYzIOiT.html",
     "image": "https://images.clarin.com/2021/10/04/tL1cA_7lp_720x0__1.jpg"
-  },
-  {
-    "n": 21,
-    "id": "W6mmzHtt8",
-    "title": "Ranking de septiembre. De El juego del calamar a La casa de papel: las series que más dieron que hablar",
-    "url": "https://www.clarin.com/espectaculos/juego-calamar-casa-papel-series-dieron-hablar-septiembre_0_W6mmzHtt8.html",
-    "image": "https://images.clarin.com/2021/09/27/bRrl9yfQo_720x0__1.jpg"
   },
   {
     "n": 22,
@@ -202,7 +202,7 @@
   {
     "n": 30,
     "id": "etXFm_vqo",
-    "title": "Fallo masivo . Tras siete horas, Facebook e Instagram empiezan a funcionar, pero WhatsApp sigue caído",
+    "title": "Fallo masivo . Tras siete horas, Facebook e Instagram funcionan y WhatsApp comienza a normalizarse",
     "url": "https://www.clarin.com/tecnologia/cayeron-whatsapp-facebook-instagram-usuarios-reportan-problemas-nivel-global_0_etXFm_vqo.html",
     "image": "https://images.clarin.com/2021/10/04/z7KUgUTqZ_720x0__1.jpg"
   },
@@ -236,10 +236,10 @@
   },
   {
     "n": 35,
-    "id": "NyIJt8WGF",
-    "title": "Sinopharm \"pediátrica\". Las provincias decidieron avanzar con los chicos con factores de riesgo",
-    "url": "https://www.clarin.com/sociedad/sinopharm-pediatrica-provincias-decidieron-avanzar-chicos-factores-riesgo_0_NyIJt8WGF.html",
-    "image": "https://images.clarin.com/2021/09/18/0onpfAQAF_1256x620__2.jpg#1633364678688"
+    "id": "4qnhwKX3W",
+    "title": "Del editor. \"Chorros y vagos\": el pibe que tiene 17 años y ya está harto",
+    "url": "https://www.clarin.com/opinion/-chorros-vagos-pibe-17-anos-harto_0_4qnhwKX3W.html",
+    "image": "https://images.clarin.com/2021/10/04/-UdruZFqb_720x0__1.jpg"
   },
   {
     "n": 36,
@@ -285,10 +285,10 @@
   },
   {
     "n": 42,
-    "id": "l48pb_-K6",
-    "title": "Haciendo historia. Homero Manzi, el poeta de tangos inolvidables",
-    "url": "https://www.clarin.com/viva/homero-manzi-poeta-tangos-inolvidables_0_l48pb_-K6.html",
-    "image": "https://images.clarin.com/2021/09/30/wpMjvvVWN_720x0__1.jpg"
+    "id": "68kD6yL0P",
+    "title": "Innovación. El neumático que le \"habla\" al conductor: nueva tecnología de Michelin en el país",
+    "url": "https://www.clarin.com/autos/neumatico-habla-conductor-nueva-tecnologia-michelin-argentina_0_68kD6yL0P.html",
+    "image": "https://images.clarin.com/2021/10/04/Ckn3b-8Vf_720x0__1.jpg"
   },
   {
     "n": 43,
@@ -482,7 +482,7 @@
   {
     "n": 70,
     "id": "SocSjLC2Z",
-    "title": "Superliga. Defensa supera ampliamente a un Talleres desorientado que pierde el partido y la punta",
+    "title": "Superliga. Defensa y Justicia goleó a Talleres como local y River quedó como puntero absoluto",
     "url": "https://www.clarin.com/deportes/defensa-justicia-vs-talleres-liga-profesional-futbol-previa-alineaciones-directo_0_SocSjLC2Z.html",
     "image": "https://images.clarin.com/2021/10/04/NgfF4xvae_720x0__1.jpg"
   },
