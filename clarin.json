@@ -57,57 +57,57 @@
   },
   {
     "n": 9,
-    "id": "7wf8pHpKz",
-    "title": "Idas y vueltas oficiales. El acto por el 17 de octubre también quedó en medio de la pelea interna del Gobierno",
-    "url": "https://www.clarin.com/politica/17-octubre-quedo-medio-pelea-interna-gobierno_0_7wf8pHpKz.html",
-    "image": "https://images.clarin.com/2021/10/14/25rG4Tf6O_720x0__1.jpg"
-  },
-  {
-    "n": 10,
     "id": "V2rWnBRx7",
     "title": "Avance científico. Ya está lista la vacuna contra el dengue: qué eficacia tiene y cuándo se aplicaría en el país",
     "url": "https://www.clarin.com/sociedad/lista-vacuna-dengue-eficacia-podria-empezar-aplicarse-pais_0_V2rWnBRx7.html",
     "image": "https://images.clarin.com/2020/06/10/C4CEKOX7k_1256x620__5.jpg#1634257290435"
   },
   {
-    "n": 11,
+    "n": 10,
     "id": "U11Fg9p7I",
     "title": "Lanús. Uno de los detenidos por el crimen de Gonzalo Refi es hijo de un dirigente de Boca",
     "url": "https://www.clarin.com/policiales/detenidos-crimen-gonzalo-refi-hijo-dirigente-boca_0_U11Fg9p7I.html",
     "image": "https://images.clarin.com/2021/10/12/Iw9i2MVUe_720x0__1.jpg"
   },
   {
-    "n": 12,
+    "n": 11,
     "id": "rtwtVDQ6g",
     "title": "Repudiable. La burla de Otamendi y Romero al jugador que falló el penal de Perú",
     "url": "https://www.clarin.com/deportes/coreografica-burla-nicolas-otamendi-cristian-romero-hizo-viral_0_rtwtVDQ6g.html",
     "image": "https://images.clarin.com/2021/10/14/s4hGA-Elg_720x0__1.jpg"
   },
   {
+    "n": 12,
+    "id": "gGV9YS_7N",
+    "title": "Acusado de abusos. La defensa de Lautaro Teruel pidió que se anule el juicio: los argumentos",
+    "url": "https://www.clarin.com/sociedad/defensa-lautaro-teruel-dice-abusos-menor-pidio-anule-juicio_0_gGV9YS_7N.html",
+    "image": "https://images.clarin.com/2021/10/15/X108uI4wR_1256x620__2.jpg#1634304573451"
+  },
+  {
     "n": 13,
-    "id": "O6lGKgcXJ",
-    "title": "Elecciones 2021. Cómo es la estrategia de Juntos para asegurar el triunfo en Provincia en noviembre",
-    "url": "https://www.clarin.com/politica/campana-aliados-disputas-pausa-generales-estrategia-juntos-asegurar-triunfo-noviembre_0_O6lGKgcXJ.html",
-    "image": "https://images.clarin.com/2021/09/13/qd1ZWaKN7_720x0__1.jpg"
+    "id": "M6WvmCbU5",
+    "title": "Declararán más de 130 testigos. Ya tiene fecha el inicio del juicio por el asesinato de Fernando Báez Sosa en Gesell",
+    "url": "https://www.clarin.com/policiales/crimen-fernando-baez-sosa-juicio-comenzara-2-enero-2023-130-testigos_0_M6WvmCbU5.html",
+    "image": "https://images.clarin.com/2021/10/15/rzMU1NKeh_720x0__1.jpg"
   },
   {
     "n": 14,
+    "id": "7wf8pHpKz",
+    "title": "Idas y vueltas oficiales. El acto por el 17 de octubre también quedó en medio de la pelea interna del Gobierno",
+    "url": "https://www.clarin.com/politica/17-octubre-quedo-medio-pelea-interna-gobierno_0_7wf8pHpKz.html",
+    "image": "https://images.clarin.com/2021/10/14/25rG4Tf6O_720x0__1.jpg"
+  },
+  {
+    "n": 15,
     "id": "FzGYbg7he",
     "title": "Reabren las fronteras. Viajes al exterior: qué permiso necesitan los menores, de qué forma se tramita y cuánto sale",
     "url": "https://www.clarin.com/servicios/viajes-exterior-permiso-necesitan-menores-consigue-cuesta_0_FzGYbg7he.html",
     "image": "https://images.clarin.com/2021/10/14/pVx6yPHa-_720x0__1.jpg"
   },
   {
-    "n": 15,
-    "id": "RwY7emz_x",
-    "title": "Finanzas personales. Ahorro: cómo dolarizarse usando acciones que cotizan en Nueva York",
-    "url": "https://www.clarin.com/economia/dolarizacion-ahorros-cedears-atraen-pesos-acciones-locales_0_RwY7emz_x.html",
-    "image": "https://images.clarin.com/2021/04/13/P6S48JGE6_720x0__1.jpg"
-  },
-  {
     "n": 16,
     "id": "ZYXAJ2Hnk",
-    "title": "Entrevista a solas. Aira: los lujos, lo que le dejó la pandemia y qué siente al caminar de noche por Flores",
+    "title": "Entrevista a solas. Aira: los lujos, lo que le dejó la pandemia y cómo se siente al caminar de noche por Flores",
     "url": "https://www.clarin.com/revista-n/literatura/cesar-aira-solas-ganador-formentor_0_ZYXAJ2Hnk.html",
     "image": "https://images.clarin.com/2021/10/10/STPQercpF_1256x620__2.jpg#1634236639644"
   },
@@ -451,17 +451,17 @@
   },
   {
     "n": 66,
-    "id": "xMNQTLBV3",
-    "title": "Especial Clarín. Últimas encuestas: ¿el Gobierno puede dar vuelta la elección?",
-    "url": "https://www.clarin.com/politica/ultimas-encuestas-pregunta-clave-gobierno-puede-dar-vuelta-eleccion-_0_xMNQTLBV3.html",
-    "image": "https://images.clarin.com/2021/10/08/NU-TikAjJ_720x0__1.jpg"
+    "id": "vfLOS0PFv",
+    "title": "Encuesta en Provincia. Número récord para Diego Santilli y más distancia sobre Victoria Tolosa Paz",
+    "url": "https://www.clarin.com/politica/nueva-encuesta-provincia-numero-record-diego-santilli-distancia-victoria-tolosa-paz_0_vfLOS0PFv.html",
+    "image": "https://images.clarin.com/2021/09/28/glXYDzlmf_720x0__1.jpg"
   },
   {
     "n": 67,
-    "id": "lGH-bzgfH",
-    "title": "En auge por la inflación. Máquinas contadoras de billetes: cuánto cuestan y cómo elegirlas",
-    "url": "https://www.clarin.com/servicios/maquinas-contadoras-billetes-auge-inflacion-cuestan-elegirlas_0_lGH-bzgfH.html",
-    "image": "https://images.clarin.com/2016/04/21/Hy-POgJ4x_720x0.jpg"
+    "id": "RwY7emz_x",
+    "title": "Finanzas personales. Ahorro: cómo dolarizarse usando acciones que cotizan en Nueva York",
+    "url": "https://www.clarin.com/economia/dolarizacion-ahorros-cedears-atraen-pesos-acciones-locales_0_RwY7emz_x.html",
+    "image": "https://images.clarin.com/2021/04/13/P6S48JGE6_720x0__1.jpg"
   },
   {
     "n": 68,
