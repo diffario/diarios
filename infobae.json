@@ -127,10 +127,10 @@
   },
   {
     "n": 19,
-    "id": "https://www.infobae.com/politica/2021/10/16/congelamiento-de-precios-el-gobierno-expone-su-maximo-nivel-de-temor-camino-a-las-elecciones/",
-    "title": "Congelamiento de precios: el Gobierno expone su máximo nivel de temor camino a las elecciones",
-    "url": "https://www.infobae.com/politica/2021/10/16/congelamiento-de-precios-el-gobierno-expone-su-maximo-nivel-de-temor-camino-a-las-elecciones/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/UEFFKBAKF5E5VHAJ4KPYC3PR7M.jpg"
+    "id": "https://www.infobae.com/series-peliculas/2021/10/16/llega-el-batman-de-robert-pattinson-y-ya-se-pudo-ver-un-adelanto-en-el-trailer/",
+    "title": "Llega el Batman de Robert Pattinson y ya se pudo ver un adelanto en el tráiler",
+    "url": "https://www.infobae.com/series-peliculas/2021/10/16/llega-el-batman-de-robert-pattinson-y-ya-se-pudo-ver-un-adelanto-en-el-trailer/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/SRAMDQNJRZGXNKGGSFAEUH7PGM.jpeg"
   },
   {
     "n": 20,
@@ -219,7 +219,7 @@
   {
     "n": 32,
     "id": "https://www.infobae.com/deportes/2021/10/16/lanus-y-banfield-animaran-una-nueva-edicion-del-clasico-del-sur-hora-tv-y-formaciones/",
-    "title": "Lanús y Banfield se enfrentan en una nueva edición del Clásico del Sur",
+    "title": "Con gol del Jardinerito Cruz, Banfield vence a Lanús como visitante en el clásico del Sur",
     "url": "https://www.infobae.com/deportes/2021/10/16/lanus-y-banfield-animaran-una-nueva-edicion-del-clasico-del-sur-hora-tv-y-formaciones/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/QOPEI7CYS5CP7ERZXRUUUQIJDI.jpg"
   },
@@ -526,10 +526,10 @@
   },
   {
     "n": 76,
-    "id": "https://www.infobae.com/economia/2021/10/16/sin-freno-el-ritmo-de-emision-y-la-deuda-del-bcra-aumentaron-160-del-primer-al-segundo-semestre/",
-    "title": "Sin freno: el ritmo de emisión y la deuda del BCRA aumentaron 160% del primer al segundo semestre",
-    "url": "https://www.infobae.com/economia/2021/10/16/sin-freno-el-ritmo-de-emision-y-la-deuda-del-bcra-aumentaron-160-del-primer-al-segundo-semestre/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/ZY7WG53URFCNXOWEGL54TUWAPU.jpg"
+    "id": "https://www.infobae.com/america/tendencias-america/2021/10/16/las-4-claves-del-momento-mas-exitoso-de-la-bodega-catena-zapata/",
+    "title": "Las 4 claves del momento más exitoso de la bodega Catena Zapata ",
+    "url": "https://www.infobae.com/america/tendencias-america/2021/10/16/las-4-claves-del-momento-mas-exitoso-de-la-bodega-catena-zapata/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/5QSADDUMEZAQRHS2YDBCW72BWU.jpg"
   },
   {
     "n": 77,
@@ -681,7 +681,7 @@
   {
     "n": 98,
     "id": "https://www.infobae.com/deportes/2021/10/16/lanus-y-banfield-animaran-una-nueva-edicion-del-clasico-del-sur-hora-tv-y-formaciones/",
-    "title": "Lanús y Banfield se enfrentan en una nueva edición del Clásico del Sur",
+    "title": "Con gol del Jardinerito Cruz, Banfield vence a Lanús como visitante en el clásico del Sur",
     "url": "https://www.infobae.com/deportes/2021/10/16/lanus-y-banfield-animaran-una-nueva-edicion-del-clasico-del-sur-hora-tv-y-formaciones/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/QOPEI7CYS5CP7ERZXRUUUQIJDI.jpg"
   },
@@ -834,107 +834,107 @@
   },
   {
     "n": 120,
+    "id": "https://www.infobae.com/tendencias/2021/10/16/la-observacion-consciente-de-un-hombre-frente-al-embarazo-de-su-mujer-el-adelanto-del-libro-son-dos/",
+    "title": "La observación consciente de un hombre frente al embarazo de su mujer, el adelanto del libro “Son Dos”",
+    "url": "https://www.infobae.com/tendencias/2021/10/16/la-observacion-consciente-de-un-hombre-frente-al-embarazo-de-su-mujer-el-adelanto-del-libro-son-dos/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/ABDW4NC7HJEXFMSQRYEGBIBH3A.jpg"
+  },
+  {
+    "n": 121,
     "id": "https://www.infobae.com/politica/2021/10/16/repudio-opositor-a-la-intervencion-del-gobierno-en-favor-del-referente-mapuche-facundo-jones-huala/",
     "title": "Repudio opositor a la intervención del Gobierno en favor del referente mapuche Facundo Jones Huala",
     "url": "https://www.infobae.com/politica/2021/10/16/repudio-opositor-a-la-intervencion-del-gobierno-en-favor-del-referente-mapuche-facundo-jones-huala/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/UQH7K37ON5G4TBGFPZPMQT33EQ.jpeg"
   },
   {
-    "n": 121,
+    "n": 122,
     "id": "https://www.infobae.com/series-peliculas/2021/10/16/llega-el-batman-de-robert-pattinson-y-ya-se-pudo-ver-un-adelanto-en-el-trailer/",
     "title": "Llega el Batman de Robert Pattinson y ya se pudo ver un adelanto en el tráiler",
     "url": "https://www.infobae.com/series-peliculas/2021/10/16/llega-el-batman-de-robert-pattinson-y-ya-se-pudo-ver-un-adelanto-en-el-trailer/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/SRAMDQNJRZGXNKGGSFAEUH7PGM.jpeg"
   },
   {
-    "n": 122,
+    "n": 123,
     "id": "https://www.infobae.com/america/tendencias-america/2021/10/16/las-4-claves-del-momento-mas-exitoso-de-la-bodega-catena-zapata/",
     "title": "Las 4 claves del momento más exitoso de la bodega Catena Zapata ",
     "url": "https://www.infobae.com/america/tendencias-america/2021/10/16/las-4-claves-del-momento-mas-exitoso-de-la-bodega-catena-zapata/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/5QSADDUMEZAQRHS2YDBCW72BWU.jpg"
   },
   {
-    "n": 123,
+    "n": 124,
     "id": "https://www.infobae.com/politica/2021/10/16/cristina-kirchner-participara-del-cierre-del-encuentro-nacional-de-jovenes-de-la-campora/",
     "title": "Cristina Kirchner participa del cierre del Encuentro Nacional de Jóvenes de La Cámpora",
     "url": "https://www.infobae.com/politica/2021/10/16/cristina-kirchner-participara-del-cierre-del-encuentro-nacional-de-jovenes-de-la-campora/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/V2YIEW6B7JCSVBY2FQCAU6KABQ.jpg"
   },
   {
-    "n": 124,
-    "id": "https://www.infobae.com/politica/2021/10/16/el-papa-francisco-reclamo-por-el-salario-universal-la-reduccion-de-la-jornada-laboral-y-la-liberacion-de-las-patentes-de-las-vacunas/",
-    "title": "El papa Francisco reclamó por el salario universal, la reducción de la jornada laboral y la liberación de las patentes de las vacunas",
-    "url": "https://www.infobae.com/politica/2021/10/16/el-papa-francisco-reclamo-por-el-salario-universal-la-reduccion-de-la-jornada-laboral-y-la-liberacion-de-las-patentes-de-las-vacunas/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/QP2C4OBUFFBJFA5GLWRDJIK56Q.jpg"
+    "n": 125,
+    "id": "https://www.infobae.com/america/entretenimiento/2021/10/16/cual-fue-la-ultima-pelicula-de-jorge-negrete/",
+    "title": "Cuál fue la última película de Jorge Negrete",
+    "url": "https://www.infobae.com/america/entretenimiento/2021/10/16/cual-fue-la-ultima-pelicula-de-jorge-negrete/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/AALLVP2ATFGDPAZUEXBKP7VAS4.JPG"
   },
   {
-    "n": 125,
+    "n": 126,
     "id": "https://www.infobae.com/series-peliculas/2021/10/16/llega-el-batman-de-robert-pattinson-y-ya-se-pudo-ver-un-adelanto-en-el-trailer/",
     "title": "Llega el Batman de Robert Pattinson y ya se pudo ver un adelanto en el tráiler",
     "url": "https://www.infobae.com/series-peliculas/2021/10/16/llega-el-batman-de-robert-pattinson-y-ya-se-pudo-ver-un-adelanto-en-el-trailer/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/SRAMDQNJRZGXNKGGSFAEUH7PGM.jpeg"
   },
   {
-    "n": 126,
+    "n": 127,
     "id": "https://www.infobae.com/america/entretenimiento/2021/10/16/mama-de-gomita-hablo-sobre-la-denuncia-en-contra-de-su-esposo-por-violencia-intrafamiliar/",
     "title": "Mamá de Gomita habló sobre la denuncia en contra de su esposo por violencia intrafamiliar",
     "url": "https://www.infobae.com/america/entretenimiento/2021/10/16/mama-de-gomita-hablo-sobre-la-denuncia-en-contra-de-su-esposo-por-violencia-intrafamiliar/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/CZEOLKJXERFM3M5EFOZG6WDSAU.JPG"
   },
   {
-    "n": 127,
+    "n": 128,
     "id": "https://www.infobae.com/teleshow/2021/10/16/se-habrian-separado-wanda-nara-y-mauro-icardi/",
     "title": "Wanda Nara anunció su separación de Mauro Icardi",
     "url": "https://www.infobae.com/teleshow/2021/10/16/se-habrian-separado-wanda-nara-y-mauro-icardi/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/Z2DZY7AJTZDOPCAJ6SYLLERTRI.jpg"
   },
   {
-    "n": 128,
+    "n": 129,
     "id": "https://www.infobae.com/teleshow/2021/10/16/esteban-lamothe-enfrenta-rumores-de-separacion-y-asegura-no-creo-en-la-monogamia/",
     "title": "Esteban Lamothe enfrenta rumores de separación y asegura: “No creo en la monogamia”",
     "url": "https://www.infobae.com/teleshow/2021/10/16/esteban-lamothe-enfrenta-rumores-de-separacion-y-asegura-no-creo-en-la-monogamia/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/WNOWHTXYHJHLFD6JA62MD5TW3M.jpg"
   },
   {
-    "n": 129,
-    "id": "https://www.infobae.com/america/entretenimiento/2021/10/16/la-reaccion-de-cartel-de-santa-tras-el-arresto-del-raperomillonario-acusado-de-homicidio/",
-    "title": "La reacción de Cártel de Santa tras el arresto del rapero“Millonario”, acusado de homicidio ",
-    "url": "https://www.infobae.com/america/entretenimiento/2021/10/16/la-reaccion-de-cartel-de-santa-tras-el-arresto-del-raperomillonario-acusado-de-homicidio/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/EQXLHFAFTNHZDOR33LV7NA4WRU.jpg"
+    "n": 130,
+    "id": "https://www.infobae.com/america/deportes/2021/10/16/impacto-en-uruguay-el-maestro-tabarez-podria-dejar-la-seleccion-tras-15-anos-y-ya-suenan-dos-reemplazantes/",
+    "title": "Impacto en Uruguay: el Maestro Tabárez podría dejar la selección tras 15 años y ya suenan dos reemplazantes",
+    "url": "https://www.infobae.com/america/deportes/2021/10/16/impacto-en-uruguay-el-maestro-tabarez-podria-dejar-la-seleccion-tras-15-anos-y-ya-suenan-dos-reemplazantes/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/K7YO3E5YMFDULFS4H2HXV3A5Q4"
   },
   {
-    "n": 130,
+    "n": 131,
+    "id": "https://www.infobae.com/america/deportes/2021/10/16/asi-recibieron-a-checo-perez-en-dallas-a-dias-del-gp-de-mexico/",
+    "title": "Así recibieron a Checo Pérez en Dallas a días del GP de México",
+    "url": "https://www.infobae.com/america/deportes/2021/10/16/asi-recibieron-a-checo-perez-en-dallas-a-dias-del-gp-de-mexico/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/SFPRRUDOWRADHIIDYQSMRE35YA.jpg"
+  },
+  {
+    "n": 132,
     "id": "https://www.infobae.com/america/deportes/futbol-europeo/2021/10/16/manchester-united-tomo-un-insolito-vuelo-de-diez-minutos-para-jugar-ante-leicester-y-genero-polemica-la-explicacion-del-club/",
     "title": "Manchester United tomó un insólito vuelo de diez minutos para jugar ante Leicester y generó polémica: la explicación del club",
     "url": "https://www.infobae.com/america/deportes/futbol-europeo/2021/10/16/manchester-united-tomo-un-insolito-vuelo-de-diez-minutos-para-jugar-ante-leicester-y-genero-polemica-la-explicacion-del-club/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/CNKVZO2GWNFXFCB5UA653J5KMY.jpg"
   },
   {
-    "n": 131,
+    "n": 133,
     "id": "https://www.infobae.com/america/deportes/2021/10/16/la-lista-de-los-10-jugadores-mas-ricos-de-la-nba-la-cifra-record-de-lebron-james/",
     "title": "La lista de los 10 jugadores más ricos de la NBA: la cifra récord de LeBron James",
     "url": "https://www.infobae.com/america/deportes/2021/10/16/la-lista-de-los-10-jugadores-mas-ricos-de-la-nba-la-cifra-record-de-lebron-james/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/6N27REMJERHTVFT5SMRF6MBJ2M.jfif"
   },
   {
-    "n": 132,
+    "n": 134,
     "id": "https://www.infobae.com/america/deportes/2021/10/16/rayados-vs-leon-donde-y-cuando-ver-el-partido-de-la-jornada-13-en-la-liga-mx/",
     "title": "Rayados vs León: dónde y cuándo ver el partido de la jornada 13 en la Liga MX",
     "url": "https://www.infobae.com/america/deportes/2021/10/16/rayados-vs-leon-donde-y-cuando-ver-el-partido-de-la-jornada-13-en-la-liga-mx/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/XA7J5HR4OJE6DABFRQADP5V7FE.jpg"
-  },
-  {
-    "n": 133,
-    "id": "https://www.infobae.com/america/deportes/2021/10/16/el-coi-rompe-su-silencio-y-se-posiciona-en-contra-del-plan-de-la-fifa-de-celebrar-un-mundial-cada-dos-anos/",
-    "title": "El COI rompe su silencio y se posiciona en contra del plan de la FIFA de celebrar un Mundial cada dos años",
-    "url": "https://www.infobae.com/america/deportes/2021/10/16/el-coi-rompe-su-silencio-y-se-posiciona-en-contra-del-plan-de-la-fifa-de-celebrar-un-mundial-cada-dos-anos/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/SKAA4MI2NBAPVM777GA3U37RDA.jpg"
-  },
-  {
-    "n": 134,
-    "id": "https://www.infobae.com/america/deportes/2021/10/16/brutal-cabezazo-en-el-futbol-ecuatoriano-le-rompio-la-nariz-a-su-rival-y-ambos-vieron-la-roja/",
-    "title": "Brutal cabezazo en el fútbol ecuatoriano: le rompió la nariz a su rival y ambos vieron la roja",
-    "url": "https://www.infobae.com/america/deportes/2021/10/16/brutal-cabezazo-en-el-futbol-ecuatoriano-le-rompio-la-nariz-a-su-rival-y-ambos-vieron-la-roja/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/SERORJUDQBETLKJKLIZO5GVRRY.jpg"
   }
 ]
