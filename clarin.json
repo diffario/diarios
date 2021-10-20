@@ -36,24 +36,24 @@
   },
   {
     "n": 6,
-    "id": "GbDP54EAl",
-    "title": "Hugo \"El Pollo\" Carvajal. España acordó entregar a EE.UU. al ex jefe de la inteligencia de Chávez que aseguró que \"mandaban dinero a Néstor Kirchner\"",
-    "url": "https://www.clarin.com/mundo/espana-acordo-entregar-ex-jefe-inteligencia-chavez-aseguro-mandaban-dinero-nestor-kirchner-_0_GbDP54EAl.html",
-    "image": "https://images.clarin.com/2021/10/19/C_isYfxMW_720x0__1.jpg"
-  },
-  {
-    "n": 7,
     "id": "lJIsTQQsc",
     "title": "Laferrere. Matan a un remisero para robarle: el asesino tiene 17 años y prisión domiciliaria",
     "url": "https://www.clarin.com/policiales/matan-remisero-robarle-auto-asesino-17-anos-antecedentes-prision-domiciliaria_0_lJIsTQQsc.html",
     "image": "https://images.clarin.com/2021/10/20/QYlUOS-Ma_720x0__1.jpg"
   },
   {
-    "n": 8,
+    "n": 7,
     "id": "iNASlRawS",
     "title": "Coronavirus. Parkinson post Covid: la secuela que indaga la ciencia y el test para detección precoz",
     "url": "https://www.clarin.com/sociedad/parkinson-post-covid-secuela-vilo-ciencia-test-deteccion-precoz_0_iNASlRawS.html",
     "image": "https://images.clarin.com/2021/10/19/sCf-RQkOk_720x0__1.jpg"
+  },
+  {
+    "n": 8,
+    "id": "R8L7RjCW2",
+    "title": "Por la gestión de la pandemia. Brasil: un comité del Senado pide acusar a Bolsonaro de \"crimen contra la humanidad\"",
+    "url": "https://www.clarin.com/mundo/brasil-comision-senado-recomendara-acusar-bolsonaro-crimen-humanidad-_0_R8L7RjCW2.html",
+    "image": "https://images.clarin.com/2021/06/19/XKl0Aj0bt_1256x620__2.jpg#1634734059632"
   },
   {
     "n": 9,
@@ -99,17 +99,17 @@
   },
   {
     "n": 15,
+    "id": "GbDP54EAl",
+    "title": "Hugo \"El Pollo\" Carvajal. España acordó entregar a EE.UU. al ex jefe de la inteligencia de Chávez que aseguró que \"mandaban dinero a Néstor Kirchner\"",
+    "url": "https://www.clarin.com/mundo/espana-acordo-entregar-ex-jefe-inteligencia-chavez-aseguro-mandaban-dinero-nestor-kirchner-_0_GbDP54EAl.html",
+    "image": "https://images.clarin.com/2021/10/19/C_isYfxMW_720x0__1.jpg"
+  },
+  {
+    "n": 16,
     "id": "OH78wUmCR",
     "title": "Busca  limpiar su imagen. Facebook deja de ser Facebook: cambia de nombre para lanzar el metaverso",
     "url": "https://www.clarin.com/tecnologia/facebook-deja-facebook-cambiara-nombre-lanzar-metaverso-limpiar-imagen_0_OH78wUmCR.html",
     "image": "https://images.clarin.com/2016/12/19/SkgPF42kBe_720x0.jpg"
-  },
-  {
-    "n": 16,
-    "id": "X5xMXGBGV",
-    "title": "Polémica en el sur. \"Currito\", el asesino al que dejaron salir para ver a su familia y fue a lo de su amante",
-    "url": "https://www.clarin.com/sociedad/-currito-asesino-dejaron-salir-prision-ver-familia-amante_0_X5xMXGBGV.html",
-    "image": "https://images.clarin.com/2021/10/19/ynvcujpNX_1256x620__2.jpg#1634681082213"
   },
   {
     "n": 17,
@@ -120,10 +120,10 @@
   },
   {
     "n": 18,
-    "id": "2Isf9oegJ",
-    "title": "Aniversario. A diez años del final de ETA: el día que en España terminó \"el tiro en la nuca\"",
-    "url": "https://www.clarin.com/mundo/anos-final-eta-dia-espana-termino-tiro-nuca-_0_2Isf9oegJ.html",
-    "image": "https://images.clarin.com/2021/10/19/CFAUpoCp3_1256x620__2.jpg#1634726212264"
+    "id": "lMFyLEmaa",
+    "title": "5.000 km en 43 días. La carrera más loca del mundo, en torno a un edificio en Nueva York",
+    "url": "https://www.clarin.com/viste/carrera-loca-mundo-5-000-km-43-dias-torno-edificio-nueva-york_0_lMFyLEmaa.html",
+    "image": "https://images.clarin.com/2021/10/20/BCuCC9yrQ_720x0__1.jpg"
   },
   {
     "n": 19,
@@ -162,10 +162,10 @@
   },
   {
     "n": 24,
-    "id": "lMFyLEmaa",
-    "title": "5.000 km en 43 días. La carrera más loca del mundo, en torno a un edificio en Nueva York",
-    "url": "https://www.clarin.com/viste/carrera-loca-mundo-5-000-km-43-dias-torno-edificio-nueva-york_0_lMFyLEmaa.html",
-    "image": "https://images.clarin.com/2021/10/20/BCuCC9yrQ_720x0__1.jpg"
+    "id": "JgGcKWUBR",
+    "title": "Día mundial. Qué es la mastocitosis y cuáles son sus síntomas y tratamientos",
+    "url": "https://www.clarin.com/buena-vida/que-es-sintomas-y-tratamiento-de-las-mastocitosis-la-enfermedad-que-hoy-conmemoramos-en-su-dia_0_JgGcKWUBR.html",
+    "image": "https://images.clarin.com/2020/10/01/p4K9o02Dx_720x0__1.jpg"
   },
   {
     "n": 25,
@@ -238,17 +238,17 @@
   },
   {
     "n": 35,
-    "id": "GbDP54EAl",
-    "title": "Hugo \"El Pollo\" Carvajal. España acordó entregar a EE.UU. al ex jefe de la inteligencia de Chávez que aseguró que \"mandaban dinero a Néstor Kirchner\"",
-    "url": "https://www.clarin.com/mundo/espana-acordo-entregar-ex-jefe-inteligencia-chavez-aseguro-mandaban-dinero-nestor-kirchner-_0_GbDP54EAl.html",
-    "image": "https://images.clarin.com/2021/10/19/C_isYfxMW_720x0__1.jpg"
-  },
-  {
-    "n": 36,
     "id": "lJIsTQQsc",
     "title": "Laferrere. Matan a un remisero para robarle: el asesino tiene 17 años y prisión domiciliaria",
     "url": "https://www.clarin.com/policiales/matan-remisero-robarle-auto-asesino-17-anos-antecedentes-prision-domiciliaria_0_lJIsTQQsc.html",
     "image": "https://images.clarin.com/2021/10/20/QYlUOS-Ma_720x0__1.jpg"
+  },
+  {
+    "n": 36,
+    "id": "iNASlRawS",
+    "title": "Coronavirus. Parkinson post Covid: la secuela que indaga la ciencia y el test para detección precoz",
+    "url": "https://www.clarin.com/sociedad/parkinson-post-covid-secuela-vilo-ciencia-test-deteccion-precoz_0_iNASlRawS.html",
+    "image": "https://images.clarin.com/2021/10/19/sCf-RQkOk_720x0__1.jpg"
   },
   {
     "n": 37,
@@ -276,7 +276,7 @@
     "id": "e3DXoVFXb",
     "title": "Anuncio global. En vivo: seguí la presentación de Samsung en el último Unpacked del 2021",
     "url": "https://www.clarin.com/tecnologia/vivo-segui-presentacion-samsung-ultimo-unpacked-2021_0_e3DXoVFXb.html",
-    "image": "https://images.clarin.com/2021/10/20/wVxaF0O79_720x0__1.jpg"
+    "image": "https://images.clarin.com/2021/10/20/CfI9jfFsE_720x0__1.jpg"
   },
   {
     "n": 41,
@@ -403,31 +403,31 @@
   },
   {
     "n": 59,
+    "id": "2Isf9oegJ",
+    "title": "Aniversario. A diez años del final de ETA: el día que en España terminó \"el tiro en la nuca\"",
+    "url": "https://www.clarin.com/mundo/anos-final-eta-dia-espana-termino-tiro-nuca-_0_2Isf9oegJ.html",
+    "image": "https://images.clarin.com/2021/10/19/CFAUpoCp3_1256x620__2.jpg#1634726212264"
+  },
+  {
+    "n": 60,
     "id": "9dVeRk5MO",
     "title": "El sueño de \"ampliarse\". Cuánto cuesta comprar un departamento con un ambiente más",
     "url": "https://www.clarin.com/servicios/sueno-ampliarse-cuesta-comprar-departamento-ambiente_0_9dVeRk5MO.html",
     "image": "https://images.clarin.com/2021/05/28/5Z0MPNfEy_720x0__1.jpg"
   },
   {
-    "n": 60,
+    "n": 61,
     "id": "kreN9ng4t",
     "title": "Agarrar la \"platita\". 5 fuertes subsidios al consumo para aprovechar hasta las elecciones",
     "url": "https://www.clarin.com/servicios/agarrar-platita-5-fuertes-subsidios-consumo-aprovechar-elecciones_0_kreN9ng4t.html",
     "image": "https://images.clarin.com/2021/04/12/SbwIVq8Rt_720x0__1.jpg"
   },
   {
-    "n": 61,
+    "n": 62,
     "id": "T2HeqAFwU",
     "title": "Elecciones 2021. Guerra electoral en Provincia: operaciones cruzadas y las encuestas que no se ven",
     "url": "https://www.clarin.com/politica/guerra-electoral-provincia-operaciones-cruzadas-encuestas-ven_0_T2HeqAFwU.html",
     "image": "https://images.clarin.com/2021/10/15/eTfX2p38g_720x0__1.jpg"
-  },
-  {
-    "n": 62,
-    "id": "MP3Uxp_Y-",
-    "title": "ARN mensajero. La revolución que puede generar en la vacuna contra la gripe",
-    "url": "https://www.clarin.com/sociedad/arn-mensajero-revolucion-puede-generar-vacuna-gripe_0_MP3Uxp_Y-.html",
-    "image": "https://images.clarin.com/2021/10/18/p3x2r44oN_720x0__1.jpg"
   },
   {
     "n": 63,
@@ -523,7 +523,7 @@
   {
     "n": 76,
     "id": "kxB9_uXuf",
-    "title": "Cotizar en Wall Street. Bitcoin sigue su rally alcista y se acerca a su récord histórico",
+    "title": "Se ubica en US$ 66.000. Bitcoin rompe un nuevo récord histórico tras el debut del ETF de futuros",
     "url": "https://www.clarin.com/economia/bitcoin-sigue-rally-alcista-acerca-record-historico-debut-etf-futuros_0_kxB9_uXuf.html",
     "image": "https://images.clarin.com/2021/10/20/KJJyTHb4I_720x0__1.jpg"
   },
