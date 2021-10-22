@@ -58,7 +58,7 @@
   {
     "n": 9,
     "id": "https://www.infobae.com/america/eeuu/2021/10/22/joe-biden-aseguro-que-estados-unidos-saldra-en-defensa-de-taiwan-si-la-isla-fuera-atacada-por-china/",
-    "title": "Joe Biden aseguró que Estados Unidos saldrá en defensa de Taiwán si la isla fuera atacada por China",
+    "title": "Joe Biden aseguró que Estados Unidos saldrá en defensa de Taiwán si es atacada por China",
     "url": "https://www.infobae.com/america/eeuu/2021/10/22/joe-biden-aseguro-que-estados-unidos-saldra-en-defensa-de-taiwan-si-la-isla-fuera-atacada-por-china/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/ZMW75IW7FZHKJOAYMO2U3CP5Z4"
   },
@@ -366,7 +366,7 @@
   {
     "n": 53,
     "id": "https://www.infobae.com/deportes/2021/10/21/la-promesa-de-un-jugador-de-boca-juniors-al-plantel-de-talleres-si-le-gana-a-river-plate/",
-    "title": "La promesa de un jugador de Boca Juniors al plantel de Talleres si le gana a River Plate",
+    "title": "La promesa que le había hecho un jugador de Boca al plantel de Talleres por si le ganaba a River",
     "url": "https://www.infobae.com/deportes/2021/10/21/la-promesa-de-un-jugador-de-boca-juniors-al-plantel-de-talleres-si-le-gana-a-river-plate/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/S7ONP5MFC5EKFG36VN6RIQERLM.jpg"
   },
@@ -757,37 +757,37 @@
   },
   {
     "n": 109,
+    "id": "https://www.infobae.com/america/deportes/espn/2021/10/22/el-sacrificio-de-enzo-perez-revelo-como-hace-para-jugar-con-una-fisura-en-un-dedo-del-pie/",
+    "title": "El sacrificio de Enzo Pérez: reveló cómo hace para jugar con una fisura en un dedo del pie",
+    "url": "https://www.infobae.com/america/deportes/espn/2021/10/22/el-sacrificio-de-enzo-perez-revelo-como-hace-para-jugar-con-una-fisura-en-un-dedo-del-pie/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/BSS4OAR43MMKZQFHWAO5HKWCSA.jpg"
+  },
+  {
+    "n": 110,
     "id": "https://www.infobae.com/america/deportes/2021/10/22/el-canas-zarate-el-campeon-de-boxeo-que-se-hundio-en-las-drogas-tras-una-derrota/",
     "title": "El Cañas Zárate, el campeón de boxeo que se hundió en las drogas tras una derrota",
     "url": "https://www.infobae.com/america/deportes/2021/10/22/el-canas-zarate-el-campeon-de-boxeo-que-se-hundio-en-las-drogas-tras-una-derrota/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/2SJI5JBBIBCCXMJBBNGCQOEJBI.jpg"
   },
   {
-    "n": 110,
+    "n": 111,
     "id": "https://www.infobae.com/america/deportes/2021/10/22/elias-hernandez-exploto-contra-la-sobrecarga-de-partidos-no-somos-maquinas/",
     "title": "Elías Hernández explotó contra la sobrecarga de partidos: “No somos máquinas”",
     "url": "https://www.infobae.com/america/deportes/2021/10/22/elias-hernandez-exploto-contra-la-sobrecarga-de-partidos-no-somos-maquinas/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/ZLI6XAW6GZFF3APVMTK46EKNZY.jpeg"
   },
   {
-    "n": 111,
+    "n": 112,
     "id": "https://www.infobae.com/america/deportes/2021/10/22/julio-cesar-chavez-jr-fue-vetado-de-nevada-y-no-podra-boxear-por-3-anos/",
     "title": "Julio César Chávez Jr. fue vetado de Nevada y no podrá boxear por 3 años",
     "url": "https://www.infobae.com/america/deportes/2021/10/22/julio-cesar-chavez-jr-fue-vetado-de-nevada-y-no-podra-boxear-por-3-anos/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/GJBQK3EG45CD5GOSKJWY7MB2SI.jpg"
   },
   {
-    "n": 112,
+    "n": 113,
     "id": "https://www.infobae.com/america/deportes/2021/10/22/ruben-rodriguez-arremetio-contra-chivas-habla-mas-de-lo-que-juega/",
     "title": "Rubén Rodríguez arremetió contra Chivas: “Habla más de lo que juega”",
     "url": "https://www.infobae.com/america/deportes/2021/10/22/ruben-rodriguez-arremetio-contra-chivas-habla-mas-de-lo-que-juega/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/IHQGNXJFNNFOTAN2RTVLAY4U3Y.jpeg"
-  },
-  {
-    "n": 113,
-    "id": "https://www.infobae.com/america/deportes/espn/2021/10/22/la-jugada-de-laboratorio-de-river-plate-en-el-gol-de-robert-rojas-ante-talleres/",
-    "title": "La jugada de laboratorio de River Plate en el gol de Robert Rojas ante Talleres",
-    "url": "https://www.infobae.com/america/deportes/espn/2021/10/22/la-jugada-de-laboratorio-de-river-plate-en-el-gol-de-robert-rojas-ante-talleres/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/MOOLM66NARH2JCWYAUS54TZCXM.jpg"
   }
 ]
