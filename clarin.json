@@ -65,7 +65,7 @@
   {
     "n": 10,
     "id": "oYPFFY0Eh",
-    "title": "Brasil, en shock. A los 26 años murió en un accidente aéreo la cantante Marília Mendonça",
+    "title": "La cantante tenía 26 años . Brasil sigue en shock por la muerte de Marília Mendonça en un accidente aéreo",
     "url": "https://www.clarin.com/espectaculos/26-anos-murio-accidente-aereo-cantante-brasilena-marilia-mendon_0_oYPFFY0Eh.html",
     "image": "https://images.clarin.com/2021/11/06/NQsTpD3GO_1256x620__2.jpg#1636198993515"
   },
@@ -79,7 +79,7 @@
   {
     "n": 12,
     "id": "_q8nhb792",
-    "title": "Ola de críticas. El momento en que Travis Scott sigue cantando mientras se llevan a los muertos ",
+    "title": "Lluvia de críticas. El momento en que Travis Scott sigue cantando mientras se llevan a los muertos ",
     "url": "https://www.clarin.com/internacional/espectaculos/video-momento-travis-scott-sigue-cantando-mira-aturdido-llevan-muertos-heridos_0__q8nhb792.html",
     "image": "https://images.clarin.com/2021/11/06/-6cO81725_720x0__1.jpg"
   },
@@ -92,24 +92,24 @@
   },
   {
     "n": 14,
-    "id": "snBWKVPqL",
-    "title": "Guerra narco en la 1-11-14. Cayó el asesino de \"Picnic\": tiene 19 años y en su ráfaga mortal hirió a dos chicas de 14",
-    "url": "https://www.clarin.com/policiales/crimen-narco-picnic-flores-cayo-asesino-19-anos-rafaga-mortal-hirio-chicas-14_0_snBWKVPqL.html",
-    "image": "https://images.clarin.com/2021/11/06/Y6nm7zOmj_720x0__1.jpg"
+    "id": "4DT7BqEsg",
+    "title": "Gira europea. Los Pumas buscan cambiar la cara ante la poderosa Francia ",
+    "url": "https://www.clarin.com/deportes/pumas-vs-francia-test-match-internacional-minuto-minuto-directo_0_4DT7BqEsg.html",
+    "image": "https://images.clarin.com/2021/11/06/FGx-PADp5_1256x620__2.jpg#1636229229672"
   },
   {
     "n": 15,
-    "id": "YpiztcBDh",
-    "title": "Múltiples bajas en Boca . El inédito equipo que probó Battaglia en la previa del viaje a Mar del Plata",
-    "url": "https://www.clarin.com/deportes/battaglia-equipo-practica-boca-aldosivi_0_YpiztcBDh.html",
-    "image": "https://images.clarin.com/2021/11/06/8_ivpBSHm_720x0__1.jpg"
-  },
-  {
-    "n": 16,
     "id": "jubDOAxp4",
     "title": "Euforia en el DF. Fórmula 1: Checo Pérez enloqueció a los mexicanos antes de la clasificación",
     "url": "https://www.clarin.com/deportes/formula-1-checo-perez-hizo-delirar-mexicanos-mejor-tiempo-clasificacion_0_jubDOAxp4.html",
     "image": "https://images.clarin.com/2021/11/06/YuZR2Tdxf_720x0__1.jpg"
+  },
+  {
+    "n": 16,
+    "id": "snBWKVPqL",
+    "title": "Guerra narco en la 1-11-14. Cayó el asesino de \"Picnic\": tiene 19 años y en su ráfaga mortal hirió a dos chicas de 14",
+    "url": "https://www.clarin.com/policiales/crimen-narco-picnic-flores-cayo-asesino-19-anos-rafaga-mortal-hirio-chicas-14_0_snBWKVPqL.html",
+    "image": "https://images.clarin.com/2021/11/06/Y6nm7zOmj_720x0__1.jpg"
   },
   {
     "n": 17,
@@ -410,17 +410,17 @@
   },
   {
     "n": 60,
+    "id": "9AUak7YYq",
+    "title": "Tiene 12 años. La emoción de Agustina Cherri tras el debut como cantante de su hija Muna en el Luna Park",
+    "url": "https://www.clarin.com/fama/emocion-agustina-cherri-debut-cantante-hija-muna-luna-park_0_9AUak7YYq.html",
+    "image": "https://images.clarin.com/2021/11/06/UO_l8_YGk_720x0__1.jpg"
+  },
+  {
+    "n": 61,
     "id": "A-aP_FFrl",
     "title": "A todo ritmo. Shopping, trabajo y salidas nocturnas: cómo es la vida de soltera de Wanda Nara en Milán",
     "url": "https://www.clarin.com/fama/shopping-trabajo-salidas-nocturnas-nueva-vida-soltera-wanda-nara-milan_0_A-aP_FFrl.html",
     "image": "https://images.clarin.com/2021/11/05/HlMNCBDB1_720x0__1.jpg"
-  },
-  {
-    "n": 61,
-    "id": "scAEhpdys",
-    "title": "Mirá el video. Paula Chaves enfrentó preguntas sobre la China Suárez y Wanda Nara: su reacción",
-    "url": "https://www.clarin.com/fama/paula-chaves-enfrento-preguntas-china-suarez-wanda-nara-reaccion_0_scAEhpdys.html",
-    "image": "https://images.clarin.com/2021/11/05/DvD-UKHaP_720x0__1.jpg"
   },
   {
     "n": 62,
@@ -501,27 +501,34 @@
   },
   {
     "n": 73,
+    "id": "YpiztcBDh",
+    "title": "Múltiples bajas en Boca . El inédito equipo que probó Battaglia en la previa del viaje a Mar del Plata",
+    "url": "https://www.clarin.com/deportes/battaglia-equipo-practica-boca-aldosivi_0_YpiztcBDh.html",
+    "image": "https://images.clarin.com/2021/11/06/8_ivpBSHm_720x0__1.jpg"
+  },
+  {
+    "n": 74,
     "id": "GifEv2Lo7",
     "title": "Historia pura. Novak Djokovic rompió un récord de Pete Sampras y se aseguró el número 1",
     "url": "https://www.clarin.com/deportes/novak-djokovic-rompio-record-pete-sampras-aseguro-numero-1_0_GifEv2Lo7.html",
     "image": "https://images.clarin.com/2021/11/06/fkC3ck2DU_720x0__1.jpg"
   },
   {
-    "n": 74,
+    "n": 75,
     "id": "MRSpXBR7b",
     "title": "Superpelea en Las Vegas. Canelo Álvarez, por la unificación que le permita callar las dudas para siempre",
     "url": "https://www.clarin.com/deportes/canelo-alvarez-caleb-plant-supermedianos-titulo-unificacion-hora-tv-como-verlo-vivo-streaming_0_MRSpXBR7b.html",
     "image": "https://images.clarin.com/2021/11/05/uJi87cX90_1256x620__2.jpg#1636149318387"
   },
   {
-    "n": 75,
+    "n": 76,
     "id": "K-1hWcd8u",
     "title": "Fecha 11. Victoria clásica en la Premier: el City le dio otro golpe al United de Cristiano Ronaldo",
     "url": "https://www.clarin.com/deportes/manchester-united-vs-manchester-city-premier-league-minuto-minuto-directo_0_K-1hWcd8u.html",
     "image": "https://images.clarin.com/2021/11/06/VBlqR8xWM_720x0__1.jpg"
   },
   {
-    "n": 76,
+    "n": 77,
     "id": "CtyNknok6",
     "title": "Tributo al Chueco. Fórmula 1: el poleman en el GP de México se llevará un premio especial que perteneció a Juan Manuel Fangio",
     "url": "https://www.clarin.com/deportes/formula-1-poleman-gp-mexico-llevara-premio-especial-pertenecio-juan-manuel-fangio_0_CtyNknok6.html",
