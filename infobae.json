@@ -23,7 +23,7 @@
   {
     "n": 4,
     "id": "https://www.infobae.com/economia/2021/11/10/el-dolar-en-un-nuevo-record-historico-la-cotizacion-libre-sube-a-202-a-cuatro-dias-de-las-elecciones/",
-    "title": "El dólar en un nuevo récord histórico: la cotización libre sube a 202 pesos",
+    "title": "El dólar en un nuevo récord histórico: la cotización libre sube a 203 pesos",
     "url": "https://www.infobae.com/economia/2021/11/10/el-dolar-en-un-nuevo-record-historico-la-cotizacion-libre-sube-a-202-a-cuatro-dias-de-las-elecciones/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/JFVQMLSW3JB6VJU3QG4JOJRGJI.jpg"
   },
@@ -50,24 +50,24 @@
   },
   {
     "n": 8,
+    "id": "https://www.infobae.com/politica/2021/11/10/elecciones-2021-artistas-y-cientificos-llamaron-a-votar-por-el-frente-de-todos/",
+    "title": "Elecciones 2021: artistas, científicos y streamers llamaron a votar por el  Frente de Todos",
+    "url": "https://www.infobae.com/politica/2021/11/10/elecciones-2021-artistas-y-cientificos-llamaron-a-votar-por-el-frente-de-todos/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/JVSCQDCSSFCARJZ6D5VVO76FFA.jpg"
+  },
+  {
+    "n": 9,
     "id": "https://www.infobae.com/historias/2021/11/10/denuncio-que-una-desconocida-se-obsesiono-con-ella-y-la-hizo-vivir-una-pelicula-de-terror/",
     "title": "Denunció que una desconocida se obsesionó con ella y la hizo vivir “una película de terror”",
     "url": "https://www.infobae.com/historias/2021/11/10/denuncio-que-una-desconocida-se-obsesiono-con-ella-y-la-hizo-vivir-una-pelicula-de-terror/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/GK6FRF2UCRHOLES6WZUV557X34.JPG"
   },
   {
-    "n": 9,
+    "n": 10,
     "id": "https://www.infobae.com/deportes/2021/11/10/furioso-descargo-de-fantino-contra-gabriel-milito-tras-las-criticas-del-dt-la-estas-chocando-en-todos-lados/",
     "title": "Furioso descargo de Fantino contra Gabriel Milito tras las críticas del DT: “La estás chocando en todos lados”",
     "url": "https://www.infobae.com/deportes/2021/11/10/furioso-descargo-de-fantino-contra-gabriel-milito-tras-las-criticas-del-dt-la-estas-chocando-en-todos-lados/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/SAPSYFA66FE3BHNNHJ63KOY6SU.jpg"
-  },
-  {
-    "n": 10,
-    "id": "https://www.infobae.com/historias/2021/11/10/el-increible-soldado-que-lidero-las-misiones-suicidas-detras-de-las-lineas-alemanas-e-inspiro-una-famosa-pelicula/",
-    "title": "El increíble soldado que lideró las misiones suicidas detrás de las líneas alemanas e inspiró una famosa película",
-    "url": "https://www.infobae.com/historias/2021/11/10/el-increible-soldado-que-lidero-las-misiones-suicidas-detras-de-las-lineas-alemanas-e-inspiro-una-famosa-pelicula/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/LJOPOPUFNFEERP73G6ITCS37ZU.jpg"
   },
   {
     "n": 11,
@@ -78,24 +78,24 @@
   },
   {
     "n": 12,
-    "id": "https://www.infobae.com/politica/2021/11/10/elecciones-2021-artistas-y-cientificos-llamaron-a-votar-por-el-frente-de-todos/",
-    "title": "Elecciones 2021: artistas, científicos y streamers llamaron a votar por el  Frente de Todos",
-    "url": "https://www.infobae.com/politica/2021/11/10/elecciones-2021-artistas-y-cientificos-llamaron-a-votar-por-el-frente-de-todos/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/JVSCQDCSSFCARJZ6D5VVO76FFA.jpg"
-  },
-  {
-    "n": 13,
     "id": "https://www.infobae.com/reportajes/2021/11/10/david-lebon-con-maria-laura-santillan-yo-tambien-estoy-hecho-pelota/",
     "title": "David Lebón con María Laura Santillán: “La música es un puente con Dios” ",
     "url": "https://www.infobae.com/reportajes/2021/11/10/david-lebon-con-maria-laura-santillan-yo-tambien-estoy-hecho-pelota/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/M4NK7BSU6ZGCJB4A2TJE3XZOFQ.jpg"
   },
   {
-    "n": 14,
+    "n": 13,
     "id": "https://www.infobae.com/economia/2021/11/10/financial-times-pone-en-duda-que-la-argentina-acuerde-con-el-fmi-sus-politicas-son-una-locura/",
     "title": "Financial Times pone en duda que la Argentina acuerde con el FMI: “Sus políticas son una locura”",
     "url": "https://www.infobae.com/economia/2021/11/10/financial-times-pone-en-duda-que-la-argentina-acuerde-con-el-fmi-sus-politicas-son-una-locura/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/QRT3AA4DDFEX5OVAZYMKMQHCEM.jpg"
+  },
+  {
+    "n": 14,
+    "id": "https://www.infobae.com/historias/2021/11/10/el-increible-soldado-que-lidero-las-misiones-suicidas-detras-de-las-lineas-alemanas-e-inspiro-una-famosa-pelicula/",
+    "title": "El increíble soldado que lideró las misiones suicidas detrás de las líneas alemanas e inspiró una famosa película",
+    "url": "https://www.infobae.com/historias/2021/11/10/el-increible-soldado-que-lidero-las-misiones-suicidas-detras-de-las-lineas-alemanas-e-inspiro-una-famosa-pelicula/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/LJOPOPUFNFEERP73G6ITCS37ZU.jpg"
   },
   {
     "n": 15,
@@ -107,7 +107,7 @@
   {
     "n": 16,
     "id": "https://www.infobae.com/politica/2021/11/10/elecciones-2021-en-vivo/",
-    "title": "Elecciones 2021 en vivo: a qué hora se conocerán los primeros resultados el domingo y la queja de López Murphy a Macri por Milei",
+    "title": "Elecciones 2021 en vivo: Vidal cierra la campaña porteña y Santoro habló de inseguridad y de las pistolas Taser",
     "url": "https://www.infobae.com/politica/2021/11/10/elecciones-2021-en-vivo/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/VFCEVPEQZRFOXGKTIIMSWWDAHI.jpg"
   },
@@ -743,10 +743,10 @@
   },
   {
     "n": 107,
-    "id": "https://www.infobae.com/politica/2021/11/09/eduardo-eurnekian-destaco-el-rol-de-los-empresarios-para-contribuir-en-la-agenda-geopolitica-y-la-integracion-de-america-del-sur-y-norteamerica/",
-    "title": "Eduardo Eurnekian destacó el rol de los empresarios para contribuir en la agenda geopolítica y la integración de América del Sur y Norteamérica",
-    "url": "https://www.infobae.com/politica/2021/11/09/eduardo-eurnekian-destaco-el-rol-de-los-empresarios-para-contribuir-en-la-agenda-geopolitica-y-la-integracion-de-america-del-sur-y-norteamerica/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/ADRQYDKCLZETJIZTFBV7RMYH3I.jpg"
+    "id": "https://www.infobae.com/america/america-latina/2021/11/10/un-grupo-de-intelectuales-respaldo-la-prohibicion-de-las-marchas-contra-el-regimen-cubano-son-subversivas/",
+    "title": "Un grupo de intelectuales respaldó la prohibición de las marchas contra el régimen cubano: “Son subversivas”",
+    "url": "https://www.infobae.com/america/america-latina/2021/11/10/un-grupo-de-intelectuales-respaldo-la-prohibicion-de-las-marchas-contra-el-regimen-cubano-son-subversivas/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/FJBKX6EY5I6BZYJIBZK3RB6T6Y.jpg"
   },
   {
     "n": 108,
@@ -834,24 +834,24 @@
   },
   {
     "n": 120,
+    "id": "https://www.infobae.com/politica/2021/11/10/elecciones-2021-en-vivo/",
+    "title": "Elecciones 2021 en vivo: Vidal cierra la campaña porteña y Santoro habló de inseguridad y de las pistolas Taser",
+    "url": "https://www.infobae.com/politica/2021/11/10/elecciones-2021-en-vivo/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/VFCEVPEQZRFOXGKTIIMSWWDAHI.jpg"
+  },
+  {
+    "n": 121,
     "id": "https://www.infobae.com/politica/2021/11/10/la-justicia-anulo-una-resolucion-del-gobierno-que-reconocia-la-propiedad-de-varias-hectareas-a-una-comunidad-mapuche-de-bariloche/",
     "title": "La Justicia anuló una resolución del Gobierno que reconocía la propiedad de varias hectáreas a una comunidad mapuche de Bariloche",
     "url": "https://www.infobae.com/politica/2021/11/10/la-justicia-anulo-una-resolucion-del-gobierno-que-reconocia-la-propiedad-de-varias-hectareas-a-una-comunidad-mapuche-de-bariloche/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/75SIVZUHDFHJLMLBL6EOBLCMPQ.jpg"
   },
   {
-    "n": 121,
+    "n": 122,
     "id": "https://www.infobae.com/economia/2021/11/10/advierten-que-la-suba-de-la-inflacion-en-eeuu-impactara-sobre-el-nivel-de-precios-y-la-recuperacion-economica-argentina/",
     "title": "Advierten que la suba de la inflación en EEUU impactará sobre el nivel de precios y la recuperación económica argentina",
     "url": "https://www.infobae.com/economia/2021/11/10/advierten-que-la-suba-de-la-inflacion-en-eeuu-impactara-sobre-el-nivel-de-precios-y-la-recuperacion-economica-argentina/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/6IABCZMKWZHYBFI4SWU5IYQVQM.jpg"
-  },
-  {
-    "n": 122,
-    "id": "https://www.infobae.com/politica/2021/11/10/elecciones-2021-en-vivo/",
-    "title": "Elecciones 2021 en vivo: a qué hora se conocerán los primeros resultados el domingo y la queja de López Murphy a Macri por Milei",
-    "url": "https://www.infobae.com/politica/2021/11/10/elecciones-2021-en-vivo/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/VFCEVPEQZRFOXGKTIIMSWWDAHI.jpg"
   },
   {
     "n": 123,
@@ -883,9 +883,9 @@
   },
   {
     "n": 127,
-    "id": "https://www.infobae.com/america/entretenimiento/2021/11/10/capi-perez-reglo-dolares-como-juez-invitado-en-la-mas-draga-4/",
+    "id": "https://www.infobae.com/america/entretenimiento/2021/11/10/capi-perez-regalo-dolares-como-juez-invitado-en-la-mas-draga-4/",
     "title": "Capi Pérez regaló dólares como juez invitado en “La más Draga 4″",
-    "url": "https://www.infobae.com/america/entretenimiento/2021/11/10/capi-perez-reglo-dolares-como-juez-invitado-en-la-mas-draga-4/",
+    "url": "https://www.infobae.com/america/entretenimiento/2021/11/10/capi-perez-regalo-dolares-como-juez-invitado-en-la-mas-draga-4/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/P7BWGSY2QRGYNNNFSUVBVME4MA.png"
   },
   {
