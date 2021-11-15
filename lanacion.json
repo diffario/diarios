@@ -134,10 +134,10 @@
   },
   {
     "n": 20,
-    "id": "Y7SIW6C6AVFMVKDEWE46NS2MGA",
-    "title": "Con lo justo. Santilli ganó por apenas un punto en la provincia de Buenos Aires",
-    "url": "https://www.lanacion.com.ar/politica/diego-santilli-gano-por-apenas-un-punto-en-la-provincia-de-buenos-aires-nid15112021/",
-    "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/nyMxn7Hyvpg-sClb65X3C3hzQyU=/879x586/smart/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/MSLHLDKVERBZTNKPYJP4MHBNCA.JPG"
+    "id": "AP32UZBZOBDIFJYYZL2F7MP4JA",
+    "title": "Otro cruce con la prensa. Aníbal Fernández, tras la derrota: “Si quiero hacer autocríticas las hago para mí y nada más”",
+    "url": "https://www.lanacion.com.ar/politica/tras-la-derrota-anibal-fernandez-tuvo-otro-cruce-con-la-prensa-si-quiero-hacer-autocriticas-las-hago-nid15112021/",
+    "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/atReklHKqFKQVDCdAk3WTFm1_uA=/879x586/smart/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/JFAICIBSHVHUXMYF73QZOBFZ7M.jpg"
   },
   {
     "n": 21,
@@ -422,7 +422,7 @@
   {
     "n": 61,
     "id": "RAG4FIA5PRFF7AACXKUTVDPC64",
-    "title": "AVAYA",
+    "title": "Clientes más felices a un clic de distancia: ahora las marcas apuestan todo al contacto directo por redes y WhatsApp",
     "url": "https://www.lanacion.com.ar/lifestyle/avaya-nid15112021/",
     "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/i9Mj-v2pt6blOzYPt4D1breArT4=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/5CLLMK34NZBC3BF55GXKO4KEVM.jpg"
   },
@@ -568,48 +568,62 @@
   },
   {
     "n": 82,
+    "id": "PR2ELFCDLJFULIHZH6NO6NPMNI",
+    "title": "La compu. El cerebro electrónico cumple medio siglo pasado mañana",
+    "url": "https://www.lanacion.com.ar/tecnologia/el-cerebro-electronico-cumple-medio-siglo-pasado-manana-nid13112021/",
+    "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/iDky3cdjT-I6yQcCQ-OG6TN15TU=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/JIJD3FOITFGUJBYJJG7QUE66DU.jpg"
+  },
+  {
+    "n": 83,
+    "id": "W3HI44O26JHT7FBMHMWQXZXTZM",
+    "title": "Con Android 12. Samsung comienza a distribuir One UI 4 para los Galaxy S21",
+    "url": "https://www.lanacion.com.ar/agencias/one-ui-4-llega-este-lunes-a-los-samsung-galaxy-s21-nid15112021/",
+    "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/r1ZDDNAFAt_0EvPmPR6ovGHVK5w=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/NIHRX7YO4NBV5JLHAHR2W5RI5I.jpg"
+  },
+  {
+    "n": 84,
     "id": "UVESMIMOXZHKBDUCJ5ELVCWCOE",
     "title": "Creencia popular. Qué hay detrás del mito de que la luna llena nos quita el sueño",
     "url": "https://www.lanacion.com.ar/lifestyle/que-hay-detras-del-mito-de-que-la-luna-llena-nos-quita-el-sueno-nid14112021/",
     "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/LcUSW2mJ-2MDQKsAgqjMGknvwBE=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/YRGZJOT4W5FQVHDPLNVQ54JZVE.png"
   },
   {
-    "n": 83,
+    "n": 85,
     "id": "SHO2642NC5DYBCLPB7ILVSCPQY",
     "title": "Viral. El particular truco de una madre para que su hija ordene la habitación",
     "url": "https://www.lanacion.com.ar/lifestyle/el-particular-truco-de-una-madre-para-que-su-hija-ordene-la-habitacion-que-se-volvio-viral-nid13112021/",
     "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/AUR_V3II01lcFuTqGmoWxkePo_Y=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/HVLFSTE5HFGQ3ARFE5P4ZCT4VI.jpg"
   },
   {
-    "n": 84,
+    "n": 86,
     "id": "RCZV74VOKNG3PNSJT3HAA3OCHY",
     "title": "Astrología. Lluvia de meteoros: cuándo se podrán ver las Leónidas",
     "url": "https://www.lanacion.com.ar/el-mundo/lluvia-de-meteoros-cuando-se-podran-ver-las-leonidas-nid14112021/",
     "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/A68r-iArbTtixI1LSzvWj3Svk-Q=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/EW3CA5Q75VDZPMYOWCH4JI7LQU.png"
   },
   {
-    "n": 85,
+    "n": 87,
     "id": "6HTIJADUZZGJNEFBGC4GTYTMSM",
     "title": "¿Qué fue? La experiencia paranormal que vivió Jimena Barón cuando grababa un video junto a su hijo",
     "url": "https://www.lanacion.com.ar/espectaculos/la-experiencia-paranormal-que-vivio-jimena-baron-cuando-grababa-un-video-junto-a-su-hijo-morrison-nid12112021/",
     "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/Qu2h8DTLZ4FqDurQN9YzPfGc4jA=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/A3LGXDPZ7RDYZDOOB2YOEY5GEI.jpg"
   },
   {
-    "n": 86,
+    "n": 88,
     "id": "WHVVXKGK6JAD3BD5NCUZC66KGE",
     "title": "De Versace a Maradona. La particular historia de la camisa que Susana Giménez usó para recibir a Marley en Miami",
     "url": "https://www.lanacion.com.ar/espectaculos/la-particular-historia-de-la-camisa-que-susana-gimenez-uso-para-recibir-a-marley-en-miami-nid12112021/",
     "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/MUUEVj4o35Uo2h-SQ6pgerCnus4=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/ZH2DAQQMLZH3TOEA3LFP5ALG34.jpg"
   },
   {
-    "n": 87,
+    "n": 89,
     "id": "ORI5V7MXGFEGFEQ7TBYDCH6MUU",
     "title": "Contundente. Nicki Nicole sorprendió con una respuesta sobre Maradona: “No soy su fan”",
     "url": "https://www.lanacion.com.ar/espectaculos/nicki-nicole-sorprendio-con-una-respuesta-sobre-diego-maradona-no-soy-su-fan-nid12112021/",
     "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/OEFFbLgmzq2VMJ2L01xBUzVhgFw=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/6FQOXYYEN5D2TCBTXTRQ7QO5C4.jpg"
   },
   {
-    "n": 88,
+    "n": 90,
     "id": "QNCWS7AKGRBKPK3F3UZHC5P3WI",
     "title": "Saben igual. Empanadas de carne vegetal con pasas de uva",
     "url": "https://www.lanacion.com.ar/recetas/entradas/empanadas-de-carne-vegetal-con-pasas-de-uva-nid10112021/",
