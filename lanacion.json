@@ -2,7 +2,7 @@
   {
     "n": 1,
     "id": "TFHIIJ3UMZB4BERO3YL6M4L5NU",
-    "title": "Covid-19. Detectaron el primer caso de la variante ómicron en la Argentina",
+    "title": "Covid-19. Detectan el primer caso de la variante en la Argentina: es un hombre que llegó de Sudáfrica sin síntomas",
     "url": "https://www.lanacion.com.ar/sociedad/covid-19-detectaron-el-primer-caso-de-la-variante-omicron-en-la-argentina-nid05122021/",
     "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/GkN0Q1jPvubwtKKKEfMAMHBCTK0=/879x586/smart/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/YMHTJVDPTFDFVOKOWND4TVTE4M.jpg"
   },
@@ -15,24 +15,24 @@
   },
   {
     "n": 3,
+    "id": "MAEO6UWOKNF2HMEFBVR5OAS2KM",
+    "title": "Se detectó el primer caso local. Qué es lo que más preocupa a los infectólogos de la nueva variante y cómo aconsejan cuidarse",
+    "url": "https://www.lanacion.com.ar/sociedad/omicron-que-es-lo-que-mas-preocupa-a-los-infectologos-de-la-nueva-variante-y-como-aconsejan-cuidarse-nid29112021/",
+    "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/jm34YsW7m2t8wfyZu53pNR8TavI=/879x586/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/V3JAAXL33JBJDH7O6B5NLV65GY.jpg"
+  },
+  {
+    "n": 4,
     "id": "D6DVDDHZ3RACNKGCLCI5SZ4COI",
     "title": "Se vota mañana. La Argentina, cerca de presidir el Consejo de Derechos Humanos de la ONU: quién es el candidato",
     "url": "https://www.lanacion.com.ar/politica/la-argentina-cerca-de-presidir-el-consejo-de-derechos-humanos-de-la-onu-nid05122021/",
     "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/sWrTsB1ABCNb7AHr6xpb2gf8q0c=/879x586/smart/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/M2G2NBL6ANBHPFRHVFJTQTZ4Q4"
   },
   {
-    "n": 4,
+    "n": 5,
     "id": "N4GSCTYIBNGHZLOY2WPOXGBFM4",
     "title": "\"Es inviable\". La metáfora del taxi de Melconian para explicar el precio del dólar",
     "url": "https://www.lanacion.com.ar/lnmas/carlos-melconian-uso-al-taxi-como-ejemplo-de-lo-que-pasa-con-el-dolar-nid05122021/",
     "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/CroqUfyGoyr-xLYszzgSHsX5qmY=/879x586/smart/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/WZ57P2TR4REIFLI3XYFHZ42LIE.JPG"
-  },
-  {
-    "n": 5,
-    "id": "X7OTDEO2PZGSTJUQON4UZZ3CYE",
-    "title": "\"No me define la enfermedad\". Esteban Bullrich fue al Abierto de Polo con un mensaje para los que se burlan de su enfermedad",
-    "url": "https://www.lanacion.com.ar/politica/esteban-bullrich-siguio-desde-la-tribuna-la-definicion-de-un-partido-clave-en-el-abierto-de-palermo-nid05122021/",
-    "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/8DTQSolMgJRqThY5s-b3qOAPHl8=/879x586/smart/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/SHU2DZBGEJBT5JCFC2LYEGN3XU.jpg"
   },
   {
     "n": 6,
@@ -50,10 +50,10 @@
   },
   {
     "n": 8,
-    "id": "JRMPOUHXJRHH3KQR5D3RNF4GKI",
-    "title": "\"Señales de precios muy perversas\". Creció la inversión como contracara de una señal \"perversa de los precios\"",
-    "url": "https://www.lanacion.com.ar/politica/la-economista-marina-dal-pogetto-explico-que-crecio-la-inversion-como-contracara-del-excedente-de-nid06122021/",
-    "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/DqlMy3zRh_c2tUep6vaJj0T8E4Y=/879x586/smart/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/C4XCNK7F5RDULBZ2DTSLIYO3WA.JPG"
+    "id": "X7OTDEO2PZGSTJUQON4UZZ3CYE",
+    "title": "\"No me define la enfermedad\". Esteban Bullrich fue al Abierto de Polo con un mensaje para los que se burlan de su enfermedad",
+    "url": "https://www.lanacion.com.ar/politica/esteban-bullrich-siguio-desde-la-tribuna-la-definicion-de-un-partido-clave-en-el-abierto-de-palermo-nid05122021/",
+    "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/8DTQSolMgJRqThY5s-b3qOAPHl8=/879x586/smart/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/SHU2DZBGEJBT5JCFC2LYEGN3XU.jpg"
   },
   {
     "n": 9,
@@ -541,14 +541,14 @@
   {
     "n": 78,
     "id": "OXXGUWB42FBQFMTTQRSNZEMG74",
-    "title": "Protección de pantallas: un negocio que crece con fuerza",
+    "title": "Tecnología. Protección de pantallas: un negocio que crece con fuerza",
     "url": "https://www.lanacion.com.ar/lifestyle/proteccion-de-pantallas-un-negocio-que-crece-con-fuerza-nid06122021/",
     "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/G60s3sHQCUaOi4ehdEX3WL89k2w=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/RRMCF5DIORHKFBT632ALYTUPBA.jpg"
   },
   {
     "n": 79,
     "id": "UFOUGYBYJFFAFNCEIY5UWHHM2U",
-    "title": "Cecilia Giordano recibió el “Reconocimiento a la mujer destacada en el ámbito empresarial 2021”",
+    "title": "Distinción. Cecilia Giordano recibió el “Reconocimiento a la mujer destacada en el ámbito empresarial 2021”",
     "url": "https://www.lanacion.com.ar/lifestyle/cecilia-giordano-recibio-el-reconocimiento-a-la-mujer-destacada-en-el-ambito-empresarial-2021-nid06122021/",
     "image": "https://lanacionar-la-nacion-ar-prod.cdn.arcpublishing.com/resizer/m3IuIFFfRI3meYA8jWvlNVsznbc=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/RFPLJQR2IJERRK7JADFGDT2UHE.png"
   }
