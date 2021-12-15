@@ -9,7 +9,7 @@
   {
     "n": 2,
     "id": "BJ20F4BRT",
-    "title": "Del editor al lector. Un juez que increíblemente sigue siendo juez",
+    "title": "Del editor. Un juez que increíblemente sigue siendo juez",
     "url": "https://www.clarin.com/opinion/juez-increiblemente-sigue-juez_0_BJ20F4BRT.html",
     "image": "https://images.clarin.com/2021/08/10/djcRcE-TP_720x0__1.jpg"
   },
@@ -37,7 +37,7 @@
   {
     "n": 6,
     "id": "eAdCk_fnm",
-    "title": "Foco Económico. Los \"dibujos\" de Martín Guzmán que llenan de dudas a los mercados",
+    "title": "Foco económico. Los \"dibujos\" de Martín Guzmán que llenan de dudas a los mercados",
     "url": "https://www.clarin.com/opinion/-mercado-cree-acuerdo-fmi-despegue-k-_0_eAdCk_fnm.html",
     "image": "https://images.clarin.com/2021/12/14/ogeqobuOa_720x0__1.jpg"
   },
@@ -140,17 +140,17 @@
   },
   {
     "n": 21,
-    "id": "eOlEDSnsD",
-    "title": "Condenado por robo armado. O.J. Simpson cumplió su sentencia: \"Es un hombre completamente libre\"",
-    "url": "https://www.clarin.com/deportes/j-simpson-cumplio-condena-hombre-completamente-libre-_0_eOlEDSnsD.html",
-    "image": "https://images.clarin.com/2021/12/14/_Q9Y_Qto3_720x0__1.jpg"
-  },
-  {
-    "n": 22,
     "id": "WW37mnlh-",
     "title": "Decepciones. No todos fueron éxitos: los 6 fracasos más estrepitosos de Netflix en 2021",
     "url": "https://www.clarin.com/internacional/espectaculos/6-fracasos-estrepitosos-netflix-2021_0_WW37mnlh-.html",
     "image": "https://images.clarin.com/2021/12/13/ourfMXi2Z_720x0__1.jpg"
+  },
+  {
+    "n": 22,
+    "id": "RBzGZt1tj",
+    "title": "Exposición en el CCK. Larvas pintoras, la vida vista por un perro y otras formas de acercarse a los \"no humanos\"",
+    "url": "https://www.clarin.com/cultura/larvas-pintoras-vida-vista-perro-formas-acercarnos-humanos-_0_RBzGZt1tj.html",
+    "image": "https://images.clarin.com/2021/10/29/DUf8wh9DV_720x0__1.jpg"
   },
   {
     "n": 23,
@@ -161,10 +161,10 @@
   },
   {
     "n": 24,
-    "id": "YWvLLZW0t",
-    "title": "\"El búho humano\". La increíble historia del hombre que podía girar la cabeza 180 grados",
-    "url": "https://www.clarin.com/internacional/increible-historia-martin-laurello-hombre-podia-girar-cabeza-180-grados_0_YWvLLZW0t.html",
-    "image": "https://images.clarin.com/2021/12/13/44a3fxRk5_1256x620__2.jpg#1639401608680"
+    "id": "Tu6nZX43j",
+    "title": "Volvió la Guerra Fría al ajedrez. Acusan de traición a un gran maestro ruso por ayudar a Magnus Carlsen",
+    "url": "https://www.clarin.com/deportes/volvio-guerra-fria-ajedrez-acusan-traicion-gran-maestro-ruso-ayudar-magnus-carlsen_0_Tu6nZX43j.html",
+    "image": "https://images.clarin.com/2021/12/14/kftHMrJPv_1256x620__2.jpg#1639519842919"
   },
   {
     "n": 25,
@@ -176,7 +176,7 @@
   {
     "n": 26,
     "id": "BJ20F4BRT",
-    "title": "Del editor al lector. Un juez que increíblemente sigue siendo juez",
+    "title": "Del editor. Un juez que increíblemente sigue siendo juez",
     "url": "https://www.clarin.com/opinion/juez-increiblemente-sigue-juez_0_BJ20F4BRT.html",
     "image": "https://images.clarin.com/2021/08/10/djcRcE-TP_720x0__1.jpg"
   },
@@ -204,7 +204,7 @@
   {
     "n": 30,
     "id": "eAdCk_fnm",
-    "title": "Foco Económico. Los \"dibujos\" de Martín Guzmán que llenan de dudas a los mercados",
+    "title": "Foco económico. Los \"dibujos\" de Martín Guzmán que llenan de dudas a los mercados",
     "url": "https://www.clarin.com/opinion/-mercado-cree-acuerdo-fmi-despegue-k-_0_eAdCk_fnm.html",
     "image": "https://images.clarin.com/2021/12/14/ogeqobuOa_720x0__1.jpg"
   },
