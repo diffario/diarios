@@ -709,7 +709,7 @@
   {
     "n": 102,
     "id": "https://www.infobae.com/politica/2021/12/23/entre-rios-la-capital-entro-en-alerta-por-la-ocupacion-de-camas-de-terapia-ante-el-rebrote-de-covid/",
-    "title": "Entre Ríos: la capital entró en alerta por la ocupación de camas de terapia ante el rebrote de COVID",
+    "title": "Entre Ríos: la capital entró en alerta por la ocupación de camas de terapia ante el rebrote de COVID-19",
     "url": "https://www.infobae.com/politica/2021/12/23/entre-rios-la-capital-entro-en-alerta-por-la-ocupacion-de-camas-de-terapia-ante-el-rebrote-de-covid/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/BBEAO7AZMZCDBF6NPCJA3M237M"
   },
@@ -778,37 +778,37 @@
   },
   {
     "n": 112,
+    "id": "https://www.infobae.com/america/deportes/2021/12/23/sebastian-cordova-acepto-que-hubo-diferencias-entre-el-y-santiago-solari/",
+    "title": "Sebastián Córdova aceptó que hubo diferencias entre él y Santiago Solari",
+    "url": "https://www.infobae.com/america/deportes/2021/12/23/sebastian-cordova-acepto-que-hubo-diferencias-entre-el-y-santiago-solari/",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/WDSMZGYLVJGUPDWKUXIIPY4EJA.jpg"
+  },
+  {
+    "n": 113,
     "id": "https://www.infobae.com/america/deportes/2021/12/23/cuales-son-los-detalles-del-contrato-de-jonathan-dos-santos-con-america/",
     "title": "Cuáles son los detalles del contrato de Jonathan dos Santos con América ",
     "url": "https://www.infobae.com/america/deportes/2021/12/23/cuales-son-los-detalles-del-contrato-de-jonathan-dos-santos-con-america/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/LIOYER27WJYYZNDID7O53HPTKI.jpg"
   },
   {
-    "n": 113,
+    "n": 114,
     "id": "https://www.infobae.com/america/deportes/2021/12/23/por-que-mario-garcia-entrenador-de-atlante-aseguro-ser-el-tecnico-ideal-para-chivas/",
     "title": "Por qué Mario García, entrenador de Atlante, aseguró ser el técnico ideal para Chivas",
     "url": "https://www.infobae.com/america/deportes/2021/12/23/por-que-mario-garcia-entrenador-de-atlante-aseguro-ser-el-tecnico-ideal-para-chivas/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/E2SW4IXICNEFDGRMBDH2IURD5E.jpeg"
   },
   {
-    "n": 114,
+    "n": 115,
     "id": "https://www.infobae.com/deportes/2021/12/23/oscar-ruggeri-sorprendio-con-una-prediccion-sobre-lionel-messi-para-2022/",
     "title": "Oscar Ruggeri sorprendió con una predicción sobre Lionel Messi para 2022",
     "url": "https://www.infobae.com/deportes/2021/12/23/oscar-ruggeri-sorprendio-con-una-prediccion-sobre-lionel-messi-para-2022/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/KSOKXDEZCZCBBJJZQTAJKK724Q.JPG"
   },
   {
-    "n": 115,
+    "n": 116,
     "id": "https://www.infobae.com/america/deportes/2021/12/23/como-seria-la-nueva-playera-del-america-para-el-clausura-2022/",
     "title": "Cómo sería la nueva playera del América para el Clausura 2022",
     "url": "https://www.infobae.com/america/deportes/2021/12/23/como-seria-la-nueva-playera-del-america-para-el-clausura-2022/",
     "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/ABH6WPAVFVDGRG35P2QHZVLVEY.jpg"
-  },
-  {
-    "n": 116,
-    "id": "https://www.infobae.com/america/deportes/2021/12/23/asi-quedo-el-ranking-fifa-2021-por-que-es-clave-para-el-mundial-de-qatar-2022/",
-    "title": "Así quedó el ranking FIFA 2021: por qué es clave para el Mundial de Qatar 2022",
-    "url": "https://www.infobae.com/america/deportes/2021/12/23/asi-quedo-el-ranking-fifa-2021-por-que-es-clave-para-el-mundial-de-qatar-2022/",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/S3LJQSCSRNH3TADZ4PTCZZZS6I"
   }
 ]
