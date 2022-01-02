@@ -86,7 +86,7 @@
   {
     "n": 13,
     "id": "Bury1JKr1",
-    "title": "Cuatriciclos en Pinamar. Advierten que \"el principal problema de salud no es el covid, sino los accidentes\"",
+    "title": "Alerta por cuatriciclos. \"El problema más grande de salud de Pinamar no es el Covid, sino los accidentes\"",
     "url": "https://www.clarin.com/sociedad/cuatriciclos-problema-grande-salud-pinamar-covid-accidentes-viales-_0_Bury1JKr1.html",
     "image": "https://images.clarin.com/2022/01/02/6HVft-sjw_720x0__1.jpg"
   },
@@ -100,7 +100,7 @@
   {
     "n": 15,
     "id": "l4GtG7tOX",
-    "title": "Murió una joven. Detuvieron a un hombre por la balacera de Año Nuevo en La Tablada ",
+    "title": "Murió una joven. Detuvieron a un hombre de 20 años por la balacera de Año Nuevo en La Tablada ",
     "url": "https://www.clarin.com/policiales/detuvieron-joven-balacera-ano-nuevo-tablada-murio-adolescente_0_l4GtG7tOX.html",
     "image": "https://images.clarin.com/2022/01/01/S6M2J6R6l_720x0__1.jpg"
   },
@@ -140,17 +140,17 @@
   },
   {
     "n": 21,
-    "id": "zZD23ohB2",
-    "title": "El alto costo de la tecnología. Cuántos días tienen que trabajar los argentinos para comprar un iPhone 13",
-    "url": "https://www.clarin.com/economia/argentinos-trabajar-170-dias-comprar-iphone-13_0_zZD23ohB2.html",
-    "image": "https://images.clarin.com/2021/09/24/DDarvZS9V_720x0__1.jpg"
-  },
-  {
-    "n": 22,
     "id": "QVjRaBg-G",
     "title": "Entrevista. Romina Quercia, investigadora argentina: \"Ómicron tomó las mejores mutaciones de todas las variantes y las juntó\"",
     "url": "https://www.clarin.com/mundo/romina-quercia-investigadora-argentina-omicron-tomo-mejores-mutaciones-todas-variantes-junto-_0_QVjRaBg-G.html",
     "image": "https://images.clarin.com/2021/12/02/hwd964OEr_720x0__1.jpg"
+  },
+  {
+    "n": 22,
+    "id": "ARhaG-VWO",
+    "title": "Accidente fatal. Misiones: dos muertos en un choque frontal entre un micro y una camioneta",
+    "url": "https://www.clarin.com/sociedad/misiones-muertos-choque-frontal-micro-camioneta_0_ARhaG-VWO.html",
+    "image": "https://images.clarin.com/2022/01/02/dRYNzW8rv_720x0__1.jpg"
   },
   {
     "n": 23,
@@ -343,17 +343,17 @@
   },
   {
     "n": 50,
+    "id": "hyYbXvx3k",
+    "title": "Con juveniles. Pese a las 16 bajas, el Barcelona se llevó una victoria de Mallorca",
+    "url": "https://www.clarin.com/deportes/pese-16-bajas-barcelona-llevo-victoria-mallorca_0_hyYbXvx3k.html",
+    "image": "https://images.clarin.com/2022/01/02/iNiP00620_720x0__1.jpg"
+  },
+  {
+    "n": 51,
     "id": "D8y4mwjO-",
     "title": "De una vieja rival. El cariñoso saludo de Monica Seles para Gaby Sabatini: \"Tu sonrisa me hace sonreír\"",
     "url": "https://www.clarin.com/deportes/carinoso-saludo-monica-seles-gaby-sabatini-sonrisa-hace-sonreir-_0_D8y4mwjO-.html",
     "image": "https://images.clarin.com/2018/04/29/BJisJhETG_720x0__1.jpg"
-  },
-  {
-    "n": 51,
-    "id": "PIEl2KpfI",
-    "title": "De una leyenda a otra. El conmovedor homenaje de Thierry Henry al Kun Agüero: \"¡Qué jugador que era!\"",
-    "url": "https://www.clarin.com/deportes/titi-henry-homenaje-kun-aguero-premier_0_PIEl2KpfI.html",
-    "image": "https://images.clarin.com/2021/02/25/T3wO-pwHo_720x0__1.jpg"
   },
   {
     "n": 52,
@@ -364,10 +364,10 @@
   },
   {
     "n": 53,
-    "id": "fJFSRzNP7",
-    "title": "Autos 2022. Más exportaciones y precios internos a nivel del dólar blue",
-    "url": "https://www.clarin.com/economia/autos-2022-exportaciones-precios-internos-nivel-dolar-blue_0_fJFSRzNP7.html",
-    "image": "https://images.clarin.com/2021/09/21/wqSKZ-ZCs_720x0__1.jpg"
+    "id": "zZD23ohB2",
+    "title": "Alto costo de la tecnología. Cuántos días tienen que trabajar los argentinos para comprar un iPhone 13",
+    "url": "https://www.clarin.com/economia/argentinos-trabajar-170-dias-comprar-iphone-13_0_zZD23ohB2.html",
+    "image": "https://images.clarin.com/2021/09/24/DDarvZS9V_720x0__1.jpg"
   },
   {
     "n": 54,
@@ -378,23 +378,23 @@
   },
   {
     "n": 55,
+    "id": "VFfQyudU_",
+    "title": "Economía de No Ficción. \"¿Quién fue el boludo?\": Remes Lenicov ante la famosa frase de Duhalde",
+    "url": "https://www.clarin.com/economia/economia-de-no-ficcion/-boludo-pregunta-remes-lenicov-escuchar-famosa-frase-duhalde_0_VFfQyudU_.html",
+    "image": "https://images.clarin.com/2022/01/01/TKQR4uAG0_1256x620__2.jpg#1641059513148"
+  },
+  {
+    "n": 56,
+    "id": "fJFSRzNP7",
+    "title": "Autos 2022. Más exportaciones y precios internos a nivel del dólar blue",
+    "url": "https://www.clarin.com/economia/autos-2022-exportaciones-precios-internos-nivel-dolar-blue_0_fJFSRzNP7.html",
+    "image": "https://images.clarin.com/2021/09/21/wqSKZ-ZCs_720x0__1.jpg"
+  },
+  {
+    "n": 57,
     "id": "-CaKnagd5",
     "title": "Entrevista. Andrés Borenstein: \"Será un verano difícil, el dólar tenderá a pegar un salto\"",
     "url": "https://www.clarin.com/economia/andres-borenstein-verano-dificil-dolar-tendera-pegar-salto-_0_-CaKnagd5.html",
     "image": "https://images.clarin.com/2022/01/01/VN5bxQ9_v_720x0__1.jpg"
-  },
-  {
-    "n": 56,
-    "id": "kXJ7mHZtI",
-    "title": "Política Tributaria. Reforma fiscal 2021-22: un tsunami contra el crecimiento de la Argentina",
-    "url": "https://www.clarin.com/economia/reforma-fiscal-2021-22-tsunami-crecimiento-argentina_0_kXJ7mHZtI.html",
-    "image": "https://images.clarin.com/2021/12/27/U23qnD7tS_720x0__1.jpg"
-  },
-  {
-    "n": 57,
-    "id": "sEecCzjSq",
-    "title": "Estrategia. Más digitales: los bancos apuestan por un modelo de atención \"híbrido\"",
-    "url": "https://www.clarin.com/economia/publicar-digitales-bancos-apuntan-modelo-atencion-hibrido-_0_sEecCzjSq.html",
-    "image": "https://images.clarin.com/2020/11/24/8rfjRuDIU_720x0__1.jpg"
   }
 ]
