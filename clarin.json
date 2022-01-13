@@ -2,7 +2,7 @@
   {
     "n": 1,
     "id": "VEVWd3UgIu",
-    "title": "La tercera ola. Coronavirus: reportan otros 128.402 nuevos contagios y hubo un salto en la cifra de fallecidos",
+    "title": "La tercera ola. Coronavirus: reportan otros 128.402 nuevos contagios y hubo un salto en la cifra de muertes",
     "url": "https://www.clarin.com/sociedad/coronavirus-argentina-reportan-128-402-nuevos-contagios-139-muertes-ultimas-24-horas_0_VEVWd3UgIu.html",
     "image": "https://images.clarin.com/2022/01/10/YnsGooOYL_720x0__1.jpg"
   },
@@ -36,31 +36,31 @@
   },
   {
     "n": 6,
-    "id": "HuNlYqZS5",
-    "title": "Ante los cortes de luz. Las empresas analizarán sector por sector el pedido oficial de reducir el consumo eléctrico",
-    "url": "https://www.clarin.com/economia/cortes-luz-empresas-colaboran-pedido-gobierno-uia-aclaran-analizara-sector-sector_0_HuNlYqZS5.html",
-    "image": "https://images.clarin.com/2022/01/01/6rwvPtVmr_720x0__1.jpg"
+    "id": "YWHhAjRuA",
+    "title": "Temor a los cortes de luz. El Gobierno dispuso que los empleados públicos trabajen en sus casas pero la Ciudad no adhirió a la medida",
+    "url": "https://www.clarin.com/politica/ahorrar-energia-gobierno-dispuso-empleados-publicos-trabajen-distancia_0_YWHhAjRuA.html",
+    "image": "https://images.clarin.com/2021/12/29/mo9Bwzdha_720x0__1.jpg"
   },
   {
     "n": 7,
     "id": "RrdTLtL8j8",
-    "title": "Crisis repetida. Asuesto a empleados públicos: el Gobierno tomó una medida igual que Alfonsín en 1989",
+    "title": "Crisis repetida. Cortes de luz: 33 años después, el Gobierno reaccionó con una medida igual a la de Alfonsín",
     "url": "https://www.clarin.com/politica/gobierno-tomo-medida-igual-raul-alfonsin-1989-daban-asueto-empleados-publicos-ahorrar-luz_0_RrdTLtL8j8.html",
     "image": "https://images.clarin.com/2022/01/13/sKqFdTfUN_720x0__1.jpg"
   },
   {
     "n": 8,
-    "id": "RlkK7KZUC",
-    "title": "Asalto a McDonalds y Galicia. La transportadora de caudales del robo millonario también se quedó con $160 millones de una empresa del juego",
-    "url": "https://www.clarin.com/politica/transportadora-caudales-robo-millonario-quedo-160-millones-empresa-juego_0_RlkK7KZUC.html",
-    "image": "https://images.clarin.com/2016/05/05/Hkev9olJVe_720x0.jpg"
-  },
-  {
-    "n": 9,
     "id": "2nZgX6e0d",
     "title": "Con golpes y un puntazo. Encontraron a un ex rugbier muerto en la caja de una camioneta y con $ 180.000",
     "url": "https://www.clarin.com/zonales/aparecio-muerto-caja-camioneta-180-000-ex-rugbier-presidente-club-vilo-marcelo-longhi_0_2nZgX6e0d.html",
     "image": "https://images.clarin.com/2022/01/13/m13BOrjgL_720x0__1.jpg"
+  },
+  {
+    "n": 9,
+    "id": "RlkK7KZUC",
+    "title": "Asalto a McDonalds y Galicia. La transportadora de caudales del robo millonario también se quedó con $160 millones de una empresa del juego",
+    "url": "https://www.clarin.com/politica/transportadora-caudales-robo-millonario-quedo-160-millones-empresa-juego_0_RlkK7KZUC.html",
+    "image": "https://images.clarin.com/2016/05/05/Hkev9olJVe_720x0.jpg"
   },
   {
     "n": 10,
@@ -198,7 +198,7 @@
   {
     "n": 29,
     "id": "VEVWd3UgIu",
-    "title": "La tercera ola. Coronavirus: reportan otros 128.402 nuevos contagios y hubo un salto en la cifra de fallecidos",
+    "title": "La tercera ola. Coronavirus: reportan otros 128.402 nuevos contagios y hubo un salto en la cifra de muertes",
     "url": "https://www.clarin.com/sociedad/coronavirus-argentina-reportan-128-402-nuevos-contagios-139-muertes-ultimas-24-horas_0_VEVWd3UgIu.html",
     "image": "https://images.clarin.com/2022/01/10/YnsGooOYL_720x0__1.jpg"
   },
@@ -232,10 +232,10 @@
   },
   {
     "n": 34,
-    "id": "HuNlYqZS5",
-    "title": "Ante los cortes de luz. Las empresas analizarán sector por sector el pedido oficial de reducir el consumo eléctrico",
-    "url": "https://www.clarin.com/economia/cortes-luz-empresas-colaboran-pedido-gobierno-uia-aclaran-analizara-sector-sector_0_HuNlYqZS5.html",
-    "image": "https://images.clarin.com/2022/01/01/6rwvPtVmr_720x0__1.jpg"
+    "id": "YWHhAjRuA",
+    "title": "Temor a los cortes de luz. El Gobierno dispuso que los empleados públicos trabajen en sus casas pero la Ciudad no adhirió a la medida",
+    "url": "https://www.clarin.com/politica/ahorrar-energia-gobierno-dispuso-empleados-publicos-trabajen-distancia_0_YWHhAjRuA.html",
+    "image": "https://images.clarin.com/2021/12/29/mo9Bwzdha_720x0__1.jpg"
   },
   {
     "n": 35,
@@ -505,7 +505,7 @@
   {
     "n": 73,
     "id": "qSqjCIHsq",
-    "title": "Supercopa de España. El Athletic de Bilbao se lo da vuelta al Atlético de Simeone en una ráfaga",
+    "title": "Supercopa de España. El Atlético de Simeone se durmió y quedó eliminado en una ráfaga",
     "url": "https://www.clarin.com/deportes/atletico-madrid-vs-athletic-bilbao-supercopa-espana-previa-alineaciones-directo_0_qSqjCIHsq.html",
     "image": "https://images.clarin.com/2022/01/13/1uK_Bq29S_1256x620__2.jpg#1642106725168"
   },
